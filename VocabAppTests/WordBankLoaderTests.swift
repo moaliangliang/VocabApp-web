@@ -6,14 +6,14 @@ final class WordBankLoaderTests: XCTestCase {
 
     func testLoadCET4WordsReturnsWords() {
         let words = WordBankLoader.loadWords(courseID: "CET4")
-        XCTAssertEqual(words.count, 5)
+        XCTAssertEqual(words.count, 500)
         XCTAssertEqual(words.first?.word, "abandon")
         XCTAssertEqual(words.first?.courseID, "CET4")
     }
 
     func testLoadCET6Words() {
         let words = WordBankLoader.loadWords(courseID: "CET6")
-        XCTAssertEqual(words.count, 3)
+        XCTAssertEqual(words.count, 500)
     }
 
     func testLoadNonexistentCourseReturnsEmpty() {
