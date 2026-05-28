@@ -1,0 +1,76 @@
+{
+  "courseID": "CET4",
+  "courseName": "四级词汇",
+  "words": [
+    {
+      "id": "CET4_001",
+      "word": "abandon",
+      "phonetic": "/əˈbændən/",
+      "partOfSpeech": "v.",
+      "meaning": "放弃，遗弃",
+      "examples": [
+        "He abandoned his plan to travel abroad.",
+        "The crew abandoned the sinking ship."
+      ],
+      "rootAffix": "a-(向) + band(捆绑) + -on → 解除捆绑 → 放弃",
+      "synonyms": ["desert", "give up", "forsake"],
+      "antonyms": ["keep", "maintain", "retain"]
+    },
+    {
+      "id": "CET4_002",
+      "word": "absorb",
+      "phonetic": "/əbˈzɔːrb/",
+      "partOfSpeech": "v.",
+      "meaning": "吸收；吸引",
+      "examples": [
+        "Plants absorb carbon dioxide.",
+        "She was absorbed in her book."
+      ],
+      "rootAffix": "ab-(加强) + sorb(吸收) → 吸收",
+      "synonyms": ["take in", "soak up"],
+      "antonyms": ["release", "emit"]
+    },
+    {
+      "id": "CET4_003",
+      "word": "academic",
+      "phonetic": "/ˌækəˈdemɪk/",
+      "partOfSpeech": "adj.",
+      "meaning": "学术的；学院的",
+      "examples": [
+        "She has a strong academic background.",
+        "The academic year starts in September."
+      ],
+      "rootAffix": "academ(学院) + -ic(形容词后缀) → 学术的",
+      "synonyms": ["educational", "scholarly"],
+      "antonyms": ["practical", "nonacademic"]
+    },
+    {
+      "id": "CET4_004",
+      "word": "accelerate",
+      "phonetic": "/əkˈseləreɪt/",
+      "partOfSpeech": "v.",
+      "meaning": "加速；促进",
+      "examples": [
+        "The car accelerated rapidly.",
+        "Exercise accelerates the heartbeat."
+      ],
+      "rootAffix": "ac-(加强) + celer(速度) + -ate(动词后缀) → 加速",
+      "synonyms": ["speed up", "hasten", "quicken"],
+      "antonyms": ["decelerate", "slow down"]
+    },
+    {
+      "id": "CET4_005",
+      "word": "access",
+      "phonetic": "/ˈækses/",
+      "partOfSpeech": "n. & v.",
+      "meaning": "通道；接近；访问",
+      "examples": [
+        "Students have access to the library.",
+        "You can access the file online."
+      ],
+      "rootAffix": "ac-(向) + cess(走) → 走向 → 接近/通道",
+      "synonyms": ["entrance", "entry", "admission"],
+      "antonyms": ["block", "obstruction"]
+    }
+  ]
+}

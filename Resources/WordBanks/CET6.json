@@ -1,0 +1,39 @@
+{
+  "courseID": "CET6",
+  "courseName": "六级词汇",
+  "words": [
+    {
+      "id": "CET6_001",
+      "word": "abolish",
+      "phonetic": "/əˈbɑːlɪʃ/",
+      "partOfSpeech": "v.",
+      "meaning": "废除，废止",
+      "examples": ["The government abolished the old tax system."],
+      "rootAffix": "ab-(脱离) + ol(生长) + -ish → 使不再生长 → 废除",
+      "synonyms": ["eliminate", "eradicate"],
+      "antonyms": ["establish", "institute"]
+    },
+    {
+      "id": "CET6_002",
+      "word": "absurd",
+      "phonetic": "/əbˈsɜːrd/",
+      "partOfSpeech": "adj.",
+      "meaning": "荒谬的，可笑的",
+      "examples": ["The idea seems absurd to me."],
+      "rootAffix": "ab-(加强) + surd(聋的/钝的) → 不通事理 → 荒谬",
+      "synonyms": ["ridiculous", "foolish"],
+      "antonyms": ["sensible", "logical"]
+    },
+    {
+      "id": "CET6_003",
+      "word": "abundance",
+      "phonetic": "/əˈbʌndəns/",
+      "partOfSpeech": "n.",
+      "meaning": "丰富，充裕",
+      "examples": ["There is an abundance of natural resources."],
+      "rootAffix": "ab-(加强) + und(波) + -ance → 波浪涌来 → 丰富",
+      "synonyms": ["plenty", "wealth"],
+      "antonyms": ["scarcity", "shortage"]
+    }
+  ]
+}
