@@ -7,6 +7,7 @@ struct SettingsView: View {
 
     @State private var showMakeupAlert = false
     @State private var makeupMessage = ""
+    @State private var iCloudStatusText = "已启用"
 
     var body: some View {
         NavigationStack {
@@ -39,8 +40,16 @@ struct SettingsView: View {
 
                 // iCloud
                 Section("同步") {
-                    Toggle("iCloud 同步", isOn: .constant(true))
-                        .disabled(true) // 完整版开启
+                    HStack {
+                        Image(systemName: "icloud.fill")
+                            .foregroundColor(.blue)
+                        VStack(alignment: .leading) {
+                            Text("iCloud 同步")
+                            Text(iCloudStatusText)
+                                .font(.caption)
+                                .foregroundColor(.secondary)
+                        }
+                    }
                 }
 
                 // 关于
