@@ -4,16 +4,31 @@ import SwiftData
 
 @Model
 final class Word: @unchecked Sendable {
-    @Attribute(.unique) var id: String       // 格式: "CET4_001"
+    @Attribute(.unique) var id: String
     var word: String
     var phonetic: String
-    var meaning: String                      // 中文释义
-    var partOfSpeech: String                 // 词性
-    var examples: [String]                   // 例句数组
-    var rootAffix: String                    // 词根词缀拆解
-    var synonyms: [String]                   // 同义词
-    var antonyms: [String]                   // 反义词
-    var courseID: String                     // 所属课程 ID
+    var meaning: String
+    var partOfSpeech: String
+    var rootAffix: String
+    var courseID: String
+    var examplesJSON: String = "[]"
+    var synonymsJSON: String = "[]"
+    var antonymsJSON: String = "[]"
+
+    var examples: [String] {
+        get { decodeJSON(examplesJSON) }
+        set { examplesJSON = encodeJSON(newValue) }
+    }
+
+    var synonyms: [String] {
+        get { decodeJSON(synonymsJSON) }
+        set { synonymsJSON = encodeJSON(newValue) }
+    }
+
+    var antonyms: [String] {
+        get { decodeJSON(antonymsJSON) }
+        set { antonymsJSON = encodeJSON(newValue) }
+    }
 
     init(id: String, word: String, phonetic: String, meaning: String, partOfSpeech: String,
          examples: [String] = [], rootAffix: String = "", synonyms: [String] = [],
@@ -23,10 +38,22 @@ final class Word: @unchecked Sendable {
         self.phonetic = phonetic
         self.meaning = meaning
         self.partOfSpeech = partOfSpeech
-        self.examples = examples
         self.rootAffix = rootAffix
-        self.synonyms = synonyms
-        self.antonyms = antonyms
         self.courseID = courseID
+        self.examplesJSON = encodeJSON(examples)
+        self.synonymsJSON = encodeJSON(synonyms)
+        self.antonymsJSON = encodeJSON(antonyms)
     }
+}
+
+private func encodeJSON(_ arr: [String]) -> String {
+    (try? String(data: JSONEncoder().encode(arr), encoding: .utf8)) ?? "[]"
+}
+
+private func decodeJSON(_ json: String) -> [String] {
+    guard let data = json.data(using: .utf8),
+          let arr = try? JSONDecoder().decode([String].self, from: data) else {
+        return []
+    }
+    return arr
 }

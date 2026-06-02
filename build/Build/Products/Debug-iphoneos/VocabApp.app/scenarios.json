@@ -1,0 +1,1817 @@
+{
+  "scenarios": [
+    {
+      "id": "greeting",
+      "title": "问候与介绍",
+      "icon": "hand.wave",
+      "dialogues": [
+        {
+          "id": "greet_01",
+          "title": "初次见面",
+          "lines": [
+            {
+              "speaker": "A",
+              "en": "Hi! Nice to meet you. I'm Li Wei.",
+              "zh": "你好！很高兴认识你。我叫李伟。"
+            },
+            {
+              "speaker": "B",
+              "en": "Nice to meet you too, Li Wei. I'm Sarah. Are you new here?",
+              "zh": "我也很高兴认识你，李伟。我是莎拉。你是新来的吗？"
+            },
+            {
+              "speaker": "A",
+              "en": "Yes, I just started working in the marketing department.",
+              "zh": "是的，我刚来市场部工作。"
+            },
+            {
+              "speaker": "B",
+              "en": "That's great! Welcome aboard. Let me know if you need any help.",
+              "zh": "太好了！欢迎加入。如果需要帮忙就告诉我。"
+            }
+          ]
+        },
+        {
+          "id": "greet_02",
+          "title": "好久不见",
+          "lines": [
+            {
+              "speaker": "A",
+              "en": "Hey Mike! Long time no see! How have you been?",
+              "zh": "嘿，迈克！好久不见！你最近怎么样？"
+            },
+            {
+              "speaker": "B",
+              "en": "Wow, it's been ages! I've been doing well. I moved to Shanghai last year.",
+              "zh": "哇，真是好久不见了！我挺好的。去年我搬到了上海。"
+            },
+            {
+              "speaker": "A",
+              "en": "Really? How do you like it there?",
+              "zh": "真的吗？你觉得那里怎么样？"
+            },
+            {
+              "speaker": "B",
+              "en": "It's busy but exciting. You should come visit sometime!",
+              "zh": "很忙碌但也很精彩。你应该找时间来玩！"
+            },
+            {
+              "speaker": "A",
+              "en": "I'd love to! Let's make a plan.",
+              "zh": "我很想去！我们定个计划吧。"
+            }
+          ]
+        },
+        {
+          "id": "greet_03",
+          "title": "正式介绍",
+          "lines": [
+            {
+              "speaker": "A",
+              "en": "Professor Chen, I'd like to introduce my colleague, Dr. Wang.",
+              "zh": "陈教授，我想给您介绍我的同事王博士。"
+            },
+            {
+              "speaker": "B",
+              "en": "Hello, Dr. Wang. I've read your papers on climate research. Impressive work.",
+              "zh": "你好，王博士。我读过您关于气候研究的论文。非常出色。"
+            },
+            {
+              "speaker": "C",
+              "en": "Thank you, Professor Chen. I'm honored to meet you.",
+              "zh": "谢谢您，陈教授。很荣幸见到您。"
+            },
+            {
+              "speaker": "A",
+              "en": "Let's grab a seat and continue our discussion.",
+              "zh": "我们坐下继续聊吧。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "family",
+      "title": "家人与朋友",
+      "icon": "person.2",
+      "dialogues": [
+        {
+          "id": "family_01",
+          "title": "聊家人",
+          "lines": [
+            {
+              "speaker": "A",
+              "en": "Do you have any siblings?",
+              "zh": "你有兄弟姐妹吗？"
+            },
+            {
+              "speaker": "B",
+              "en": "Yes, I have an older sister. She's a doctor in Beijing.",
+              "zh": "有，我有个姐姐。她在北京当医生。"
+            },
+            {
+              "speaker": "A",
+              "en": "That's impressive! Is she older than you by much?",
+              "zh": "真厉害！她比你大很多吗？"
+            },
+            {
+              "speaker": "B",
+              "en": "She's three years older. We're pretty close.",
+              "zh": "她比我大三岁。我们关系很好。"
+            },
+            {
+              "speaker": "A",
+              "en": "That's nice. My brother lives abroad, so I don't see him often.",
+              "zh": "真好。我哥哥住在国外，所以不常见面。"
+            }
+          ]
+        },
+        {
+          "id": "family_02",
+          "title": "周末聚会",
+          "lines": [
+            {
+              "speaker": "A",
+              "en": "Are you doing anything this weekend?",
+              "zh": "这周末你有什么安排吗？"
+            },
+            {
+              "speaker": "B",
+              "en": "Not really. Why do you ask?",
+              "zh": "没什么特别的。怎么这么问？"
+            },
+            {
+              "speaker": "A",
+              "en": "A few friends and I are having a barbecue on Saturday. You should come!",
+              "zh": "我和几个朋友周六要烧烤。你也来吧！"
+            },
+            {
+              "speaker": "B",
+              "en": "Sounds fun! What should I bring?",
+              "zh": "听起来不错！我需要带点什么吗？"
+            },
+            {
+              "speaker": "A",
+              "en": "Just bring yourself. Maybe some drinks if you'd like.",
+              "zh": "人来了就行。如果想带点饮料也可以。"
+            },
+            {
+              "speaker": "B",
+              "en": "Alright, I'll bring some craft beer. See you Saturday!",
+              "zh": "好的，我带点精酿啤酒。周六见！"
+            }
+          ]
+        },
+        {
+          "id": "family_03",
+          "title": "老朋友叙旧",
+          "lines": [
+            {
+              "speaker": "A",
+              "en": "I can't believe it's been five years since graduation!",
+              "zh": "真不敢相信毕业已经五年了！"
+            },
+            {
+              "speaker": "B",
+              "en": "Time flies. Remember that crazy road trip we took?",
+              "zh": "时间过得真快。还记得我们那次疯狂的公路旅行吗？"
+            },
+            {
+              "speaker": "A",
+              "en": "How could I forget? We got lost somewhere in the mountains.",
+              "zh": "怎么可能忘记。我们在山里迷路了。"
+            },
+            {
+              "speaker": "B",
+              "en": "And we ended up at that little village. The locals were so kind.",
+              "zh": "结果我们去了那个小村庄。当地人特别热情。"
+            },
+            {
+              "speaker": "A",
+              "en": "We should plan another trip soon. It's been too long.",
+              "zh": "我们应该尽快再计划一次旅行。太久没去了。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "datetime",
+      "title": "时间与日期",
+      "icon": "calendar",
+      "dialogues": [
+        {
+          "id": "datetime_01",
+          "title": "约时间",
+          "lines": [
+            {
+              "speaker": "A",
+              "en": "When would be a good time for you to meet?",
+              "zh": "你什么时候方便见面？"
+            },
+            {
+              "speaker": "B",
+              "en": "How about next Tuesday afternoon? Around 2 PM?",
+              "zh": "下周二下午怎么样？大概两点左右？"
+            },
+            {
+              "speaker": "A",
+              "en": "Let me check my calendar. Yes, Tuesday at 2 works for me.",
+              "zh": "我看一下日历。好的，周二两点可以。"
+            },
+            {
+              "speaker": "B",
+              "en": "Perfect. Shall we meet at the usual coffee shop?",
+              "zh": "太好了。我们在常去的那家咖啡馆碰面吧？"
+            },
+            {
+              "speaker": "A",
+              "en": "Sure. See you next Tuesday at 2.",
+              "zh": "好的。下周二两点见。"
+            }
+          ]
+        },
+        {
+          "id": "datetime_02",
+          "title": "确认日期",
+          "lines": [
+            {
+              "speaker": "A",
+              "en": "What's the date today?",
+              "zh": "今天几号？"
+            },
+            {
+              "speaker": "B",
+              "en": "It's March fifteenth.",
+              "zh": "今天是3月15号。"
+            },
+            {
+              "speaker": "A",
+              "en": "Oh, the deadline for the report is the day after tomorrow.",
+              "zh": "哦，报告截止日期是后天。"
+            },
+            {
+              "speaker": "B",
+              "en": "That's March seventeenth. Do you have enough time?",
+              "zh": "那就是3月17号。你时间够吗？"
+            },
+            {
+              "speaker": "A",
+              "en": "I think so. I'll finish it tomorrow evening.",
+              "zh": "应该够。我明天晚上之前完成。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "restaurant",
+      "title": "餐厅点餐",
+      "icon": "fork.knife",
+      "dialogues": [
+        {
+          "id": "restaurant_01",
+          "title": "点菜",
+          "lines": [
+            {
+              "speaker": "A",
+              "en": "Good evening, welcome to Sichuan Kitchen. Here's the menu.",
+              "zh": "晚上好，欢迎光临川味轩。这是菜单。"
+            },
+            {
+              "speaker": "B",
+              "en": "Thanks. What would you recommend?",
+              "zh": "谢谢。你有什么推荐的吗？"
+            },
+            {
+              "speaker": "A",
+              "en": "Our mapo tofu is very popular, and the kung pao chicken is a classic.",
+              "zh": "我们的麻婆豆腐很受欢迎，宫保鸡丁也是一道经典菜。"
+            },
+            {
+              "speaker": "B",
+              "en": "I'll try the mapo tofu and a bowl of steamed rice.",
+              "zh": "我来一份麻婆豆腐和一碗米饭。"
+            },
+            {
+              "speaker": "A",
+              "en": "Would you like anything to drink?",
+              "zh": "想喝点什么吗？"
+            },
+            {
+              "speaker": "B",
+              "en": "Just some hot green tea, please.",
+              "zh": "就一杯热绿茶吧。"
+            }
+          ]
+        },
+        {
+          "id": "restaurant_02",
+          "title": "预订座位",
+          "lines": [
+            {
+              "speaker": "A",
+              "en": "Hello, I'd like to make a reservation for tonight.",
+              "zh": "你好，我想预订今晚的座位。"
+            },
+            {
+              "speaker": "B",
+              "en": "Sure. How many people will be dining?",
+              "zh": "好的。请问几位用餐？"
+            },
+            {
+              "speaker": "A",
+              "en": "Four adults and two children.",
+              "zh": "四个大人和两个孩子。"
+            },
+            {
+              "speaker": "B",
+              "en": "We have a table available at 6:30 or 7:30 PM.",
+              "zh": "晚上6点半或7点半有空位。"
+            },
+            {
+              "speaker": "A",
+              "en": "7:30 works better for us. Under the name Wang, please.",
+              "zh": "7点半更适合我们。请用王先生的名字预订。"
+            },
+            {
+              "speaker": "B",
+              "en": "Got it. A table for six at 7:30 tonight. We'll see you then.",
+              "zh": "好的。今晚7点半，六位。到时候见。"
+            }
+          ]
+        },
+        {
+          "id": "restaurant_03",
+          "title": "结账",
+          "lines": [
+            {
+              "speaker": "A",
+              "en": "Could we have the check, please?",
+              "zh": "请给我们结账。"
+            },
+            {
+              "speaker": "B",
+              "en": "Sure. Here you go. The total is 286 yuan.",
+              "zh": "好的。这是账单。一共286元。"
+            },
+            {
+              "speaker": "A",
+              "en": "Can I pay by card?",
+              "zh": "可以用卡支付吗？"
+            },
+            {
+              "speaker": "B",
+              "en": "Of course. We accept Visa, Mastercard, and UnionPay.",
+              "zh": "当然可以。我们接受Visa、Mastercard和银联卡。"
+            },
+            {
+              "speaker": "A",
+              "en": "Here's my card. Keep the change.",
+              "zh": "这是我的卡。不用找了。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cafe",
+      "title": "咖啡馆",
+      "icon": "cup.and.saucer",
+      "dialogues": [
+        {
+          "id": "cafe_01",
+          "title": "点单",
+          "lines": [
+            {
+              "speaker": "A",
+              "en": "Welcome to Brew & Bean. What can I get for you today?",
+              "zh": "欢迎光临 Brew & Bean。今天想喝点什么？"
+            },
+            {
+              "speaker": "B",
+              "en": "I'll have a latte, please. With oat milk.",
+              "zh": "我要一杯拿铁。用燕麦奶。"
+            },
+            {
+              "speaker": "A",
+              "en": "One oat latte. Would you like any pastries? We have fresh croissants.",
+              "zh": "一杯燕麦奶拿铁。要来点糕点吗？我们有新鲜的可颂。"
+            },
+            {
+              "speaker": "B",
+              "en": "A croissant sounds great. How much is that altogether?",
+              "zh": "来个可颂挺好的。一共多少钱？"
+            },
+            {
+              "speaker": "A",
+              "en": "That'll be 52 yuan. Can I get your name?",
+              "zh": "一共52元。请问怎么称呼？"
+            },
+            {
+              "speaker": "B",
+              "en": "Lin. L-I-N.",
+              "zh": "林。"
+            }
+          ]
+        },
+        {
+          "id": "cafe_02",
+          "title": "朋友聊天",
+          "lines": [
+            {
+              "speaker": "A",
+              "en": "This cafe has such a cozy atmosphere.",
+              "zh": "这家咖啡馆氛围真温馨。"
+            },
+            {
+              "speaker": "B",
+              "en": "I know! I love coming here to read on weekends.",
+              "zh": "是啊！我周末喜欢来这里看书。"
+            },
+            {
+              "speaker": "A",
+              "en": "Their cold brew is excellent. Have you tried it?",
+              "zh": "他们的冷萃咖啡很好喝。你试过吗？"
+            },
+            {
+              "speaker": "B",
+              "en": "Not yet. I usually get a matcha latte.",
+              "zh": "还没呢。我一般都点抹茶拿铁。"
+            },
+            {
+              "speaker": "A",
+              "en": "You should try it next time. It's smooth and not too bitter.",
+              "zh": "下次你应该试试。口感很顺滑，不太苦。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cooking",
+      "title": "做饭",
+      "icon": "stove",
+      "dialogues": [
+        {
+          "id": "cooking_01",
+          "title": "一起做饭",
+          "lines": [
+            {
+              "speaker": "A",
+              "en": "What should we cook for dinner tonight?",
+              "zh": "今晚我们做什么吃？"
+            },
+            {
+              "speaker": "B",
+              "en": "How about spaghetti carbonara? I have all the ingredients.",
+              "zh": "做意大利培根蛋酱面怎么样？材料我都有。"
+            },
+            {
+              "speaker": "A",
+              "en": "Great! Can you teach me? I've never made it before.",
+              "zh": "好呀！你能教我吗？我以前从来没做过。"
+            },
+            {
+              "speaker": "B",
+              "en": "Sure. First, boil the pasta. While that's cooking, fry the bacon.",
+              "zh": "当然。先把面煮上。煮面的时候炒培根。"
+            },
+            {
+              "speaker": "A",
+              "en": "Then what? Do I add the eggs now?",
+              "zh": "然后呢？现在加鸡蛋吗？"
+            },
+            {
+              "speaker": "B",
+              "en": "Not yet. Mix the eggs with cheese first, then toss everything together off the heat.",
+              "zh": "先别加。先把鸡蛋和奶酪搅在一起，然后关火拌匀所有东西。"
+            },
+            {
+              "speaker": "A",
+              "en": "Got it. Let me give it a try!",
+              "zh": "明白了。让我来试试！"
+            }
+          ]
+        },
+        {
+          "id": "cooking_02",
+          "title": "买菜",
+          "lines": [
+            {
+              "speaker": "A",
+              "en": "We're out of eggs and milk. I need to go grocery shopping.",
+              "zh": "鸡蛋和牛奶都没了。我得去买菜了。"
+            },
+            {
+              "speaker": "B",
+              "en": "I'll come with you. Do we need anything else?",
+              "zh": "我跟你一起去。还需要别的吗？"
+            },
+            {
+              "speaker": "A",
+              "en": "Let me check the fridge. We also need some vegetables.",
+              "zh": "我看一下冰箱。还需要买些蔬菜。"
+            },
+            {
+              "speaker": "B",
+              "en": "How about making a stir-fry tonight? We can get broccoli and bell peppers.",
+              "zh": "今晚做个炒菜怎么样？我们可以买西兰花和甜椒。"
+            },
+            {
+              "speaker": "A",
+              "en": "Good idea. And let's grab some garlic and ginger too.",
+              "zh": "好主意。再买点大蒜和姜。"
+            },
+            {
+              "speaker": "B",
+              "en": "Alright, let's go before the market gets crowded.",
+              "zh": "好的，趁市场还没人多赶紧去。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "asking_directions",
+      "title": "问路",
+      "icon": "map",
+      "dialogues": [
+        {
+          "id": "directions_01",
+          "title": "问路",
+          "lines": [
+            {
+              "speaker": "A",
+              "en": "Excuse me, could you tell me how to get to the National Museum?",
+              "zh": "打扰一下，请问去国家博物馆怎么走？"
+            },
+            {
+              "speaker": "B",
+              "en": "Sure. Go straight for two blocks, then turn left at the traffic light.",
+              "zh": "好的。直走两个路口，在红绿灯处左转。"
+            },
+            {
+              "speaker": "A",
+              "en": "Is it far from here?",
+              "zh": "离这里远吗？"
+            },
+            {
+              "speaker": "B",
+              "en": "Not at all. It's about a ten-minute walk.",
+              "zh": "不远。走路大概十分钟。"
+            },
+            {
+              "speaker": "A",
+              "en": "Thanks a lot! And is there a subway station nearby?",
+              "zh": "非常感谢！附近有地铁站吗？"
+            },
+            {
+              "speaker": "B",
+              "en": "Yes, there's one right across the street. You can take Line 2.",
+              "zh": "有的，街对面就有一个。可以坐2号线。"
+            }
+          ]
+        },
+        {
+          "id": "directions_02",
+          "title": "找地方",
+          "lines": [
+            {
+              "speaker": "A",
+              "en": "I'm looking for a pharmacy. Is there one around here?",
+              "zh": "我在找药店。这附近有吗？"
+            },
+            {
+              "speaker": "B",
+              "en": "There's one on the next corner. You can't miss it.",
+              "zh": "下个街角就有一家。你一眼就能看到。"
+            },
+            {
+              "speaker": "A",
+              "en": "Is it open now? It's already 9 PM.",
+              "zh": "现在还在营业吗？已经晚上9点了。"
+            },
+            {
+              "speaker": "B",
+              "en": "Yes, it's a 24-hour pharmacy.",
+              "zh": "是的，那是24小时药店。"
+            },
+            {
+              "speaker": "A",
+              "en": "Perfect. Thank you so much!",
+              "zh": "太好了。非常感谢！"
+            }
+          ]
+        },
+        {
+          "id": "directions_03",
+          "title": "开车问路",
+          "lines": [
+            {
+              "speaker": "A",
+              "en": "Excuse me, is this the right way to the highway?",
+              "zh": "不好意思，这是去高速公路的路吗？"
+            },
+            {
+              "speaker": "B",
+              "en": "No, you're heading in the opposite direction. You need to turn around.",
+              "zh": "不是，你方向走反了。需要掉头。"
+            },
+            {
+              "speaker": "A",
+              "en": "Oh no. Could you point me in the right direction?",
+              "zh": "哦不。能告诉我正确的方向吗？"
+            },
+            {
+              "speaker": "B",
+              "en": "Go back to the last intersection and turn right. You'll see signs for the highway after about a mile.",
+              "zh": "倒回上一个路口右转。大概一英里后就能看到高速路的指示牌了。"
+            },
+            {
+              "speaker": "A",
+              "en": "Got it. I appreciate your help!",
+              "zh": "明白了。谢谢你的帮助！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "taxi",
+      "title": "打车",
+      "icon": "car",
+      "dialogues": [
+        {
+          "id": "taxi_01",
+          "title": "打出租车",
+          "lines": [
+            {
+              "speaker": "A",
+              "en": "Taxi! Are you available?",
+              "zh": "出租车！有空车吗？"
+            },
+            {
+              "speaker": "B",
+              "en": "Yes, hop in. Where to?",
+              "zh": "有空，上车吧。去哪儿？"
+            },
+            {
+              "speaker": "A",
+              "en": "I need to go to the train station, please.",
+              "zh": "我要去火车站。"
+            },
+            {
+              "speaker": "B",
+              "en": "The east station or the south station?",
+              "zh": "东站还是南站？"
+            },
+            {
+              "speaker": "A",
+              "en": "The south station. How long will it take?",
+              "zh": "南站。大概需要多久？"
+            },
+            {
+              "speaker": "B",
+              "en": "About 25 minutes, depending on traffic.",
+              "zh": "大概25分钟，看路况。"
+            },
+            {
+              "speaker": "A",
+              "en": "Please take the fastest route.",
+              "zh": "请走最快的路线。"
+            }
+          ]
+        },
+        {
+          "id": "taxi_02",
+          "title": "打网约车",
+          "lines": [
+            {
+              "speaker": "A",
+              "en": "Hi, are you Mr. Zhang? I ordered a ride through the app.",
+              "zh": "你好，是张先生吗？我通过App叫了车。"
+            },
+            {
+              "speaker": "B",
+              "en": "Yes, that's me. Can I confirm your phone number?",
+              "zh": "是的，是我。能确认一下你的手机号吗？"
+            },
+            {
+              "speaker": "A",
+              "en": "Sure, it's 138-5555-1234.",
+              "zh": "好的，138-5555-1234。"
+            },
+            {
+              "speaker": "B",
+              "en": "Great, that matches. Please get in. Do you have any luggage?",
+              "zh": "好的，信息一致。请上车。有行李吗？"
+            },
+            {
+              "speaker": "A",
+              "en": "Just one suitcase in the trunk, thanks.",
+              "zh": "后备箱里有一个行李箱，谢谢。"
+            },
+            {
+              "speaker": "B",
+              "en": "No problem. Buckle up and we'll be on our way.",
+              "zh": "没问题。系好安全带，我们出发了。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bus_subway",
+      "title": "公交地铁",
+      "icon": "bus",
+      "dialogues": [
+        {
+          "id": "transit_01",
+          "title": "坐地铁",
+          "lines": [
+            {
+              "speaker": "A",
+              "en": "Which line goes to People's Square?",
+              "zh": "去人民广场坐几号线？"
+            },
+            {
+              "speaker": "B",
+              "en": "Take Line 1 towards the city center and get off at People's Square Station.",
+              "zh": "坐开往市中心方向的1号线，在人民广场站下车。"
+            },
+            {
+              "speaker": "A",
+              "en": "How many stops is that?",
+              "zh": "有几站？"
+            },
+            {
+              "speaker": "B",
+              "en": "Five stops from here. It takes about 15 minutes.",
+              "zh": "从这站过去五站。大概15分钟。"
+            },
+            {
+              "speaker": "A",
+              "en": "Can I use my phone to scan the ticket?",
+              "zh": "我可以用手机扫码进站吗？"
+            },
+            {
+              "speaker": "B",
+              "en": "Yes, just scan the QR code at the gate.",
+              "zh": "可以的，在闸机口扫二维码就行。"
+            }
+          ]
+        },
+        {
+          "id": "transit_02",
+          "title": "坐公交",
+          "lines": [
+            {
+              "speaker": "A",
+              "en": "Excuse me, does Bus 52 go to the university?",
+              "zh": "请问52路公交车到大学吗？"
+            },
+            {
+              "speaker": "B",
+              "en": "Yes, it does. But you need to get off at the east gate stop.",
+              "zh": "到的。不过你需要在东门那一站下车。"
+            },
+            {
+              "speaker": "A",
+              "en": "How often does the bus come?",
+              "zh": "公交车多久一班？"
+            },
+            {
+              "speaker": "B",
+              "en": "Every 10 minutes or so during peak hours.",
+              "zh": "高峰时段大约每10分钟一班。"
+            },
+            {
+              "speaker": "A",
+              "en": "Do I need exact change for the fare?",
+              "zh": "车费需要准备零钱吗？"
+            },
+            {
+              "speaker": "B",
+              "en": "No, you can use your transit card or scan your phone.",
+              "zh": "不用，你可以刷公交卡或者扫手机。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hotel",
+      "title": "酒店入住",
+      "icon": "bed.double",
+      "dialogues": [
+        {
+          "id": "hotel_01",
+          "title": "办理入住",
+          "lines": [
+            {
+              "speaker": "A",
+              "en": "Hello, I have a reservation under the name Chen.",
+              "zh": "你好，我用陈的名字预订了房间。"
+            },
+            {
+              "speaker": "B",
+              "en": "Welcome to Grand Hyatt. Let me look that up. A deluxe double room for three nights?",
+              "zh": "欢迎来到君悦酒店。我来查一下。豪华双人房，住三晚？"
+            },
+            {
+              "speaker": "A",
+              "en": "Yes, that's correct.",
+              "zh": "是的，没错。"
+            },
+            {
+              "speaker": "B",
+              "en": "May I see your passport, please? And I'll need a credit card for the deposit.",
+              "zh": "请出示您的护照。还需要一张信用卡作为押金。"
+            },
+            {
+              "speaker": "A",
+              "en": "Here you go.",
+              "zh": "给你。"
+            },
+            {
+              "speaker": "B",
+              "en": "Thank you. Your room is on the 15th floor. Here's your key card. Breakfast is served from 7 to 10.",
+              "zh": "谢谢。您的房间在15楼。这是您的房卡。早餐供应时间是7点到10点。"
+            }
+          ]
+        },
+        {
+          "id": "hotel_02",
+          "title": "客房服务",
+          "lines": [
+            {
+              "speaker": "A",
+              "en": "Room service. How can I help you?",
+              "zh": "客房服务。有什么需要帮忙的吗？"
+            },
+            {
+              "speaker": "B",
+              "en": "Could I get an extra pillow and a blanket?",
+              "zh": "能再给我一个枕头和一条毯子吗？"
+            },
+            {
+              "speaker": "A",
+              "en": "Certainly. I'll have them sent up right away.",
+              "zh": "当然可以。我马上让人送上来。"
+            },
+            {
+              "speaker": "B",
+              "en": "Also, the air conditioning in my room doesn't seem to be working.",
+              "zh": "另外，我房间的空调好像坏了。"
+            },
+            {
+              "speaker": "A",
+              "en": "I apologize for the inconvenience. I'll send a technician to check it.",
+              "zh": "给您带来不便非常抱歉。我派技术人员去检查一下。"
+            },
+            {
+              "speaker": "B",
+              "en": "Thank you. How long will that take?",
+              "zh": "谢谢。大概需要多长时间？"
+            },
+            {
+              "speaker": "A",
+              "en": "He'll be there within 10 minutes.",
+              "zh": "他10分钟内到。"
+            }
+          ]
+        },
+        {
+          "id": "hotel_03",
+          "title": "退房",
+          "lines": [
+            {
+              "speaker": "A",
+              "en": "Good morning. I'd like to check out, please. Room 1528.",
+              "zh": "早上好。我想办理退房。1528房间。"
+            },
+            {
+              "speaker": "B",
+              "en": "Certainly. Did you use the minibar or any hotel services?",
+              "zh": "好的。您使用过迷你吧或任何酒店服务吗？"
+            },
+            {
+              "speaker": "A",
+              "en": "I had one bottle of water from the minibar.",
+              "zh": "我从迷你吧拿了一瓶水。"
+            },
+            {
+              "speaker": "B",
+              "en": "That'll be an extra 15 yuan. Here's your itemized bill.",
+              "zh": "那需要额外加15元。这是您的详细账单。"
+            },
+            {
+              "speaker": "A",
+              "en": "Everything looks good. Can I get a receipt?",
+              "zh": "看起来没问题。能给我一张发票吗？"
+            },
+            {
+              "speaker": "B",
+              "en": "Of course. Here's your receipt. We hope you enjoyed your stay!",
+              "zh": "当然。这是您的发票。希望您住得愉快！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "airport",
+      "title": "机场",
+      "icon": "airplane",
+      "dialogues": [
+        {
+          "id": "airport_01",
+          "title": "值机",
+          "lines": [
+            {
+              "speaker": "A",
+              "en": "Good morning. I'd like to check in for flight CA985 to Tokyo.",
+              "zh": "早上好。我想办理飞往东京的CA985航班登机手续。"
+            },
+            {
+              "speaker": "B",
+              "en": "Sure. May I see your passport and ticket?",
+              "zh": "好的。请出示您的护照和机票。"
+            },
+            {
+              "speaker": "A",
+              "en": "Here you are. I'd like a window seat, please.",
+              "zh": "给你。我想要靠窗的座位。"
+            },
+            {
+              "speaker": "B",
+              "en": "Let me check. Yes, we have a window seat available. Any luggage to check in?",
+              "zh": "我查一下。有的，靠窗座位还有。有行李需要托运吗？"
+            },
+            {
+              "speaker": "A",
+              "en": "Just one suitcase. I'll carry my backpack on board.",
+              "zh": "一个行李箱就行。背包我随身带。"
+            },
+            {
+              "speaker": "B",
+              "en": "Here's your boarding pass. Your gate is 23. Boarding starts at 9:30.",
+              "zh": "这是您的登机牌。登机口是23号。9点30分开始登机。"
+            }
+          ]
+        },
+        {
+          "id": "airport_02",
+          "title": "安检与候机",
+          "lines": [
+            {
+              "speaker": "A",
+              "en": "Please place your laptop and liquids in a separate tray.",
+              "zh": "请将您的笔记本电脑和液体物品放在单独的托盘里。"
+            },
+            {
+              "speaker": "B",
+              "en": "Do I need to take off my shoes?",
+              "zh": "需要脱鞋吗？"
+            },
+            {
+              "speaker": "A",
+              "en": "Yes, please remove your shoes and jacket as well.",
+              "zh": "是的，请把鞋子和外套也脱掉。"
+            },
+            {
+              "speaker": "B",
+              "en": "Is my power bank allowed in carry-on luggage?",
+              "zh": "充电宝可以随身携带吗？"
+            },
+            {
+              "speaker": "A",
+              "en": "Yes, but it must be under 20,000 mAh. Please take it out for inspection.",
+              "zh": "可以，但必须小于20000毫安时。请拿出来检查。"
+            },
+            {
+              "speaker": "B",
+              "en": "No problem. Thanks.",
+              "zh": "没问题。谢谢。"
+            }
+          ]
+        },
+        {
+          "id": "airport_03",
+          "title": "航班延误",
+          "lines": [
+            {
+              "speaker": "A",
+              "en": "Excuse me, is Flight MU567 on time?",
+              "zh": "请问MU567航班准时起飞吗？"
+            },
+            {
+              "speaker": "B",
+              "en": "I'm sorry, but the flight has been delayed due to bad weather.",
+              "zh": "很抱歉，由于天气原因，航班延误了。"
+            },
+            {
+              "speaker": "A",
+              "en": "How long will the delay be?",
+              "zh": "会延误多久？"
+            },
+            {
+              "speaker": "B",
+              "en": "Approximately two hours. We'll update you as soon as we have more information.",
+              "zh": "大约两个小时。有最新消息我们会及时通知您。"
+            },
+            {
+              "speaker": "A",
+              "en": "Is there a lounge I can wait in?",
+              "zh": "有贵宾休息室可以等吗？"
+            },
+            {
+              "speaker": "B",
+              "en": "Yes, there's a lounge near Gate 15. You can wait there with your boarding pass.",
+              "zh": "有的，15号登机口附近有一个休息室。您可以凭登机牌进去等候。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shopping",
+      "title": "购物试穿",
+      "icon": "bag",
+      "dialogues": [
+        {
+          "id": "shopping_01",
+          "title": "买衣服",
+          "lines": [
+            {
+              "speaker": "A",
+              "en": "Welcome! Are you looking for anything in particular?",
+              "zh": "欢迎光临！您在找什么特别的款式吗？"
+            },
+            {
+              "speaker": "B",
+              "en": "I'm just browsing. But this sweater caught my eye.",
+              "zh": "我就随便看看。不过这件毛衣挺吸引我的。"
+            },
+            {
+              "speaker": "A",
+              "en": "That's from our new collection. What size do you wear?",
+              "zh": "那是我们新系列的产品。您穿什么尺码？"
+            },
+            {
+              "speaker": "B",
+              "en": "Medium, I think. Can I try it on?",
+              "zh": "中号吧。我能试穿一下吗？"
+            },
+            {
+              "speaker": "A",
+              "en": "Sure. The fitting rooms are right over there.",
+              "zh": "当然。试衣间就在那边。"
+            }
+          ]
+        },
+        {
+          "id": "shopping_02",
+          "title": "买鞋",
+          "lines": [
+            {
+              "speaker": "A",
+              "en": "I'm looking for a pair of running shoes.",
+              "zh": "我想买一双跑步鞋。"
+            },
+            {
+              "speaker": "B",
+              "en": "We have several brands. What's your size?",
+              "zh": "我们有多个品牌。您穿多大码？"
+            },
+            {
+              "speaker": "A",
+              "en": "Size 42 in European sizing.",
+              "zh": "欧洲码42号。"
+            },
+            {
+              "speaker": "B",
+              "en": "Let me grab a few options for you to try on. How do these feel?",
+              "zh": "我拿几双给您试试。这双感觉怎么样？"
+            },
+            {
+              "speaker": "A",
+              "en": "They're comfortable, but a bit tight around the toes.",
+              "zh": "挺舒服的，但脚趾这里有点紧。"
+            },
+            {
+              "speaker": "B",
+              "en": "I'll get you a half size up. Try these instead.",
+              "zh": "我给您拿大半码的。试试这双。"
+            }
+          ]
+        },
+        {
+          "id": "shopping_03",
+          "title": "退货",
+          "lines": [
+            {
+              "speaker": "A",
+              "en": "Hi, I'd like to return this jacket I bought yesterday.",
+              "zh": "你好，我想退掉昨天买的这件夹克。"
+            },
+            {
+              "speaker": "B",
+              "en": "Do you have the receipt?",
+              "zh": "您有收据吗？"
+            },
+            {
+              "speaker": "A",
+              "en": "Yes, here it is.",
+              "zh": "有的，给你。"
+            },
+            {
+              "speaker": "B",
+              "en": "Is there anything wrong with it?",
+              "zh": "有什么问题吗？"
+            },
+            {
+              "speaker": "A",
+              "en": "It's just a bit too big for me. I'd like a refund.",
+              "zh": "就是穿起来有点大。我想退款。"
+            },
+            {
+              "speaker": "B",
+              "en": "No problem. The refund will go back to your card within 5 business days.",
+              "zh": "没问题。退款会在5个工作日内退回到您的卡上。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bargaining",
+      "title": "讨价还价",
+      "icon": "dollar",
+      "dialogues": [
+        {
+          "id": "bargain_01",
+          "title": "逛市场",
+          "lines": [
+            {
+              "speaker": "A",
+              "en": "How much is this hand-painted fan?",
+              "zh": "这把手绘扇子多少钱？"
+            },
+            {
+              "speaker": "B",
+              "en": "200 yuan. It's real silk and hand-painted by a local artist.",
+              "zh": "200元。这是真丝的，由本地艺术家手绘。"
+            },
+            {
+              "speaker": "A",
+              "en": "That's beautiful, but a bit expensive. Can you give me a better price?",
+              "zh": "很漂亮，但有点贵。能便宜点吗？"
+            },
+            {
+              "speaker": "B",
+              "en": "I can do 160 yuan. That's my best offer.",
+              "zh": "160元可以卖。这是最低价了。"
+            },
+            {
+              "speaker": "A",
+              "en": "How about 130? I'll buy two if you give me that price.",
+              "zh": "130怎么样？如果你给我这个价，我买两把。"
+            },
+            {
+              "speaker": "B",
+              "en": "Alright, 130 each. You drive a hard bargain!",
+              "zh": "好吧，一把130。你真会砍价！"
+            }
+          ]
+        },
+        {
+          "id": "bargain_02",
+          "title": "买纪念品",
+          "lines": [
+            {
+              "speaker": "A",
+              "en": "This jade bracelet is lovely. What's the price?",
+              "zh": "这个玉镯很漂亮。多少钱？"
+            },
+            {
+              "speaker": "B",
+              "en": "That's 800 yuan. It's genuine jade from Xinjiang.",
+              "zh": "800元。这是新疆真玉。"
+            },
+            {
+              "speaker": "A",
+              "en": "That's more than I expected. Any discount for cash?",
+              "zh": "比我想象的贵。现金付款有折扣吗？"
+            },
+            {
+              "speaker": "B",
+              "en": "If you pay in cash, I can give it to you for 650.",
+              "zh": "如果付现金的话，650元卖给你。"
+            },
+            {
+              "speaker": "A",
+              "en": "600 and we have a deal.",
+              "zh": "600我就买了。"
+            },
+            {
+              "speaker": "B",
+              "en": "Fine, 600. You won't find a better deal anywhere else!",
+              "zh": "好吧，600。你在别处找不到更好的价格了！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "phone",
+      "title": "电话",
+      "icon": "phone",
+      "dialogues": [
+        {
+          "id": "phone_01",
+          "title": "预约电话",
+          "lines": [
+            {
+              "speaker": "A",
+              "en": "Hello, Dr. Li's office. How can I help you?",
+              "zh": "您好，李医生诊所。有什么可以帮您的？"
+            },
+            {
+              "speaker": "B",
+              "en": "Hi, I'd like to make an appointment for a check-up.",
+              "zh": "你好，我想预约做个体检。"
+            },
+            {
+              "speaker": "A",
+              "en": "Sure. Are you a new patient?",
+              "zh": "好的。您是初诊患者吗？"
+            },
+            {
+              "speaker": "B",
+              "en": "Yes, this would be my first visit.",
+              "zh": "是的，这是我第一次来。"
+            },
+            {
+              "speaker": "A",
+              "en": "Let me put you on hold for a moment while I check the schedule.",
+              "zh": "请稍等，我查一下预约时间表。"
+            },
+            {
+              "speaker": "B",
+              "en": "No problem.",
+              "zh": "好的。"
+            }
+          ]
+        },
+        {
+          "id": "phone_02",
+          "title": "打错电话",
+          "lines": [
+            {
+              "speaker": "A",
+              "en": "Hello, is this Mr. Johnson?",
+              "zh": "你好，是约翰逊先生吗？"
+            },
+            {
+              "speaker": "B",
+              "en": "Sorry, you've got the wrong number. There's no one here by that name.",
+              "zh": "抱歉，你打错了。这里没有叫这个名字的人。"
+            },
+            {
+              "speaker": "A",
+              "en": "Oh, I'm sorry. Is this not 555-0123?",
+              "zh": "哦，不好意思。请问这不是555-0123吗？"
+            },
+            {
+              "speaker": "B",
+              "en": "No, this is 555-0132. No worries, it happens.",
+              "zh": "不是，这里是555-0132。没关系，常有的事。"
+            },
+            {
+              "speaker": "A",
+              "en": "Sorry for disturbing you. Have a good day.",
+              "zh": "抱歉打扰了。祝你今天愉快。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hobbies",
+      "title": "兴趣爱好",
+      "icon": "star",
+      "dialogues": [
+        {
+          "id": "hobbies_01",
+          "title": "聊爱好",
+          "lines": [
+            {
+              "speaker": "A",
+              "en": "What do you like to do in your free time?",
+              "zh": "你空闲时间喜欢做什么？"
+            },
+            {
+              "speaker": "B",
+              "en": "I love hiking. There's a great trail near my place.",
+              "zh": "我喜欢徒步。我家附近有一条很棒的徒步路线。"
+            },
+            {
+              "speaker": "A",
+              "en": "That sounds nice. How often do you go?",
+              "zh": "听起来不错。你多久去一次？"
+            },
+            {
+              "speaker": "B",
+              "en": "Almost every weekend. It helps me clear my mind.",
+              "zh": "几乎每个周末都去。这能让我头脑清醒。"
+            },
+            {
+              "speaker": "A",
+              "en": "I should try it sometime. I spend too much time indoors.",
+              "zh": "我也应该试试。我待在室内的时间太长了。"
+            },
+            {
+              "speaker": "B",
+              "en": "You should! I can take you next time if you'd like.",
+              "zh": "你应该试试！如果你愿意，下次我可以带你去。"
+            }
+          ]
+        },
+        {
+          "id": "hobbies_02",
+          "title": "学乐器",
+          "lines": [
+            {
+              "speaker": "A",
+              "en": "I heard you play the guitar. How long have you been playing?",
+              "zh": "听说你会弹吉他。你弹了多久了？"
+            },
+            {
+              "speaker": "B",
+              "en": "About three years now. I started during the pandemic.",
+              "zh": "大概三年了。我是在疫情期间开始学的。"
+            },
+            {
+              "speaker": "A",
+              "en": "That's impressive! Did you take lessons?",
+              "zh": "真厉害！你报课学了吗？"
+            },
+            {
+              "speaker": "B",
+              "en": "I learned from online tutorials at first. Later I found a teacher.",
+              "zh": "最开始是从网上教程学的。后来找了老师。"
+            },
+            {
+              "speaker": "A",
+              "en": "I've always wanted to learn. Any advice for a beginner?",
+              "zh": "我一直想学。对初学者有什么建议吗？"
+            },
+            {
+              "speaker": "B",
+              "en": "Start with an affordable guitar and practice at least 15 minutes every day.",
+              "zh": "先买一把价格合适的吉他，每天至少练习15分钟。"
+            }
+          ]
+        },
+        {
+          "id": "hobbies_03",
+          "title": "摄影",
+          "lines": [
+            {
+              "speaker": "A",
+              "en": "Your photos on Instagram are amazing!",
+              "zh": "你在Instagram上的照片太棒了！"
+            },
+            {
+              "speaker": "B",
+              "en": "Thank you! Photography is just a hobby, but I really enjoy it.",
+              "zh": "谢谢！摄影只是业余爱好，但我真的很喜欢。"
+            },
+            {
+              "speaker": "A",
+              "en": "What kind of camera do you use?",
+              "zh": "你用的是什么相机？"
+            },
+            {
+              "speaker": "B",
+              "en": "I use a Sony mirrorless. It's lightweight and great for travel.",
+              "zh": "我用的是索尼微单。很轻便，适合旅行。"
+            },
+            {
+              "speaker": "A",
+              "en": "Do you edit your photos?",
+              "zh": "你会修图吗？"
+            },
+            {
+              "speaker": "B",
+              "en": "Yes, I use Lightroom for basic color correction and cropping.",
+              "zh": "会的，我用Lightroom做基本的调色和裁剪。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "interview",
+      "title": "面试",
+      "icon": "briefcase",
+      "dialogues": [
+        {
+          "id": "interview_01",
+          "title": "面试问答",
+          "lines": [
+            {
+              "speaker": "A",
+              "en": "Tell me a bit about yourself.",
+              "zh": "请介绍一下你自己。"
+            },
+            {
+              "speaker": "B",
+              "en": "I'm a software engineer with five years of experience in mobile development.",
+              "zh": "我是一名软件工程师，有五年的移动开发经验。"
+            },
+            {
+              "speaker": "A",
+              "en": "What made you apply for this position?",
+              "zh": "是什么促使你申请这个职位？"
+            },
+            {
+              "speaker": "B",
+              "en": "I admire your company's innovative approach to AI technology, and I want to be part of that.",
+              "zh": "我欣赏贵公司在人工智能技术方面的创新方法，我想成为其中的一员。"
+            },
+            {
+              "speaker": "A",
+              "en": "Where do you see yourself in five years?",
+              "zh": "你五年内的职业规划是什么？"
+            },
+            {
+              "speaker": "B",
+              "en": "I hope to grow into a senior developer role and eventually lead a team.",
+              "zh": "我希望成长为一名高级开发人员，并最终带领一个团队。"
+            }
+          ]
+        },
+        {
+          "id": "interview_02",
+          "title": "面试后续",
+          "lines": [
+            {
+              "speaker": "A",
+              "en": "Thank you for coming in today. We'll be in touch within a week.",
+              "zh": "感谢你今天来面试。我们会在一周内联系你。"
+            },
+            {
+              "speaker": "B",
+              "en": "Thank you for the opportunity. When can I expect to hear back?",
+              "zh": "感谢您给我这个机会。大概什么时候能有回复？"
+            },
+            {
+              "speaker": "A",
+              "en": "We have a few more candidates to interview this week. You'll hear from us by Friday.",
+              "zh": "这周我们还有几位候选人要面试。周五之前你会收到我们的消息。"
+            },
+            {
+              "speaker": "B",
+              "en": "Great. Is there anything else you need from me?",
+              "zh": "好的。您还需要我提供什么吗？"
+            },
+            {
+              "speaker": "A",
+              "en": "No, that's all for now. We have your portfolio and references. Have a nice day!",
+              "zh": "不用了，目前这些就够了。我们有你的作品集和推荐信。祝你今天愉快！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "meeting",
+      "title": "会议",
+      "icon": "person.3",
+      "dialogues": [
+        {
+          "id": "meeting_01",
+          "title": "项目讨论",
+          "lines": [
+            {
+              "speaker": "A",
+              "en": "Good morning, everyone. Let's start today's meeting.",
+              "zh": "大家早上好。我们开始今天的会议。"
+            },
+            {
+              "speaker": "B",
+              "en": "I'd like to go over the Q2 results first.",
+              "zh": "我想先回顾一下第二季度的业绩。"
+            },
+            {
+              "speaker": "A",
+              "en": "Sure, go ahead. Do you have the slides ready?",
+              "zh": "好的，请讲。幻灯片准备好了吗？"
+            },
+            {
+              "speaker": "B",
+              "en": "Yes, they're on the shared screen. Revenue grew by 15% compared to last quarter.",
+              "zh": "准备好了，已经投屏了。收入比上季度增长了15%。"
+            },
+            {
+              "speaker": "C",
+              "en": "That's great news. What about the new product launch timeline?",
+              "zh": "这是个好消息。新产品的发布时间线怎么样了？"
+            },
+            {
+              "speaker": "A",
+              "en": "Let's discuss that after the break.",
+              "zh": "我们休息后再讨论这个。"
+            }
+          ]
+        },
+        {
+          "id": "meeting_02",
+          "title": "头脑风暴",
+          "lines": [
+            {
+              "speaker": "A",
+              "en": "I'd like to hear everyone's ideas for the marketing campaign.",
+              "zh": "我想听听大家对营销活动的想法。"
+            },
+            {
+              "speaker": "B",
+              "en": "What about partnering with local influencers on social media?",
+              "zh": "在社交媒体上与本地网红合作怎么样？"
+            },
+            {
+              "speaker": "A",
+              "en": "That could work. What budget are we looking at?",
+              "zh": "这个可行。预算是多少？"
+            },
+            {
+              "speaker": "B",
+              "en": "About 50,000 yuan for a three-month campaign.",
+              "zh": "为期三个月的活动大约需要五万元。"
+            },
+            {
+              "speaker": "C",
+              "en": "I suggest we also run a referral program to boost word of mouth.",
+              "zh": "我建议我们也做一个推荐计划，促进口碑传播。"
+            },
+            {
+              "speaker": "A",
+              "en": "Good point. Let's combine both strategies. I'll prepare a proposal.",
+              "zh": "好主意。我们把两个策略结合起来。我来准备一份方案。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hospital",
+      "title": "看病就医",
+      "icon": "cross.case",
+      "dialogues": [
+        {
+          "id": "hospital_01",
+          "title": "看医生",
+          "lines": [
+            {
+              "speaker": "A",
+              "en": "Good morning. What seems to be the problem?",
+              "zh": "早上好。你哪里不舒服？"
+            },
+            {
+              "speaker": "B",
+              "en": "I've had a bad headache and a sore throat for three days.",
+              "zh": "我头疼得厉害，喉咙也疼，已经三天了。"
+            },
+            {
+              "speaker": "A",
+              "en": "Do you have a fever?",
+              "zh": "发烧吗？"
+            },
+            {
+              "speaker": "B",
+              "en": "Yes, my temperature was 38.5 this morning.",
+              "zh": "是的，今天早上体温38.5度。"
+            },
+            {
+              "speaker": "A",
+              "en": "Let me take a look at your throat. Open wide, please.",
+              "zh": "让我看看你的喉咙。请张大嘴巴。"
+            },
+            {
+              "speaker": "B",
+              "en": "Ahh... Is it serious?",
+              "zh": "啊……严重吗？"
+            },
+            {
+              "speaker": "A",
+              "en": "It's a throat infection. I'll prescribe some antibiotics. Rest for a few days.",
+              "zh": "是喉咙感染。我给你开一些抗生素。休息几天就好了。"
+            }
+          ]
+        },
+        {
+          "id": "hospital_02",
+          "title": "药店买药",
+          "lines": [
+            {
+              "speaker": "A",
+              "en": "Excuse me, do you have anything for allergies?",
+              "zh": "请问有治过敏的药吗？"
+            },
+            {
+              "speaker": "B",
+              "en": "Yes, we have several options. Do you need tablets or a spray?",
+              "zh": "有的，有好几种。需要药片还是喷雾？"
+            },
+            {
+              "speaker": "A",
+              "en": "I'd prefer tablets. What do you recommend?",
+              "zh": "我比较想要药片。你有什么推荐的？"
+            },
+            {
+              "speaker": "B",
+              "en": "This one is very effective and doesn't cause drowsiness.",
+              "zh": "这种非常有效，而且不会引起嗜睡。"
+            },
+            {
+              "speaker": "A",
+              "en": "How many do I take per day?",
+              "zh": "一天吃几次？"
+            },
+            {
+              "speaker": "B",
+              "en": "One tablet daily after a meal. And remember to read the instructions.",
+              "zh": "每天一片，饭后服用。记得看一下说明书。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "emergency",
+      "title": "报警求助",
+      "icon": "exclamationmark.shield",
+      "dialogues": [
+        {
+          "id": "emergency_01",
+          "title": "报警",
+          "lines": [
+            {
+              "speaker": "A",
+              "en": "911 emergency services. What's your emergency?",
+              "zh": "911紧急服务。请问有什么紧急情况？"
+            },
+            {
+              "speaker": "B",
+              "en": "There's been a car accident at the intersection of Main Street and Park Avenue.",
+              "zh": "主街和公园大道交叉口发生了一起车祸。"
+            },
+            {
+              "speaker": "A",
+              "en": "Are there any injuries?",
+              "zh": "有人受伤吗？"
+            },
+            {
+              "speaker": "B",
+              "en": "Yes, I think two people are hurt. One is bleeding.",
+              "zh": "是的，好像有两个人受伤了。有一个在流血。"
+            },
+            {
+              "speaker": "A",
+              "en": "An ambulance and police are on their way. Please stay on the line.",
+              "zh": "救护车和警察正在路上。请保持通话不要挂断。"
+            },
+            {
+              "speaker": "B",
+              "en": "Okay, I'll stay here and wait.",
+              "zh": "好的，我在这里等着。"
+            }
+          ]
+        },
+        {
+          "id": "emergency_02",
+          "title": "寻求帮助",
+          "lines": [
+            {
+              "speaker": "A",
+              "en": "Excuse me, can you help me? I think I lost my phone.",
+              "zh": "打扰一下，能帮帮我吗？我好像把手机丢了。"
+            },
+            {
+              "speaker": "B",
+              "en": "Of course. Where did you last have it?",
+              "zh": "当然。你最后一次用手机是在哪里？"
+            },
+            {
+              "speaker": "A",
+              "en": "I think I left it in a taxi about 20 minutes ago.",
+              "zh": "大概20分钟前我可能落在出租车上了。"
+            },
+            {
+              "speaker": "B",
+              "en": "Do you remember the license plate number?",
+              "zh": "你还记得车牌号吗？"
+            },
+            {
+              "speaker": "A",
+              "en": "No, I don't. Is there a lost and found office nearby?",
+              "zh": "不记得了。附近有失物招领处吗？"
+            },
+            {
+              "speaker": "B",
+              "en": "You can go to the police station around the corner. They can help track the vehicle.",
+              "zh": "你可以去拐角处的派出所。他们能帮忙查找车辆。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lost_found",
+      "title": "失物招领",
+      "icon": "magnifyingglass",
+      "dialogues": [
+        {
+          "id": "lost_01",
+          "title": "在餐厅丢东西",
+          "lines": [
+            {
+              "speaker": "A",
+              "en": "Hello, I think I left my bag here earlier today.",
+              "zh": "你好，我今天早些时候好像把包落在这里了。"
+            },
+            {
+              "speaker": "B",
+              "en": "Can you describe it?",
+              "zh": "你能描述一下吗？"
+            },
+            {
+              "speaker": "A",
+              "en": "It's a black leather backpack with a blue keychain on the zipper.",
+              "zh": "是一个黑色皮革双肩包，拉链上挂着一个蓝色钥匙扣。"
+            },
+            {
+              "speaker": "B",
+              "en": "Let me check our lost and found. Yes, we have one that matches that description.",
+              "zh": "我查一下失物招领。是的，有一个符合描述的包。"
+            },
+            {
+              "speaker": "A",
+              "en": "Oh, that's a relief! What do I need to do to get it back?",
+              "zh": "哦，那我就放心了！我需要做什么才能拿回它？"
+            },
+            {
+              "speaker": "B",
+              "en": "Please show me some ID and confirm what's inside the bag.",
+              "zh": "请出示一下身份证件，然后确认包里有什么东西。"
+            },
+            {
+              "speaker": "A",
+              "en": "Sure. There's my wallet, a laptop, and a water bottle.",
+              "zh": "好的。里面有我的钱包、一台笔记本电脑和一个水杯。"
+            }
+          ]
+        },
+        {
+          "id": "lost_02",
+          "title": "在地铁站",
+          "lines": [
+            {
+              "speaker": "A",
+              "en": "Excuse me, I lost my wallet on the subway this morning.",
+              "zh": "不好意思，我今天早上在地铁上丢了钱包。"
+            },
+            {
+              "speaker": "B",
+              "en": "I'm sorry to hear that. Which line were you on?",
+              "zh": "很遗憾听到这个。你坐的是哪条线？"
+            },
+            {
+              "speaker": "A",
+              "en": "Line 5, heading south. I got off at Olympic Park Station around 8:30.",
+              "zh": "5号线，往南方向。我大概8点半在奥林匹克公园站下车的。"
+            },
+            {
+              "speaker": "B",
+              "en": "Let me check the central lost and found system. What does your wallet look like?",
+              "zh": "我查一下中央失物招领系统。你的钱包是什么样的？"
+            },
+            {
+              "speaker": "A",
+              "en": "It's a brown leather wallet with my ID card and bank cards inside.",
+              "zh": "是一个棕色皮夹，里面有我的身份证和银行卡。"
+            },
+            {
+              "speaker": "B",
+              "en": "Good news! A wallet matching that description was handed in at the station office. Please bring your ID to claim it.",
+              "zh": "好消息！有一个符合描述的钱包被交到了车站办公室。请带上身份证来认领。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

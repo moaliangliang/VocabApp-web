@@ -1,0 +1,30 @@
+"/Users/maoliangliang/workspace/app/VocabApp/ViewModels/StoreViewModel.swift":
+  dependencies: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/StoreViewModel.d"
+  swift-dependencies: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/StoreViewModel.swiftdeps"
+  object: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/StoreViewModel.o"
+  const-values: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/StoreViewModel.swiftconstvalues"
+  diagnostics: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/StoreViewModel.dia"
+"/Users/maoliangliang/workspace/app/VocabApp/Views/Learning/SpellingView.swift":
+  const-values: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/SpellingView.swiftconstvalues"
+  dependencies: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/SpellingView.d"
+  object: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/SpellingView.o"
+  diagnostics: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/SpellingView.dia"
+  swift-dependencies: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/SpellingView.swiftdeps"
+"/Users/maoliangliang/workspace/app/VocabApp/Services/StoreManager.swift":
+  const-values: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/StoreManager.swiftconstvalues"
+  dependencies: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/StoreManager.d"
+  diagnostics: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/StoreManager.dia"
+  object: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/StoreManager.o"
+  swift-dependencies: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/StoreManager.swiftdeps"
+"/Users/maoliangliang/workspace/app/VocabApp/Services/StreakManager.swift":
+  const-values: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/StreakManager.swiftconstvalues"
+  diagnostics: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/StreakManager.dia"
+  object: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/StreakManager.o"
+  dependencies: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/StreakManager.d"
+  swift-dependencies: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/StreakManager.swiftdeps"
+"/Users/maoliangliang/workspace/app/VocabApp/Services/SpeechRecognizerService.swift":
+  diagnostics: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/SpeechRecognizerService.dia"
+  object: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/SpeechRecognizerService.o"
+  swift-dependencies: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/SpeechRecognizerService.swiftdeps"
+  const-values: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/SpeechRecognizerService.swiftconstvalues"
+  dependencies: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/SpeechRecognizerService.d"

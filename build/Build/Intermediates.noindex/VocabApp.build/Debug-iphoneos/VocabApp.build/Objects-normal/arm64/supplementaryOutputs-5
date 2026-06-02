@@ -1,0 +1,30 @@
+"/Users/maoliangliang/workspace/app/VocabApp/Models/PurchaseRecord.swift":
+  dependencies: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/PurchaseRecord.d"
+  const-values: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/PurchaseRecord.swiftconstvalues"
+  object: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/PurchaseRecord.o"
+  diagnostics: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/PurchaseRecord.dia"
+  swift-dependencies: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/PurchaseRecord.swiftdeps"
+"/Users/maoliangliang/workspace/app/VocabApp/Views/Dashboard/ProgressCharts.swift":
+  object: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/ProgressCharts.o"
+  diagnostics: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/ProgressCharts.dia"
+  const-values: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/ProgressCharts.swiftconstvalues"
+  dependencies: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/ProgressCharts.d"
+  swift-dependencies: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/ProgressCharts.swiftdeps"
+"/Users/maoliangliang/workspace/app/VocabApp/Views/Settings/SettingsView.swift":
+  swift-dependencies: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/SettingsView.swiftdeps"
+  dependencies: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/SettingsView.d"
+  const-values: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/SettingsView.swiftconstvalues"
+  diagnostics: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/SettingsView.dia"
+  object: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/SettingsView.o"
+"/Users/maoliangliang/workspace/app/VocabApp/Services/SM2Engine.swift":
+  object: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/SM2Engine.o"
+  swift-dependencies: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/SM2Engine.swiftdeps"
+  dependencies: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/SM2Engine.d"
+  diagnostics: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/SM2Engine.dia"
+  const-values: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/SM2Engine.swiftconstvalues"
+"/Users/maoliangliang/workspace/app/VocabApp/Services/ReviewScheduler.swift":
+  object: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/ReviewScheduler.o"
+  dependencies: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/ReviewScheduler.d"
+  const-values: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/ReviewScheduler.swiftconstvalues"
+  swift-dependencies: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/ReviewScheduler.swiftdeps"
+  diagnostics: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/ReviewScheduler.dia"

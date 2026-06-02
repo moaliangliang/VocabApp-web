@@ -1,0 +1,24 @@
+"/Users/maoliangliang/workspace/app/VocabApp/Models/Word.swift":
+  object: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/Word.o"
+  dependencies: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/Word.d"
+  const-values: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/Word.swiftconstvalues"
+  swift-dependencies: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/Word.swiftdeps"
+  diagnostics: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/Word.dia"
+"/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/DerivedSources/GeneratedAssetSymbols.swift":
+  const-values: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues"
+  swift-dependencies: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps"
+  dependencies: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/GeneratedAssetSymbols.d"
+  object: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/GeneratedAssetSymbols.o"
+  diagnostics: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/GeneratedAssetSymbols.dia"
+"/Users/maoliangliang/workspace/app/VocabApp/Services/WordBankLoader.swift":
+  object: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/WordBankLoader.o"
+  dependencies: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/WordBankLoader.d"
+  const-values: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/WordBankLoader.swiftconstvalues"
+  swift-dependencies: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/WordBankLoader.swiftdeps"
+  diagnostics: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/WordBankLoader.dia"
+"/Users/maoliangliang/workspace/app/VocabApp/Views/WordDetail/WordDetailView.swift":
+  object: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/WordDetailView.o"
+  diagnostics: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/WordDetailView.dia"
+  const-values: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/WordDetailView.swiftconstvalues"
+  dependencies: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/WordDetailView.d"
+  swift-dependencies: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/WordDetailView.swiftdeps"

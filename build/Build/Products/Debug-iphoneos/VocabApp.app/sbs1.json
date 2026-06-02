@@ -1,0 +1,1412 @@
+{
+  "course": {
+    "id": "sbs1",
+    "title": "Side by Side 1",
+    "author": "Steven J. Molinsky & Bill Bliss",
+    "type": "american",
+    "description": "基础篇 — 自我介绍、日常对话、描述事物、简单问答",
+    "icon": "book.pages",
+    "lessons": [
+      {
+        "id": "sbs1_001",
+        "title": "Lesson 1: Hello! I'm Tom",
+        "text_en": "Hello! I'm Tom.\nHi, Tom. I'm Mary.\nNice to meet you, Mary.\nNice to meet you, too.",
+        "text_zh": "汤姆：你好！我是汤姆。\n玛丽：嗨，汤姆。我是玛丽。\n汤姆：很高兴认识你，玛丽。\n玛丽：我也很高兴认识你。",
+        "vocabulary": [
+          {
+            "word": "hello",
+            "phonetic": "/həˈloʊ/",
+            "meaning": "你好"
+          },
+          {
+            "word": "meet",
+            "phonetic": "/miːt/",
+            "meaning": "遇见"
+          },
+          {
+            "word": "nice",
+            "phonetic": "/naɪs/",
+            "meaning": "好的"
+          },
+          {
+            "word": "too",
+            "phonetic": "/tuː/",
+            "meaning": "也"
+          }
+        ]
+      },
+      {
+        "id": "sbs1_002",
+        "title": "Lesson 2: What's Your Name?",
+        "text_en": "What's your name?\nMy name is John.\nWhere are you from?\nI'm from Canada.\nAre you a student?\nYes, I am.",
+        "text_zh": "老师：你叫什么名字？\n学生：我叫约翰。\n老师：你从哪里来？\n学生：我来自加拿大。\n老师：你是学生吗？\n学生：是的。",
+        "vocabulary": [
+          {
+            "word": "name",
+            "phonetic": "/neɪm/",
+            "meaning": "名字"
+          },
+          {
+            "word": "where",
+            "phonetic": "/wer/",
+            "meaning": "哪里"
+          },
+          {
+            "word": "from",
+            "phonetic": "/frʌm/",
+            "meaning": "从"
+          },
+          {
+            "word": "student",
+            "phonetic": "/ˈstjuːdnt/",
+            "meaning": "学生"
+          }
+        ]
+      },
+      {
+        "id": "sbs1_003",
+        "title": "Lesson 3: Is This Your Book?",
+        "text_en": "Is this your book?\nNo, it isn't. It's her book.\nIs that his pen?\nYes, it is.\nAre these your keys?\nYes, they are.",
+        "text_zh": "A：这是你的书吗？\nB：不，不是。这是她的书。\nA：那是他的笔吗？\nB：是的。\nA：这些是你的钥匙吗？\nB：是的。",
+        "vocabulary": [
+          {
+            "word": "book",
+            "phonetic": "/bʊk/",
+            "meaning": "书"
+          },
+          {
+            "word": "pen",
+            "phonetic": "/pen/",
+            "meaning": "笔"
+          },
+          {
+            "word": "key",
+            "phonetic": "/kiː/",
+            "meaning": "钥匙"
+          },
+          {
+            "word": "his",
+            "phonetic": "/hɪz/",
+            "meaning": "他的"
+          }
+        ]
+      },
+      {
+        "id": "sbs1_004",
+        "title": "Lesson 4: I'm a Doctor",
+        "text_en": "What do you do?\nI'm a doctor. I work in a hospital.\nWhat does she do?\nShe's a teacher. She works in a school.\nWhat do they do?\nThey're engineers. They work in an office.",
+        "text_zh": "A：你是做什么的？\nB：我是医生。我在医院工作。\nA：她是做什么的？\nB：她是老师。她在学校工作。\nA：他们是做什么的？\nB：他们是工程师。他们在办公室工作。",
+        "vocabulary": [
+          {
+            "word": "doctor",
+            "phonetic": "/ˈdɒktər/",
+            "meaning": "医生"
+          },
+          {
+            "word": "teacher",
+            "phonetic": "/ˈtiːtʃər/",
+            "meaning": "老师"
+          },
+          {
+            "word": "engineer",
+            "phonetic": "/ˌendʒɪˈnɪr/",
+            "meaning": "工程师"
+          },
+          {
+            "word": "hospital",
+            "phonetic": "/ˈhɒspɪtl/",
+            "meaning": "医院"
+          }
+        ]
+      },
+      {
+        "id": "sbs1_005",
+        "title": "Lesson 5: I'm Reading a Book",
+        "text_en": "What are you doing?\nI'm reading a book.\nWhat is he doing?\nHe's watching TV.\nWhat are they doing?\nThey're playing soccer.",
+        "text_zh": "A：你在做什么？\nB：我在看书。\nA：他在做什么？\nB：他在看电视。\nA：他们在做什么？\nB：他们在踢足球。",
+        "vocabulary": [
+          {
+            "word": "reading",
+            "phonetic": "/ˈriːdɪŋ/",
+            "meaning": "阅读"
+          },
+          {
+            "word": "watching",
+            "phonetic": "/ˈwɒtʃɪŋ/",
+            "meaning": "观看"
+          },
+          {
+            "word": "playing",
+            "phonetic": "/ˈpleɪɪŋ/",
+            "meaning": "玩耍"
+          },
+          {
+            "word": "soccer",
+            "phonetic": "/ˈsɒkər/",
+            "meaning": "足球"
+          }
+        ]
+      },
+      {
+        "id": "sbs1_006",
+        "title": "Lesson 6: I Get Up at Seven",
+        "text_en": "What time do you get up?\nI get up at seven o'clock.\nWhat time does he eat breakfast?\nHe eats breakfast at eight.\nWhat time do they go to bed?\nThey go to bed at ten.",
+        "text_zh": "A：你几点起床？\nB：我七点起床。\nA：他几点吃早餐？\nB：他八点吃早餐。\nA：他们几点睡觉？\nB：他们十点睡觉。",
+        "vocabulary": [
+          {
+            "word": "get up",
+            "phonetic": "/ɡet ʌp/",
+            "meaning": "起床"
+          },
+          {
+            "word": "eat",
+            "phonetic": "/iːt/",
+            "meaning": "吃"
+          },
+          {
+            "word": "breakfast",
+            "phonetic": "/ˈbrekfəst/",
+            "meaning": "早餐"
+          },
+          {
+            "word": "bed",
+            "phonetic": "/bed/",
+            "meaning": "床"
+          }
+        ]
+      },
+      {
+        "id": "sbs1_007",
+        "title": "Lesson 7: I Like Pizza",
+        "text_en": "Do you like pizza?\nYes, I do. I like pizza very much.\nDoes she like coffee?\nNo, she doesn't. She likes tea.\nDo they like ice cream?\nYes, they do.",
+        "text_zh": "A：你喜欢披萨吗？\nB：是的，我喜欢。我非常喜欢披萨。\nA：她喜欢咖啡吗？\nB：不，她不喜欢。她喜欢茶。\nA：他们喜欢冰淇淋吗？\nB：是的，他们喜欢。",
+        "vocabulary": [
+          {
+            "word": "pizza",
+            "phonetic": "/ˈpiːtsə/",
+            "meaning": "披萨"
+          },
+          {
+            "word": "coffee",
+            "phonetic": "/ˈkɒfi/",
+            "meaning": "咖啡"
+          },
+          {
+            "word": "tea",
+            "phonetic": "/tiː/",
+            "meaning": "茶"
+          },
+          {
+            "word": "ice cream",
+            "phonetic": "/aɪs kriːm/",
+            "meaning": "冰淇淋"
+          }
+        ]
+      },
+      {
+        "id": "sbs1_008",
+        "title": "Lesson 8: There's a Book on the Table",
+        "text_en": "What's on the table?\nThere's a book on the table.\nWhat's in the kitchen?\nThere's a refrigerator and a stove.\nHow many chairs are there?\nThere are four chairs.",
+        "text_zh": "A：桌子上有什么？\nB：桌子上有一本书。\nA：厨房里有什么？\nB：有一台冰箱和一个炉子。\nA：有多少把椅子？\nB：有四把椅子。",
+        "vocabulary": [
+          {
+            "word": "table",
+            "phonetic": "/ˈteɪbl/",
+            "meaning": "桌子"
+          },
+          {
+            "word": "kitchen",
+            "phonetic": "/ˈkɪtʃɪn/",
+            "meaning": "厨房"
+          },
+          {
+            "word": "refrigerator",
+            "phonetic": "/rɪˈfrɪdʒəreɪtər/",
+            "meaning": "冰箱"
+          },
+          {
+            "word": "chair",
+            "phonetic": "/tʃer/",
+            "meaning": "椅子"
+          }
+        ]
+      },
+      {
+        "id": "sbs1_009",
+        "title": "Lesson 9: I Can Swim",
+        "text_en": "Can you swim?\nYes, I can. I can swim very well.\nCan he play the guitar?\nNo, he can't. But he can sing.\nCan they speak French?\nYes, they can.",
+        "text_zh": "A：你会游泳吗？\nB：是的，我会。我游得很好。\nA：他会弹吉他吗？\nB：不，他不会。但他会唱歌。\nA：他们会说法语吗？\nB：是的，他们会。",
+        "vocabulary": [
+          {
+            "word": "swim",
+            "phonetic": "/swɪm/",
+            "meaning": "游泳"
+          },
+          {
+            "word": "guitar",
+            "phonetic": "/ɡɪˈtɑːr/",
+            "meaning": "吉他"
+          },
+          {
+            "word": "sing",
+            "phonetic": "/sɪŋ/",
+            "meaning": "唱歌"
+          },
+          {
+            "word": "French",
+            "phonetic": "/frentʃ/",
+            "meaning": "法语"
+          }
+        ]
+      },
+      {
+        "id": "sbs1_010",
+        "title": "Lesson 10: I Have Two Brothers",
+        "text_en": "Do you have any brothers or sisters?\nYes, I have two brothers and one sister.\nHow old is your sister?\nShe's ten years old.\nDoes your brother have a car?\nNo, he doesn't. He has a bicycle.",
+        "text_zh": "A：你有兄弟姐妹吗？\nB：是的，我有两个兄弟和一个妹妹。\nA：你妹妹多大了？\nB：她十岁。\nA：你哥哥有车吗？\nB：不，他没有。他有一辆自行车。",
+        "vocabulary": [
+          {
+            "word": "brother",
+            "phonetic": "/ˈbrʌðər/",
+            "meaning": "兄弟"
+          },
+          {
+            "word": "sister",
+            "phonetic": "/ˈsɪstər/",
+            "meaning": "姐妹"
+          },
+          {
+            "word": "car",
+            "phonetic": "/kɑːr/",
+            "meaning": "汽车"
+          },
+          {
+            "word": "bicycle",
+            "phonetic": "/ˈbaɪsɪkl/",
+            "meaning": "自行车"
+          }
+        ]
+      },
+      {
+        "id": "sbs1_011",
+        "title": "Lesson 11: I'm Going to the Store",
+        "text_en": "Where are you going?\nI'm going to the store.\nWhat are you going to buy?\nI'm going to buy some milk.\nWhen are you coming back?\nI'm coming back soon.",
+        "text_zh": "A：你要去哪里？\nB：我要去商店。\nA：你要买什么？\nB：我要买一些牛奶。\nA：你什么时候回来？\nB：我很快就回来。",
+        "vocabulary": [
+          {
+            "word": "store",
+            "phonetic": "/stɔːr/",
+            "meaning": "商店"
+          },
+          {
+            "word": "milk",
+            "phonetic": "/mɪlk/",
+            "meaning": "牛奶"
+          },
+          {
+            "word": "buy",
+            "phonetic": "/baɪ/",
+            "meaning": "买"
+          },
+          {
+            "word": "soon",
+            "phonetic": "/suːn/",
+            "meaning": "很快"
+          }
+        ]
+      },
+      {
+        "id": "sbs1_012",
+        "title": "Lesson 12: I Want to Be a Pilot",
+        "text_en": "What do you want to be?\nI want to be a pilot.\nWhy do you want to be a pilot?\nBecause I want to travel around the world.\nWhat does she want to be?\nShe wants to be a doctor.",
+        "text_zh": "A：你想成为什么？\nB：我想成为飞行员。\nA：你为什么想成为飞行员？\nB：因为我想环游世界。\nA：她想成为什么？\nB：她想成为医生。",
+        "vocabulary": [
+          {
+            "word": "pilot",
+            "phonetic": "/ˈpaɪlət/",
+            "meaning": "飞行员"
+          },
+          {
+            "word": "want",
+            "phonetic": "/wɒnt/",
+            "meaning": "想要"
+          },
+          {
+            "word": "because",
+            "phonetic": "/bɪˈkɔːz/",
+            "meaning": "因为"
+          },
+          {
+            "word": "world",
+            "phonetic": "/wɜːrld/",
+            "meaning": "世界"
+          }
+        ]
+      },
+      {
+        "id": "sbs1_013",
+        "title": "Lesson 13: I Went to the Beach Yesterday",
+        "text_en": "What did you do yesterday?\nI went to the beach.\nDid you have fun?\nYes, I did. I swam in the ocean.\nDid she go with you?\nNo, she didn't. She stayed home.",
+        "text_zh": "A：你昨天做了什么？\nB：我去了海滩。\nA：你玩得开心吗？\nB：是的。我在海里游泳了。\nA：她和你一起去吗？\nB：不，她没有。她待在家里。",
+        "vocabulary": [
+          {
+            "word": "beach",
+            "phonetic": "/biːtʃ/",
+            "meaning": "海滩"
+          },
+          {
+            "word": "ocean",
+            "phonetic": "/ˈoʊʃn/",
+            "meaning": "海洋"
+          },
+          {
+            "word": "yesterday",
+            "phonetic": "/ˈjestərdeɪ/",
+            "meaning": "昨天"
+          },
+          {
+            "word": "stayed",
+            "phonetic": "/steɪd/",
+            "meaning": "待在"
+          }
+        ]
+      },
+      {
+        "id": "sbs1_014",
+        "title": "Lesson 14: My House Has Three Rooms",
+        "text_en": "How many rooms does your house have?\nIt has three rooms: a living room, a bedroom, and a kitchen.\nIs there a bathroom?\nYes, there is a bathroom near the bedroom.\nDoes your house have a garden?\nYes, there is a small garden in front.",
+        "text_zh": "A：你的房子有几个房间？\nB：有三个房间：客厅、卧室和厨房。\nA：有浴室吗？\nB：有的，卧室旁边有一个浴室。\nA：你的房子有花园吗？\nB：有的，前面有一个小花园。",
+        "vocabulary": [
+          {
+            "word": "house",
+            "phonetic": "/haʊs/",
+            "meaning": "房子"
+          },
+          {
+            "word": "living room",
+            "phonetic": "/ˈlɪvɪŋ ruːm/",
+            "meaning": "客厅"
+          },
+          {
+            "word": "bedroom",
+            "phonetic": "/ˈbedruːm/",
+            "meaning": "卧室"
+          },
+          {
+            "word": "garden",
+            "phonetic": "/ˈɡɑːrdn/",
+            "meaning": "花园"
+          }
+        ]
+      },
+      {
+        "id": "sbs1_015",
+        "title": "Lesson 15: What Color Is Your Car?",
+        "text_en": "What color is your car?\nIt's red.\nWhat color are her eyes?\nThey're blue.\nIs this your green shirt?\nNo, my shirt is white.\nDo you like my yellow dress?\nYes, it's beautiful!",
+        "text_zh": "A：你的车是什么颜色？\nB：是红色的。\nA：她的眼睛是什么颜色？\nB：是蓝色的。\nA：这是你的绿色衬衫吗？\nB：不，我的衬衫是白色的。\nA：你喜欢我的黄色连衣裙吗？\nB：是的，很漂亮！",
+        "vocabulary": [
+          {
+            "word": "color",
+            "phonetic": "/ˈkʌlər/",
+            "meaning": "颜色"
+          },
+          {
+            "word": "red",
+            "phonetic": "/red/",
+            "meaning": "红色"
+          },
+          {
+            "word": "blue",
+            "phonetic": "/bluː/",
+            "meaning": "蓝色"
+          },
+          {
+            "word": "yellow",
+            "phonetic": "/ˈjeloʊ/",
+            "meaning": "黄色"
+          }
+        ]
+      },
+      {
+        "id": "sbs1_016",
+        "title": "Lesson 16: I'm Wearing a Jacket",
+        "text_en": "What are you wearing today?\nI'm wearing a jacket and pants.\nIs she wearing a hat?\nYes, she's wearing a blue hat.\nWhat are they wearing?\nThey're wearing uniforms.\nHe looks nice in that suit.\nYes, it fits him well.",
+        "text_zh": "A：你今天穿什么？\nB：我穿着夹克和裤子。\nA：她戴帽子吗？\nB：是的，她戴着一顶蓝帽子。\nA：他们穿什么？\nB：他们穿着制服。\nA：他穿那套西装很好看。\nB：是的，很合身。",
+        "vocabulary": [
+          {
+            "word": "wearing",
+            "phonetic": "/ˈwerɪŋ/",
+            "meaning": "穿着"
+          },
+          {
+            "word": "jacket",
+            "phonetic": "/ˈdʒækɪt/",
+            "meaning": "夹克"
+          },
+          {
+            "word": "hat",
+            "phonetic": "/hæt/",
+            "meaning": "帽子"
+          },
+          {
+            "word": "uniform",
+            "phonetic": "/ˈjuːnɪfɔːrm/",
+            "meaning": "制服"
+          }
+        ]
+      },
+      {
+        "id": "sbs1_017",
+        "title": "Lesson 17: It's Cold Outside",
+        "text_en": "What's the weather like?\nIt's cold outside. It's snowing.\nIs it hot in the summer?\nYes, it's very hot.\nDoes it rain a lot here?\nYes, it rains a lot in the spring.\nWhat about autumn?\nAutumn is cool and beautiful.",
+        "text_zh": "A：天气怎么样？\nB：外面很冷。正在下雪。\nA：夏天热吗？\nB：是的，很热。\nA：这里经常下雨吗？\nB：是的，春天经常下雨。\nA：秋天呢？\nB：秋天凉爽又美丽。",
+        "vocabulary": [
+          {
+            "word": "weather",
+            "phonetic": "/ˈweðər/",
+            "meaning": "天气"
+          },
+          {
+            "word": "cold",
+            "phonetic": "/koʊld/",
+            "meaning": "冷的"
+          },
+          {
+            "word": "snow",
+            "phonetic": "/snoʊ/",
+            "meaning": "雪"
+          },
+          {
+            "word": "autumn",
+            "phonetic": "/ˈɔːtəm/",
+            "meaning": "秋天"
+          }
+        ]
+      },
+      {
+        "id": "sbs1_018",
+        "title": "Lesson 18: I Take the Bus to School",
+        "text_en": "How do you go to school?\nI take the bus.\nHow does he go to work?\nHe drives his car.\nHow long does it take?\nIt takes about thirty minutes.\nDo you like taking the bus?\nYes, I can read on the bus.",
+        "text_zh": "A：你怎么去学校？\nB：我坐公交车。\nA：他怎么去上班？\nB：他开自己的车。\nA：需要多长时间？\nB：大约需要三十分钟。\nA：你喜欢坐公交车吗？\nB：是的，我可以在车上看书。",
+        "vocabulary": [
+          {
+            "word": "bus",
+            "phonetic": "/bʌs/",
+            "meaning": "公交车"
+          },
+          {
+            "word": "drive",
+            "phonetic": "/draɪv/",
+            "meaning": "开车"
+          },
+          {
+            "word": "take",
+            "phonetic": "/teɪk/",
+            "meaning": "花费"
+          },
+          {
+            "word": "minute",
+            "phonetic": "/ˈmɪnɪt/",
+            "meaning": "分钟"
+          }
+        ]
+      },
+      {
+        "id": "sbs1_019",
+        "title": "Lesson 19: She Is a Friendly Person",
+        "text_en": "What is your sister like?\nShe is very friendly and kind.\nIs she tall?\nYes, she is tall with long hair.\nDoes she like sports?\nYes, she plays tennis every weekend.\nShe sounds like a wonderful person.",
+        "text_zh": "A：你妹妹是什么样的人？\nB：她非常友好和善良。\nA：她个子高吗？\nB：是的，她个子高，长头发。\nA：她喜欢运动吗？\nB：是的，她每个周末都打网球。\nA：她听起来是个很棒的人。",
+        "vocabulary": [
+          {
+            "word": "friendly",
+            "phonetic": "/ˈfrendli/",
+            "meaning": "友好的"
+          },
+          {
+            "word": "kind",
+            "phonetic": "/kaɪnd/",
+            "meaning": "善良的"
+          },
+          {
+            "word": "tall",
+            "phonetic": "/tɔːl/",
+            "meaning": "高的"
+          },
+          {
+            "word": "tennis",
+            "phonetic": "/ˈtenɪs/",
+            "meaning": "网球"
+          }
+        ]
+      },
+      {
+        "id": "sbs1_020",
+        "title": "Lesson 20: I'm Hungry",
+        "text_en": "Are you hungry?\nYes, I'm very hungry.\nWould you like a sandwich?\nYes, please. Thank you.\nHere you are.\nThis is delicious!",
+        "text_zh": "A：你饿了吗？\nB：是的，我很饿。\nA：你想要一个三明治吗？\nB：好的，谢谢。\nA：给你。\nB：真好吃！",
+        "vocabulary": [
+          {
+            "word": "hungry",
+            "phonetic": "/ˈhʌŋɡri/",
+            "meaning": "饿的"
+          },
+          {
+            "word": "sandwich",
+            "phonetic": "/ˈsænwɪtʃ/",
+            "meaning": "三明治"
+          },
+          {
+            "word": "delicious",
+            "phonetic": "/dɪˈlɪʃəs/",
+            "meaning": "美味的"
+          },
+          {
+            "word": "please",
+            "phonetic": "/pliːz/",
+            "meaning": "请"
+          }
+        ]
+      },
+      {
+        "id": "sbs1_021",
+        "title": "Lesson 21: My Pet Cat",
+        "text_en": "Do you have a pet?\nYes, I have a cat. Her name is Luna.\nWhat does she look like?\nShe is black and white with green eyes.\nDoes she like to play?\nYes, she loves to chase toys.\nCats are wonderful companions.",
+        "text_zh": "A：你有宠物吗？\nB：是的，我有一只猫。她叫露娜。\nA：她长什么样？\nB：她是黑白相间的，有绿色的眼睛。\nA：她喜欢玩吗？\nB：是的，她喜欢追玩具。\nA：猫是很棒的伙伴。",
+        "vocabulary": [
+          {
+            "word": "pet",
+            "phonetic": "/pet/",
+            "meaning": "宠物"
+          },
+          {
+            "word": "cat",
+            "phonetic": "/kæt/",
+            "meaning": "猫"
+          },
+          {
+            "word": "chase",
+            "phonetic": "/tʃeɪs/",
+            "meaning": "追逐"
+          },
+          {
+            "word": "companion",
+            "phonetic": "/kəmˈpænjən/",
+            "meaning": "伙伴"
+          }
+        ]
+      },
+      {
+        "id": "sbs1_022",
+        "title": "Lesson 22: I Need to Buy Fruit",
+        "text_en": "What do you need from the market?\nI need some fruit.\nWhat kind of fruit do you want?\nI want apples, oranges, and bananas.\nHow many apples?\nSix apples, please.\nI'll come with you to the market.",
+        "text_zh": "A：你需要从市场买什么？\nB：我需要一些水果。\nA：你想要什么水果？\nB：我想要苹果、橙子和香蕉。\nA：多少个苹果？\nB：六个苹果。\nA：我跟你一起去市场。",
+        "vocabulary": [
+          {
+            "word": "fruit",
+            "phonetic": "/fruːt/",
+            "meaning": "水果"
+          },
+          {
+            "word": "apple",
+            "phonetic": "/ˈæpl/",
+            "meaning": "苹果"
+          },
+          {
+            "word": "orange",
+            "phonetic": "/ˈɒrɪndʒ/",
+            "meaning": "橙子"
+          },
+          {
+            "word": "market",
+            "phonetic": "/ˈmɑːrkɪt/",
+            "meaning": "市场"
+          }
+        ]
+      },
+      {
+        "id": "sbs1_023",
+        "title": "Lesson 23: I'm Tired",
+        "text_en": "You look tired.\nYes, I am very tired.\nDid you sleep well last night?\nNo, I only slept for four hours.\nYou should rest.\nI will go to bed early tonight.",
+        "text_zh": "A：你看起来很累。\nB：是的，我很累。\nA：你昨晚睡得好吗？\nB：不好，我只睡了四个小时。\nA：你应该休息一下。\nB：我今晚要早点睡觉。",
+        "vocabulary": [
+          {
+            "word": "tired",
+            "phonetic": "/ˈtaɪərd/",
+            "meaning": "疲倦的"
+          },
+          {
+            "word": "sleep",
+            "phonetic": "/sliːp/",
+            "meaning": "睡觉"
+          },
+          {
+            "word": "rest",
+            "phonetic": "/rest/",
+            "meaning": "休息"
+          },
+          {
+            "word": "early",
+            "phonetic": "/ˈɜːrli/",
+            "meaning": "早的"
+          }
+        ]
+      },
+      {
+        "id": "sbs1_024",
+        "title": "Lesson 24: Where Is the Bathroom?",
+        "text_en": "Excuse me, where is the bathroom?\nIt's down the hall on the left.\nIs it near the kitchen?\nNo, it's between the bedroom and the office.\nThank you.\nYou're welcome.",
+        "text_zh": "A：打扰一下，洗手间在哪里？\nB：在走廊尽头左边。\nA：在厨房附近吗？\nB：不，在卧室和办公室之间。\nA：谢谢。\nB：不客气。",
+        "vocabulary": [
+          {
+            "word": "bathroom",
+            "phonetic": "/ˈbæθruːm/",
+            "meaning": "洗手间"
+          },
+          {
+            "word": "hall",
+            "phonetic": "/hɔːl/",
+            "meaning": "走廊"
+          },
+          {
+            "word": "between",
+            "phonetic": "/bɪˈtwiːn/",
+            "meaning": "在...之间"
+          },
+          {
+            "word": "welcome",
+            "phonetic": "/ˈwelkəm/",
+            "meaning": "欢迎，不用谢"
+          }
+        ]
+      },
+      {
+        "id": "sbs1_025",
+        "title": "Lesson 25: Let's Play Together",
+        "text_en": "What do you want to do today?\nLet's play basketball.\nGood idea! Where should we play?\nLet's go to the park.\nDo you have a basketball?\nYes, I have one. Let's go!",
+        "text_zh": "A：你今天想做什么？\nB：我们打篮球吧。\nA：好主意！我们去哪里打？\nB：我们去公园吧。\nA：你有篮球吗？\nB：是的，我有一个。我们走吧！",
+        "vocabulary": [
+          {
+            "word": "play",
+            "phonetic": "/pleɪ/",
+            "meaning": "玩"
+          },
+          {
+            "word": "basketball",
+            "phonetic": "/ˈbæskɪtbɔːl/",
+            "meaning": "篮球"
+          },
+          {
+            "word": "park",
+            "phonetic": "/pɑːrk/",
+            "meaning": "公园"
+          },
+          {
+            "word": "idea",
+            "phonetic": "/aɪˈdiːə/",
+            "meaning": "主意"
+          }
+        ]
+      },
+      {
+        "id": "sbs1_026",
+        "title": "Lesson 26: My Father Is a Chef",
+        "text_en": "What does your father do?\nMy father is a chef. He works in a big restaurant.\nDoes he cook at home too?\nYes, he cooks dinner for us on Sundays.\nWhat is his specialty?\nHe makes the best pasta in town!",
+        "text_zh": "A：你父亲是做什么的？\nB：我父亲是厨师。他在一家大餐厅工作。\nA：他在家也做饭吗？\nB：是的，他星期天给我们做晚饭。\nA：他的拿手菜是什么？\nB：他做城里最好的意大利面！",
+        "vocabulary": [
+          {
+            "word": "father",
+            "phonetic": "/ˈfɑːðər/",
+            "meaning": "父亲"
+          },
+          {
+            "word": "chef",
+            "phonetic": "/ʃef/",
+            "meaning": "厨师"
+          },
+          {
+            "word": "specialty",
+            "phonetic": "/ˈspeʃəlti/",
+            "meaning": "拿手菜"
+          },
+          {
+            "word": "pasta",
+            "phonetic": "/ˈpɑːstə/",
+            "meaning": "意大利面"
+          }
+        ]
+      },
+      {
+        "id": "sbs1_027",
+        "title": "Lesson 27: It's Time for Class",
+        "text_en": "Good morning, class!\nGood morning, teacher!\nPlease open your books to page ten.\nI forgot my book today.\nYou can share with your classmate.\nThank you, teacher.",
+        "text_zh": "老师：早上好，同学们！\n学生：早上好，老师！\n老师：请打开书本第十页。\n学生：我今天忘带书了。\n老师：你可以和同学共用。\n学生：谢谢老师。",
+        "vocabulary": [
+          {
+            "word": "class",
+            "phonetic": "/klæs/",
+            "meaning": "班级"
+          },
+          {
+            "word": "page",
+            "phonetic": "/peɪdʒ/",
+            "meaning": "页面"
+          },
+          {
+            "word": "forgot",
+            "phonetic": "/fərˈɡɒt/",
+            "meaning": "忘记"
+          },
+          {
+            "word": "share",
+            "phonetic": "/ʃer/",
+            "meaning": "分享"
+          }
+        ]
+      },
+      {
+        "id": "sbs1_028",
+        "title": "Lesson 28: I'm Happy Today",
+        "text_en": "Why are you so happy today?\nI passed my English test!\nCongratulations! I knew you could do it.\nI studied very hard for it.\nYour hard work paid off.\nLet's celebrate! I'll buy you lunch.",
+        "text_zh": "A：你今天为什么这么开心？\nB：我通过了英语考试！\nA：恭喜你！我就知道你能行。\nB：我为此非常努力学习了。\nA：你的努力得到了回报。\nB：我们来庆祝吧！我请你吃午饭。",
+        "vocabulary": [
+          {
+            "word": "happy",
+            "phonetic": "/ˈhæpi/",
+            "meaning": "高兴的"
+          },
+          {
+            "word": "passed",
+            "phonetic": "/pæst/",
+            "meaning": "通过了"
+          },
+          {
+            "word": "test",
+            "phonetic": "/test/",
+            "meaning": "考试"
+          },
+          {
+            "word": "celebrate",
+            "phonetic": "/ˈselɪbreɪt/",
+            "meaning": "庆祝"
+          }
+        ]
+      },
+      {
+        "id": "sbs1_029",
+        "title": "Lesson 29: I Don't Like Spicy Food",
+        "text_en": "Do you like spicy food?\nNo, I don't. It's too hot for me.\nWhat kind of food do you like?\nI like mild and sweet dishes.\nDo you like sushi?\nYes, I love it. It's fresh and healthy.",
+        "text_zh": "A：你喜欢辣的食物吗？\nB：不，我不喜欢。对我来说太辣了。\nA：你喜欢什么类型的食物？\nB：我喜欢清淡和甜的食物。\nA：你喜欢寿司吗？\nB：是的，我喜欢。新鲜又健康。",
+        "vocabulary": [
+          {
+            "word": "spicy",
+            "phonetic": "/ˈspaɪsi/",
+            "meaning": "辣的"
+          },
+          {
+            "word": "mild",
+            "phonetic": "/maɪld/",
+            "meaning": "清淡的"
+          },
+          {
+            "word": "sushi",
+            "phonetic": "/ˈsuːʃi/",
+            "meaning": "寿司"
+          },
+          {
+            "word": "fresh",
+            "phonetic": "/freʃ/",
+            "meaning": "新鲜的"
+          }
+        ]
+      },
+      {
+        "id": "sbs1_030",
+        "title": "Lesson 30: My School Is Big",
+        "text_en": "Tell me about your school.\nMy school is very big. It has fifty classrooms.\nIs there a library?\nYes, there is a big library with many books.\nDo you have a playground?\nYes, we have a large playground for sports.",
+        "text_zh": "A：给我说说你的学校。\nB：我的学校很大。有五十间教室。\nA：有图书馆吗？\nB：是的，有一个很大的图书馆，有很多书。\nA：你们有操场吗？\nB：是的，我们有一个很大的运动操场。",
+        "vocabulary": [
+          {
+            "word": "school",
+            "phonetic": "/skuːl/",
+            "meaning": "学校"
+          },
+          {
+            "word": "classroom",
+            "phonetic": "/ˈklæsruːm/",
+            "meaning": "教室"
+          },
+          {
+            "word": "playground",
+            "phonetic": "/ˈpleɪɡraʊnd/",
+            "meaning": "操场"
+          },
+          {
+            "word": "large",
+            "phonetic": "/lɑːrdʒ/",
+            "meaning": "大的"
+          }
+        ]
+      },
+      {
+        "id": "sbs1_031",
+        "title": "Lesson 31: I Help My Mother",
+        "text_en": "Do you help at home?\nYes, I help my mother with cleaning.\nWhat do you clean?\nI clean the kitchen and my bedroom.\nDoes your brother help too?\nYes, he washes the dishes after dinner.",
+        "text_zh": "A：你在家帮忙做家务吗？\nB：是的，我帮妈妈打扫。\nA：你打扫什么？\nB：我打扫厨房和我的卧室。\nA：你弟弟也帮忙吗？\nB：是的，他晚饭后洗碗。",
+        "vocabulary": [
+          {
+            "word": "help",
+            "phonetic": "/help/",
+            "meaning": "帮助"
+          },
+          {
+            "word": "clean",
+            "phonetic": "/kliːn/",
+            "meaning": "打扫"
+          },
+          {
+            "word": "wash",
+            "phonetic": "/wɒʃ/",
+            "meaning": "洗"
+          },
+          {
+            "word": "dishes",
+            "phonetic": "/ˈdɪʃɪz/",
+            "meaning": "碗碟"
+          }
+        ]
+      },
+      {
+        "id": "sbs1_032",
+        "title": "Lesson 32: I'm Learning English",
+        "text_en": "What language are you learning?\nI'm learning English.\nIs it difficult?\nSometimes, but I practice every day.\nHow do you practice?\nI watch movies and listen to songs in English.",
+        "text_zh": "A：你在学什么语言？\nB：我在学英语。\nA：难吗？\nB：有时候，但我每天练习。\nA：你怎么练习？\nB：我看英文电影和听英文歌。",
+        "vocabulary": [
+          {
+            "word": "language",
+            "phonetic": "/ˈlæŋɡwɪdʒ/",
+            "meaning": "语言"
+          },
+          {
+            "word": "difficult",
+            "phonetic": "/ˈdɪfɪkəlt/",
+            "meaning": "困难的"
+          },
+          {
+            "word": "practice",
+            "phonetic": "/ˈpræktɪs/",
+            "meaning": "练习"
+          },
+          {
+            "word": "listen",
+            "phonetic": "/ˈlɪsn/",
+            "meaning": "听"
+          }
+        ]
+      },
+      {
+        "id": "sbs1_033",
+        "title": "Lesson 33: I Like Summer Best",
+        "text_en": "Which season do you like best?\nI like summer best.\nWhy do you like summer?\nBecause I can go swimming and eat ice cream.\nI like winter because of the snow.\nWe can enjoy different things in each season.",
+        "text_zh": "A：你最喜欢哪个季节？\nB：我最喜欢夏天。\nA：你为什么喜欢夏天？\nB：因为我可以去游泳和吃冰淇淋。\nA：我喜欢冬天因为有雪。\nB：每个季节都有不同的乐趣。",
+        "vocabulary": [
+          {
+            "word": "season",
+            "phonetic": "/ˈsiːzn/",
+            "meaning": "季节"
+          },
+          {
+            "word": "summer",
+            "phonetic": "/ˈsʌmər/",
+            "meaning": "夏天"
+          },
+          {
+            "word": "best",
+            "phonetic": "/best/",
+            "meaning": "最好的"
+          },
+          {
+            "word": "enjoy",
+            "phonetic": "/ɪnˈdʒɔɪ/",
+            "meaning": "享受"
+          }
+        ]
+      },
+      {
+        "id": "sbs1_034",
+        "title": "Lesson 34: My Birthday Is in June",
+        "text_en": "When is your birthday?\nMy birthday is in June.\nHow old will you be?\nI will be twenty years old.\nDo you want to have a party?\nYes, I want to invite all my friends.",
+        "text_zh": "A：你的生日是什么时候？\nB：我的生日在六月。\nA：你多大了？\nB：我二十岁了。\nA：你想开派对吗？\nB：是的，我想邀请所有的朋友。",
+        "vocabulary": [
+          {
+            "word": "birthday",
+            "phonetic": "/ˈbɜːrθdeɪ/",
+            "meaning": "生日"
+          },
+          {
+            "word": "June",
+            "phonetic": "/dʒuːn/",
+            "meaning": "六月"
+          },
+          {
+            "word": "old",
+            "phonetic": "/oʊld/",
+            "meaning": "岁数大的"
+          },
+          {
+            "word": "invite",
+            "phonetic": "/ɪnˈvaɪt/",
+            "meaning": "邀请"
+          }
+        ]
+      },
+      {
+        "id": "sbs1_035",
+        "title": "Lesson 35: Let's Go to the Zoo",
+        "text_en": "Let's go to the zoo this Saturday!\nThat's a great idea. I love animals.\nWhat animals do you want to see?\nI want to see the lions and monkeys.\nThe zoo opens at nine o'clock.\nLet's meet at the entrance at nine thirty.",
+        "text_zh": "A：这个星期六我们去动物园吧！\nB：好主意。我喜欢动物。\nA：你想看什么动物？\nB：我想看狮子和猴子。\nA：动物园九点开门。\nB：我们九点半在入口见。",
+        "vocabulary": [
+          {
+            "word": "zoo",
+            "phonetic": "/zuː/",
+            "meaning": "动物园"
+          },
+          {
+            "word": "lion",
+            "phonetic": "/ˈlaɪən/",
+            "meaning": "狮子"
+          },
+          {
+            "word": "monkey",
+            "phonetic": "/ˈmʌŋki/",
+            "meaning": "猴子"
+          },
+          {
+            "word": "entrance",
+            "phonetic": "/ˈentrəns/",
+            "meaning": "入口"
+          }
+        ]
+      },
+      {
+        "id": "sbs1_036",
+        "title": "Lesson 36: I Get Dressed at Seven",
+        "text_en": "What time do you get dressed?\nI get dressed at seven in the morning.\nWhat do you wear to school?\nI wear a shirt and pants.\nDo you wear a uniform?\nNo, we don't have uniforms at my school.",
+        "text_zh": "A：你几点穿衣服？\nB：我早上七点穿衣服。\nA：你穿什么去学校？\nB：我穿衬衫和裤子。\nA：你穿校服吗？\nB：不，我们学校没有校服。",
+        "vocabulary": [
+          {
+            "word": "get dressed",
+            "phonetic": "/ɡet drest/",
+            "meaning": "穿衣服"
+          },
+          {
+            "word": "shirt",
+            "phonetic": "/ʃɜːrt/",
+            "meaning": "衬衫"
+          },
+          {
+            "word": "pants",
+            "phonetic": "/pænts/",
+            "meaning": "裤子"
+          },
+          {
+            "word": "morning",
+            "phonetic": "/ˈmɔːrnɪŋ/",
+            "meaning": "早上"
+          }
+        ]
+      },
+      {
+        "id": "sbs1_037",
+        "title": "Lesson 37: I Can Run Fast",
+        "text_en": "Can you run fast?\nYes, I can. I'm the fastest in my class.\nCan you jump high?\nNot very high, but I can jump far.\nDo you like sports day?\nYes, I always win in the running race.",
+        "text_zh": "A：你跑得快吗？\nB：是的，我是班上最快的。\nA：你跳得高吗？\nB：不是很高，但我跳得远。\nA：你喜欢运动会吗？\nB：是的，我总是在跑步比赛中赢。",
+        "vocabulary": [
+          {
+            "word": "run",
+            "phonetic": "/rʌn/",
+            "meaning": "跑"
+          },
+          {
+            "word": "fast",
+            "phonetic": "/fæst/",
+            "meaning": "快的"
+          },
+          {
+            "word": "jump",
+            "phonetic": "/dʒʌmp/",
+            "meaning": "跳"
+          },
+          {
+            "word": "race",
+            "phonetic": "/reɪs/",
+            "meaning": "比赛"
+          }
+        ]
+      },
+      {
+        "id": "sbs1_038",
+        "title": "Lesson 38: I Need a New Phone",
+        "text_en": "What do you need?\nI need a new phone. My old one is broken.\nWhat kind of phone do you want?\nI want a smartphone with a good camera.\nHow much is it?\nIt costs around five hundred dollars.",
+        "text_zh": "A：你需要什么？\nB：我需要一个新手机。我的旧手机坏了。\nA：你想要什么样的手机？\nB：我想要一个相机好的智能手机。\nA：多少钱？\nB：大概五百美元。",
+        "vocabulary": [
+          {
+            "word": "phone",
+            "phonetic": "/foʊn/",
+            "meaning": "手机"
+          },
+          {
+            "word": "broken",
+            "phonetic": "/ˈbroʊkən/",
+            "meaning": "坏的"
+          },
+          {
+            "word": "camera",
+            "phonetic": "/ˈkæmərə/",
+            "meaning": "相机"
+          },
+          {
+            "word": "cost",
+            "phonetic": "/kɒst/",
+            "meaning": "花费"
+          }
+        ]
+      },
+      {
+        "id": "sbs1_039",
+        "title": "Lesson 39: Let's Watch a Movie",
+        "text_en": "Do you want to watch a movie tonight?\nYes, I'd love to.\nWhat kind of movies do you like?\nI like comedy and action movies.\nThere's a new comedy at the cinema.\nLet's go see it!",
+        "text_zh": "A：你今晚想看电影吗？\nB：是的，我很想看。\nA：你喜欢什么类型的电影？\nB：我喜欢喜剧片和动作片。\nA：电影院在上映一部新喜剧。\nB：我们去看吧！",
+        "vocabulary": [
+          {
+            "word": "movie",
+            "phonetic": "/ˈmuːvi/",
+            "meaning": "电影"
+          },
+          {
+            "word": "comedy",
+            "phonetic": "/ˈkɒmədi/",
+            "meaning": "喜剧"
+          },
+          {
+            "word": "action",
+            "phonetic": "/ˈækʃn/",
+            "meaning": "动作"
+          },
+          {
+            "word": "cinema",
+            "phonetic": "/ˈsɪnəmə/",
+            "meaning": "电影院"
+          }
+        ]
+      },
+      {
+        "id": "sbs1_040",
+        "title": "Lesson 40: She Has Beautiful Eyes",
+        "text_en": "What does your girlfriend look like?\nShe has beautiful blue eyes and long brown hair.\nIs she tall?\nShe is average height.\nDoes she wear glasses?\nNo, she has perfect vision.",
+        "text_zh": "A：你的女朋友长什么样？\nB：她有美丽的蓝眼睛和长长的棕色头发。\nA：她个子高吗？\nB：她中等身材。\nA：她戴眼镜吗？\nB：不，她视力很好。",
+        "vocabulary": [
+          {
+            "word": "beautiful",
+            "phonetic": "/ˈbjuːtɪfl/",
+            "meaning": "美丽的"
+          },
+          {
+            "word": "hair",
+            "phonetic": "/her/",
+            "meaning": "头发"
+          },
+          {
+            "word": "height",
+            "phonetic": "/haɪt/",
+            "meaning": "高度"
+          },
+          {
+            "word": "glasses",
+            "phonetic": "/ˈɡlæsɪz/",
+            "meaning": "眼镜"
+          }
+        ]
+      },
+      {
+        "id": "sbs1_041",
+        "title": "Lesson 41: I Like to Draw",
+        "text_en": "What is your hobby?\nI like to draw and paint.\nWhat do you like to draw?\nI draw landscapes and animals.\nCan you show me your drawings?\nSure! I have a sketchbook with me.",
+        "text_zh": "A：你的爱好是什么？\nB：我喜欢画画。\nA：你喜欢画什么？\nB：我画风景和动物。\nA：能给我看看你的画吗？\nB：当然！我随身带着速写本。",
+        "vocabulary": [
+          {
+            "word": "hobby",
+            "phonetic": "/ˈhɒbi/",
+            "meaning": "爱好"
+          },
+          {
+            "word": "draw",
+            "phonetic": "/drɔː/",
+            "meaning": "画画"
+          },
+          {
+            "word": "sketchbook",
+            "phonetic": "/ˈsketʃbʊk/",
+            "meaning": "速写本"
+          },
+          {
+            "word": "show",
+            "phonetic": "/ʃoʊ/",
+            "meaning": "展示"
+          }
+        ]
+      },
+      {
+        "id": "sbs1_042",
+        "title": "Lesson 42: The Food Is Great Here",
+        "text_en": "This restaurant is very nice.\nYes, the food is great here.\nWhat did you order?\nI ordered grilled fish with vegetables.\nHow does it taste?\nIt's delicious! Would you like to try some?",
+        "text_zh": "A：这家餐厅很好。\nB：是的，这里的食物很棒。\nA：你点了什么？\nB：我点了烤鱼配蔬菜。\nA：味道怎么样？\nB：很美味！你想尝尝吗？",
+        "vocabulary": [
+          {
+            "word": "restaurant",
+            "phonetic": "/ˈrestrɒnt/",
+            "meaning": "餐厅"
+          },
+          {
+            "word": "grilled",
+            "phonetic": "/ɡrɪld/",
+            "meaning": "烤的"
+          },
+          {
+            "word": "fish",
+            "phonetic": "/fɪʃ/",
+            "meaning": "鱼"
+          },
+          {
+            "word": "vegetable",
+            "phonetic": "/ˈvedʒtəbl/",
+            "meaning": "蔬菜"
+          }
+        ]
+      },
+      {
+        "id": "sbs1_043",
+        "title": "Lesson 43: I'm Saving Money",
+        "text_en": "What are you saving money for?\nI'm saving money to buy a new laptop.\nHow much do you need?\nI need about eight hundred dollars.\nHow much have you saved so far?\nI have saved three hundred dollars already.",
+        "text_zh": "A：你存钱是为了什么？\nB：我在存钱买一台新笔记本电脑。\nA：你需要多少钱？\nB：我需要大约八百美元。\nA：你至今存了多少了？\nB：我已经存了三百美元了。",
+        "vocabulary": [
+          {
+            "word": "saving",
+            "phonetic": "/ˈseɪvɪŋ/",
+            "meaning": "存钱"
+          },
+          {
+            "word": "laptop",
+            "phonetic": "/ˈlæptɒp/",
+            "meaning": "笔记本电脑"
+          },
+          {
+            "word": "money",
+            "phonetic": "/ˈmʌni/",
+            "meaning": "钱"
+          },
+          {
+            "word": "already",
+            "phonetic": "/ɔːlˈredi/",
+            "meaning": "已经"
+          }
+        ]
+      },
+      {
+        "id": "sbs1_044",
+        "title": "Lesson 44: I'm from Mexico",
+        "text_en": "Where are you from?\nI'm from Mexico.\nWhat is Mexico like?\nIt's a beautiful country with great food.\nWhat food is famous in Mexico?\nTacos and burritos are very popular.",
+        "text_zh": "A：你从哪里来？\nB：我来自墨西哥。\nA：墨西哥怎么样？\nB：那是一个美丽的国家，有很棒的食物。\nA：墨西哥什么食物最有名？\nB：墨西哥卷饼和玉米煎饼很受欢迎。",
+        "vocabulary": [
+          {
+            "word": "Mexico",
+            "phonetic": "/ˈmeksɪkoʊ/",
+            "meaning": "墨西哥"
+          },
+          {
+            "word": "country",
+            "phonetic": "/ˈkʌntri/",
+            "meaning": "国家"
+          },
+          {
+            "word": "taco",
+            "phonetic": "/ˈtɑːkoʊ/",
+            "meaning": "墨西哥卷饼"
+          },
+          {
+            "word": "popular",
+            "phonetic": "/ˈpɒpjələr/",
+            "meaning": "受欢迎的"
+          }
+        ]
+      },
+      {
+        "id": "sbs1_045",
+        "title": "Lesson 45: I'm Good at Math",
+        "text_en": "What subject are you good at?\nI'm good at math.\nDo you like numbers?\nYes, I enjoy solving problems.\nAre you good at science too?\nYes, science is my second favorite subject.",
+        "text_zh": "A：你擅长什么科目？\nB：我擅长数学。\nA：你喜欢数字吗？\nB：是的，我喜欢解题。\nA：你也擅长科学吗？\nB：是的，科学是我第二喜欢的科目。",
+        "vocabulary": [
+          {
+            "word": "subject",
+            "phonetic": "/ˈsʌbdʒɪkt/",
+            "meaning": "科目"
+          },
+          {
+            "word": "math",
+            "phonetic": "/mæθ/",
+            "meaning": "数学"
+          },
+          {
+            "word": "science",
+            "phonetic": "/ˈsaɪəns/",
+            "meaning": "科学"
+          },
+          {
+            "word": "favorite",
+            "phonetic": "/ˈfeɪvərɪt/",
+            "meaning": "最喜欢的"
+          }
+        ]
+      },
+      {
+        "id": "sbs1_046",
+        "title": "Lesson 46: I'm Afraid of Snakes",
+        "text_en": "What are you afraid of?\nI'm afraid of snakes.\nAre you afraid of spiders too?\nNo, spiders don't scare me.\nWhat about the dark?\nI'm not afraid of the dark, but I don't like it.",
+        "text_zh": "A：你害怕什么？\nB：我怕蛇。\nA：你也怕蜘蛛吗？\nB：不，蜘蛛吓不到我。\nA：黑暗呢？\nB：我不怕黑暗，但我不喜欢。",
+        "vocabulary": [
+          {
+            "word": "afraid",
+            "phonetic": "/əˈfreɪd/",
+            "meaning": "害怕的"
+          },
+          {
+            "word": "snake",
+            "phonetic": "/sneɪk/",
+            "meaning": "蛇"
+          },
+          {
+            "word": "spider",
+            "phonetic": "/ˈspaɪdər/",
+            "meaning": "蜘蛛"
+          },
+          {
+            "word": "dark",
+            "phonetic": "/dɑːrk/",
+            "meaning": "黑暗"
+          }
+        ]
+      },
+      {
+        "id": "sbs1_047",
+        "title": "Lesson 47: Let's Take a Walk",
+        "text_en": "The weather is beautiful today.\nYes, let's take a walk in the park.\nThat sounds lovely.\nWe can see the flowers and trees.\nLook at those birds!\nThey are singing beautifully.",
+        "text_zh": "A：今天天气真好。\nB：是的，我们去公园散步吧。\nA：听起来不错。\nB：我们可以看看花和树。\nA：看那些鸟！\nB：它们唱得很好听。",
+        "vocabulary": [
+          {
+            "word": "walk",
+            "phonetic": "/wɔːk/",
+            "meaning": "散步"
+          },
+          {
+            "word": "flower",
+            "phonetic": "/ˈflaʊər/",
+            "meaning": "花"
+          },
+          {
+            "word": "tree",
+            "phonetic": "/triː/",
+            "meaning": "树"
+          },
+          {
+            "word": "bird",
+            "phonetic": "/bɜːrd/",
+            "meaning": "鸟"
+          }
+        ]
+      },
+      {
+        "id": "sbs1_048",
+        "title": "Lesson 48: I Brush My Teeth Every Night",
+        "text_en": "What do you do before bed?\nI brush my teeth and wash my face.\nDo you read before sleeping?\nYes, I read for about fifteen minutes.\nThat's a good habit.\nIt helps me relax and sleep better.",
+        "text_zh": "A：睡觉前你做什么？\nB：我刷牙洗脸。\nA：你睡前看书吗？\nB：是的，我看大约十五分钟的书。\nA：那是个好习惯。\nB：这帮助我放松，睡得更好。",
+        "vocabulary": [
+          {
+            "word": "brush",
+            "phonetic": "/brʌʃ/",
+            "meaning": "刷"
+          },
+          {
+            "word": "teeth",
+            "phonetic": "/tiːθ/",
+            "meaning": "牙齿"
+          },
+          {
+            "word": "habit",
+            "phonetic": "/ˈhæbɪt/",
+            "meaning": "习惯"
+          },
+          {
+            "word": "relax",
+            "phonetic": "/rɪˈlæks/",
+            "meaning": "放松"
+          }
+        ]
+      },
+      {
+        "id": "sbs1_049",
+        "title": "Lesson 49: I Want a Glass of Water",
+        "text_en": "Can I have a glass of water, please?\nSure, here you go. Would you like ice?\nYes, please. It's very hot today.\nHere is your water with ice.\nThank you very much.\nYou're welcome. Let me know if you need anything else.",
+        "text_zh": "A：请给我一杯水好吗？\nB：当然，给你。要加冰吗？\nA：好的，请加冰。今天太热了。\nB：这是你的冰水。\nA：非常感谢。\nB：不客气。有需要再叫我。",
+        "vocabulary": [
+          {
+            "word": "glass",
+            "phonetic": "/ɡlæs/",
+            "meaning": "杯子"
+          },
+          {
+            "word": "water",
+            "phonetic": "/ˈwɔːtər/",
+            "meaning": "水"
+          },
+          {
+            "word": "ice",
+            "phonetic": "/aɪs/",
+            "meaning": "冰"
+          },
+          {
+            "word": "thirsty",
+            "phonetic": "/ˈθɜːrsti/",
+            "meaning": "口渴的"
+          }
+        ]
+      },
+      {
+        "id": "sbs1_050",
+        "title": "Lesson 50: See You Tomorrow!",
+        "text_en": "It's getting late. I have to go home now.\nOK. Thank you for a wonderful day.\nLet's meet again tomorrow.\nSure. Same time, same place?\nYes! See you tomorrow!\nGoodbye! Take care!",
+        "text_zh": "A：不早了。我现在得回家了。\nB：好的。谢谢你陪我度过了美好的一天。\nA：我们明天再见面吧。\nB：好的。同一时间，同一地点？\nA：好的！明天见！\nB：再见！保重！",
+        "vocabulary": [
+          {
+            "word": "late",
+            "phonetic": "/leɪt/",
+            "meaning": "晚的"
+          },
+          {
+            "word": "tomorrow",
+            "phonetic": "/təˈmɔːroʊ/",
+            "meaning": "明天"
+          },
+          {
+            "word": "goodbye",
+            "phonetic": "/ɡʊdˈbaɪ/",
+            "meaning": "再见"
+          },
+          {
+            "word": "take care",
+            "phonetic": "/teɪk ker/",
+            "meaning": "保重"
+          }
+        ]
+      }
+    ]
+  }
+}

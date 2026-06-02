@@ -1,12 +1,17 @@
 name: VocabApp
 options:
-  bundleIdPrefix: com.vocabapp
+  bundleIdPrefix: com.maoliangliang.vocabapp
   deploymentTarget:
     iOS: "17.0"
   xcodeVersion: "16.0"
 
 settings:
   SWIFT_VERSION: "6.0"
+
+settings:
+  configs:
+    Release:
+      OTHER_SWIFT_FLAGS: "$(inherited) -DAPP_STORE"
 
 targets:
   VocabApp:
@@ -21,16 +26,30 @@ targets:
       - Resources
       - Utilities
     settings:
-      PRODUCT_BUNDLE_IDENTIFIER: com.vocabapp
+      PRODUCT_BUNDLE_IDENTIFIER: com.maoliangliang.vocabapp
+      CODE_SIGN_STYLE: Automatic
+      DEVELOPMENT_TEAM: Y3K9Z836YN
       INFOPLIST_FILE: VocabApp/Info.plist
+      OTHER_SWIFT_FLAGS: "$(inherited)"
+    configs:
+      Release:
+        OTHER_SWIFT_FLAGS: "$(inherited) -DAPP_STORE"
     info:
       path: VocabApp/Info.plist
+      properties:
+        CFBundleDisplayName: VocabApp
+        CFBundleDevelopmentRegion: zh_CN
+        LSRequiresIPhoneOS: true
+        UILaunchScreen: { }
+        UISupportedInterfaceOrientations~iphone: [UIInterfaceOrientationPortrait]
+        UISupportedInterfaceOrientations~ipad: [UIInterfaceOrientationPortrait, UIInterfaceOrientationPortraitUpsideDown, UIInterfaceOrientationLandscapeLeft, UIInterfaceOrientationLandscapeRight]
     entitlements:
       path: VocabApp/VocabApp.entitlements
     dependencies: []
     resources:
       - path: Resources/WordBanks
-      - path: StoreKit/Products.storekit
+      - path: Resources/SemanticGroups.json
+      - path: Resources/SemanticGroups.json
 
   VocabAppTests:
     type: bundle.unit-test
@@ -39,9 +58,10 @@ targets:
       - VocabAppTests
     settings:
       TEST_TARGET_NAME: VocabApp
-      PRODUCT_BUNDLE_IDENTIFIER: com.vocabapp.tests
+      PRODUCT_BUNDLE_IDENTIFIER: com.maoliangliang.vocabapp.tests
       INFOPLIST_FILE: VocabAppTests/Info.plist
     dependencies:
       - target: VocabApp
     resources:
       - path: Resources/WordBanks
+      - path: Resources/SemanticGroups.json

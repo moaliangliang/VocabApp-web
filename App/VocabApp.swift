@@ -6,22 +6,31 @@ import SwiftData
 struct VocabApp: App {
     let modelContainer: ModelContainer
 
-    @State private var storeManager = StoreManager()
-
     var body: some Scene {
         WindowGroup {
-            MainTabView(storeManager: storeManager)
+            MainTabView()
         }
         .modelContainer(modelContainer)
     }
 
     init() {
         do {
+            let storeURL = Self.sharedStoreURL()
+            let config = ModelConfiguration(url: storeURL)
             modelContainer = try ModelContainer(
-                for: Word.self, Course.self, LearningRecord.self, DailyLog.self, PurchaseRecord.self
+                for: Word.self, LearningRecord.self, DailyLog.self,
+                configurations: config
             )
         } catch {
             fatalError("Failed to create ModelContainer: \(error)")
         }
+    }
+
+    static func sharedStoreURL() -> URL {
+        let appGroupID = "group.com.vocabapp.personal"
+        guard let container = FileManager.default.containerURL(forSecurityApplicationGroupIdentifier: appGroupID) else {
+            return URL.applicationSupportDirectory.appendingPathComponent("VocabApp.sqlite")
+        }
+        return container.appendingPathComponent("model.sqlite")
     }
 }

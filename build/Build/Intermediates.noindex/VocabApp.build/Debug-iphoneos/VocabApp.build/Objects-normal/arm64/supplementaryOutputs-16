@@ -1,0 +1,24 @@
+"/Users/maoliangliang/workspace/app/VocabApp/Models/Word.swift":
+  diagnostics: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/Word.dia"
+  dependencies: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/Word.d"
+  object: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/Word.o"
+  swift-dependencies: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/Word.swiftdeps"
+  const-values: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/Word.swiftconstvalues"
+"/Users/maoliangliang/workspace/app/VocabApp/Views/WordDetail/WordDetailView.swift":
+  swift-dependencies: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/WordDetailView.swiftdeps"
+  dependencies: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/WordDetailView.d"
+  object: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/WordDetailView.o"
+  diagnostics: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/WordDetailView.dia"
+  const-values: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/WordDetailView.swiftconstvalues"
+"/Users/maoliangliang/workspace/app/VocabApp/Services/WordBankLoader.swift":
+  swift-dependencies: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/WordBankLoader.swiftdeps"
+  diagnostics: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/WordBankLoader.dia"
+  dependencies: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/WordBankLoader.d"
+  const-values: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/WordBankLoader.swiftconstvalues"
+  object: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/WordBankLoader.o"
+"/Users/maoliangliang/workspace/app/VocabApp/App/VocabApp.swift":
+  const-values: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/VocabApp.swiftconstvalues"
+  object: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/VocabApp.o"
+  diagnostics: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/VocabApp.dia"
+  dependencies: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/VocabApp.d"
+  swift-dependencies: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/VocabApp.swiftdeps"

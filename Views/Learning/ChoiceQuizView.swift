@@ -4,18 +4,18 @@ import SwiftUI
 struct ChoiceQuizView: View {
     let word: Word
     let onAnswer: (Bool) -> Void
+    let options: [String]
 
     @State private var selectedAnswer: String?
     @State private var showResult = false
 
-    /// 生成 3 个干扰项 + 正确答案
-    private var options: [String] {
-        // 简化：从同课程其他词取释义作为干扰项
-        var pool = [word.meaning]
-        // 从预置干扰项中取 3 个
-        let distractors = ["拒绝，否认", "接受，承认", "忽略，忽视", "建立，创立", "破坏，摧毁"]
-        pool.append(contentsOf: distractors.shuffled().prefix(3))
-        return pool.shuffled()
+    /// 初始化时传入干扰项（由外部生成）
+    init(word: Word, distractors: [String], onAnswer: @escaping (Bool) -> Void) {
+        self.word = word
+        self.onAnswer = onAnswer
+        // 正确答案 + 干扰项混合后随机排列
+        var opts = [word.meaning] + distractors.shuffled()
+        self.options = opts.shuffled()
     }
 
     var body: some View {
@@ -58,6 +58,7 @@ struct ChoiceQuizView: View {
             }
         }
         .padding()
+        .frame(maxWidth: .infinity, maxHeight: .infinity)
     }
 
     private func buttonColor(for option: String) -> Color {

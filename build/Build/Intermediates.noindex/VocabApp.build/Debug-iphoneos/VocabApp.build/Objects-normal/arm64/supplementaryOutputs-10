@@ -1,0 +1,24 @@
+"/Users/maoliangliang/workspace/app/VocabApp/Views/Courses/CourseListView.swift":
+  const-values: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/CourseListView.swiftconstvalues"
+  object: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/CourseListView.o"
+  swift-dependencies: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/CourseListView.swiftdeps"
+  dependencies: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/CourseListView.d"
+  diagnostics: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/CourseListView.dia"
+"/Users/maoliangliang/workspace/app/VocabApp/Models/CourseModels.swift":
+  swift-dependencies: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/CourseModels.swiftdeps"
+  const-values: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/CourseModels.swiftconstvalues"
+  diagnostics: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/CourseModels.dia"
+  dependencies: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/CourseModels.d"
+  object: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/CourseModels.o"
+"/Users/maoliangliang/workspace/app/VocabApp/Views/Store/CourseStoreView.swift":
+  diagnostics: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/CourseStoreView.dia"
+  object: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/CourseStoreView.o"
+  const-values: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/CourseStoreView.swiftconstvalues"
+  swift-dependencies: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/CourseStoreView.swiftdeps"
+  dependencies: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/CourseStoreView.d"
+"/Users/maoliangliang/workspace/app/VocabApp/Views/Store/CourseDetailView.swift":
+  object: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/CourseDetailView.o"
+  const-values: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/CourseDetailView.swiftconstvalues"
+  swift-dependencies: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/CourseDetailView.swiftdeps"
+  dependencies: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/CourseDetailView.d"
+  diagnostics: "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/CourseDetailView.dia"

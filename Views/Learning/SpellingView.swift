@@ -49,6 +49,7 @@ struct SpellingView: View {
             }
         }
         .padding()
+        .frame(maxWidth: .infinity, maxHeight: .infinity)
         .onAppear { isFocused = true; speak() }
     }
 

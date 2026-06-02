@@ -16,24 +16,18 @@ final class LearningRecord: @unchecked Sendable {
     var nextReviewDate: Date = Date()           // 下次复习时间
     var lastReviewDate: Date?
 
-    // 各模式表现
+    // 模式表现
     var choiceCorrectCount: Int = 0
     var choiceWrongCount: Int = 0
-    var cardFlipCount: Int = 0
     var spellingCorrectCount: Int = 0
     var spellingWrongCount: Int = 0
 
     // 掌握状态
     var mastery: Int = 0                        // 0=未学习, 1=学习中, 2=已掌握, 3=熟练
 
-    // 今天是否已完成三种模式
+    // 今日已完成模式 (自由组合，记录实际做了哪些)
     var choiceDoneToday: Bool = false
-    var cardDoneToday: Bool = false
     var spellingDoneToday: Bool = false
-
-    var allModesDoneToday: Bool {
-        choiceDoneToday && cardDoneToday && spellingDoneToday
-    }
 
     init(id: String, wordID: String, courseID: String) {
         self.id = id

@@ -1,0 +1,1412 @@
+{
+  "course": {
+    "id": "sbs3",
+    "title": "Side by Side 3",
+    "author": "Steven J. Molinsky & Bill Bliss",
+    "type": "american",
+    "description": "中级篇 — 完成时、被动语态、条件句、间接引语",
+    "icon": "text.book.closed",
+    "lessons": [
+      {
+        "id": "sbs3_001",
+        "title": "Lesson 1: Have You Ever Seen a Ghost?",
+        "text_en": "Have you ever seen a ghost?\nNo, I haven't. I don't believe in ghosts.\nHave you ever been to a haunted house?\nYes, I have. It was scary!\nWhat's the strangest thing you've ever seen?\nI once saw a UFO!",
+        "text_zh": "A：你见过鬼吗？\nB：不，没有。我不相信鬼。\nA：你去过鬼屋吗？\nB：是的，去过。很吓人！\nA：你见过的最奇怪的东西是什么？\nB：我一次看到过不明飞行物！",
+        "vocabulary": [
+          {
+            "word": "ghost",
+            "phonetic": "/ɡoʊst/",
+            "meaning": "鬼"
+          },
+          {
+            "word": "believe",
+            "phonetic": "/bɪˈliːv/",
+            "meaning": "相信"
+          },
+          {
+            "word": "haunted",
+            "phonetic": "/ˈhɔːntɪd/",
+            "meaning": "闹鬼的"
+          },
+          {
+            "word": "scary",
+            "phonetic": "/ˈskeri/",
+            "meaning": "吓人的"
+          }
+        ]
+      },
+      {
+        "id": "sbs3_002",
+        "title": "Lesson 2: English Is Spoken Here",
+        "text_en": "Is English spoken in your country?\nYes, English is spoken in many places.\nWhere is French spoken?\nFrench is spoken in France and Canada.\nAre these books written in Chinese?\nYes, they are written in Chinese.",
+        "text_zh": "A：你们国家说英语吗？\nB：是的，很多地方说英语。\nA：哪里说法语？\nB：法国和加拿大说法语。\nA：这些书是中文写的吗？\nB：是的，它们是用中文写的。",
+        "vocabulary": [
+          {
+            "word": "spoken",
+            "phonetic": "/ˈspoʊkən/",
+            "meaning": "说（过去分词）"
+          },
+          {
+            "word": "country",
+            "phonetic": "/ˈkʌntri/",
+            "meaning": "国家"
+          },
+          {
+            "word": "written",
+            "phonetic": "/ˈrɪtn/",
+            "meaning": "写（过去分词）"
+          },
+          {
+            "word": "French",
+            "phonetic": "/frentʃ/",
+            "meaning": "法语"
+          }
+        ]
+      },
+      {
+        "id": "sbs3_003",
+        "title": "Lesson 3: The House Was Built in 1920",
+        "text_en": "When was this house built?\nIt was built in 1920.\nWho designed it?\nIt was designed by a famous architect.\nHas it been renovated?\nYes, it was renovated last year.",
+        "text_zh": "A：这栋房子是什么时候建的？\nB：建于1920年。\nA：是谁设计的？\nB：是由一位著名建筑师设计的。\nA：它翻新了吗？\nB：是的，去年翻新了。",
+        "vocabulary": [
+          {
+            "word": "built",
+            "phonetic": "/bɪlt/",
+            "meaning": "建造"
+          },
+          {
+            "word": "designed",
+            "phonetic": "/dɪˈzaɪnd/",
+            "meaning": "设计"
+          },
+          {
+            "word": "architect",
+            "phonetic": "/ˈɑːrkɪtekt/",
+            "meaning": "建筑师"
+          },
+          {
+            "word": "renovated",
+            "phonetic": "/ˈrenəveɪtɪd/",
+            "meaning": "翻新的"
+          }
+        ]
+      },
+      {
+        "id": "sbs3_004",
+        "title": "Lesson 4: I Would Have Helped You",
+        "text_en": "If I had known, I would have helped you.\nThank you. That's very kind.\nIf you had called me, I would have come.\nI'm sorry I didn't call you.\nIf she had studied harder, she would have passed.\nI know. She regrets it now.",
+        "text_zh": "A：如果我当时知道，我就会帮你了。\nB：谢谢。你真好。\nA：如果你给我打电话，我就会来了。\nB：对不起，我没有给你打电话。\nA：如果她当时更努力学习，她就通过了。\nB：我知道。她现在很后悔。",
+        "vocabulary": [
+          {
+            "word": "would have",
+            "phonetic": "/wʊd hæv/",
+            "meaning": "本来会"
+          },
+          {
+            "word": "known",
+            "phonetic": "/noʊn/",
+            "meaning": "知道（过去分词）"
+          },
+          {
+            "word": "kind",
+            "phonetic": "/kaɪnd/",
+            "meaning": "友善的"
+          },
+          {
+            "word": "regret",
+            "phonetic": "/rɪˈɡret/",
+            "meaning": "后悔"
+          }
+        ]
+      },
+      {
+        "id": "sbs3_005",
+        "title": "Lesson 5: He Said He Was Tired",
+        "text_en": "What did he say?\nHe said he was tired.\nWhat did she tell you?\nShe told me that she would be late.\nDid they say they were coming?\nYes, they said they would arrive at eight.",
+        "text_zh": "A：他说了什么？\nB：他说他累了。\nA：她告诉了你什么？\nB：她告诉我她会迟到。\nA：他们说了要来吗？\nB：是的，他们说八点到。",
+        "vocabulary": [
+          {
+            "word": "said",
+            "phonetic": "/sed/",
+            "meaning": "说（过去式）"
+          },
+          {
+            "word": "tired",
+            "phonetic": "/ˈtaɪərd/",
+            "meaning": "疲倦的"
+          },
+          {
+            "word": "late",
+            "phonetic": "/leɪt/",
+            "meaning": "迟到的"
+          },
+          {
+            "word": "arrive",
+            "phonetic": "/əˈraɪv/",
+            "meaning": "到达"
+          }
+        ]
+      },
+      {
+        "id": "sbs3_006",
+        "title": "Lesson 6: I Don't Know How to Fix It",
+        "text_en": "Do you know how to fix this?\nNo, I don't know how to do it.\nCan you teach me how to cook?\nSure, I can show you how to make pasta.\nI learned how to swim when I was young.\nI never learned how to ride a bike.",
+        "text_zh": "A：你知道怎么修这个吗？\nB：不，我不知道怎么做。\nA：你能教我怎么做饭吗？\nB：当然，我可以教你做意大利面。\nA：我小时候学会了游泳。\nB：我从来没学过骑自行车。",
+        "vocabulary": [
+          {
+            "word": "how to",
+            "phonetic": "/haʊ tuː/",
+            "meaning": "如何做"
+          },
+          {
+            "word": "fix",
+            "phonetic": "/fɪks/",
+            "meaning": "修理"
+          },
+          {
+            "word": "cook",
+            "phonetic": "/kʊk/",
+            "meaning": "做饭"
+          },
+          {
+            "word": "ride",
+            "phonetic": "/raɪd/",
+            "meaning": "骑"
+          }
+        ]
+      },
+      {
+        "id": "sbs3_007",
+        "title": "Lesson 7: I'm Looking Forward to It",
+        "text_en": "Are you looking forward to your trip?\nYes, I'm really looking forward to it.\nI'm looking forward to meeting your family.\nThey're looking forward to meeting you too.\nWhat are you most excited about?\nI'm looking forward to seeing the museums.",
+        "text_zh": "A：你很期待你的旅行吗？\nB：是的，我非常期待。\nA：我期待着见到你的家人。\nB：他们也期待着见到你。\nA：你最期待什么？\nB：我期待着看到博物馆。",
+        "vocabulary": [
+          {
+            "word": "look forward to",
+            "phonetic": "/lʊk ˈfɔːrwərd tuː/",
+            "meaning": "期待"
+          },
+          {
+            "word": "trip",
+            "phonetic": "/trɪp/",
+            "meaning": "旅行"
+          },
+          {
+            "word": "excited",
+            "phonetic": "/ɪkˈsaɪtɪd/",
+            "meaning": "兴奋的"
+          },
+          {
+            "word": "museum",
+            "phonetic": "/mjuˈziːəm/",
+            "meaning": "博物馆"
+          }
+        ]
+      },
+      {
+        "id": "sbs3_008",
+        "title": "Lesson 8: I'm Used to Getting Up Early",
+        "text_en": "You get up very early.\nI know. I'm used to getting up early.\nAren't you used to the cold weather?\nNo, I'm not used to it yet.\nWill you get used to it?\nI think I will eventually.",
+        "text_zh": "A：你起得很早。\nB：我知道。我习惯早起了。\nA：你不习惯寒冷的天气吗？\nB：不，我还不习惯。\nA：你会习惯的。\nB：我想最终会的。",
+        "vocabulary": [
+          {
+            "word": "used to (doing)",
+            "phonetic": "/juːst tuː/",
+            "meaning": "习惯于"
+          },
+          {
+            "word": "early",
+            "phonetic": "/ˈɜːrli/",
+            "meaning": "早的"
+          },
+          {
+            "word": "cold",
+            "phonetic": "/koʊld/",
+            "meaning": "寒冷的"
+          },
+          {
+            "word": "eventually",
+            "phonetic": "/ɪˈventʃuəli/",
+            "meaning": "最终"
+          }
+        ]
+      },
+      {
+        "id": "sbs3_009",
+        "title": "Lesson 9: It's Too Heavy for Me",
+        "text_en": "Can you lift this box?\nNo, it's too heavy for me.\nIs it heavy enough for you?\nYes, it's heavy enough. But I can do it.\nThis suitcase is too big to carry.\nLet's get a cart.",
+        "text_zh": "A：你能抬起这个箱子吗？\nB：不，对我来说太重了。\nA：对你来说够重了吗？\nB：是的，够重。但我可以。\nA：这个行李箱太大，拿不了。\nB：我们去推个车吧。",
+        "vocabulary": [
+          {
+            "word": "heavy",
+            "phonetic": "/ˈhevi/",
+            "meaning": "重的"
+          },
+          {
+            "word": "lift",
+            "phonetic": "/lɪft/",
+            "meaning": "举起"
+          },
+          {
+            "word": "enough",
+            "phonetic": "/ɪˈnʌf/",
+            "meaning": "足够"
+          },
+          {
+            "word": "carry",
+            "phonetic": "/ˈkæri/",
+            "meaning": "搬运"
+          }
+        ]
+      },
+      {
+        "id": "sbs3_010",
+        "title": "Lesson 10: I Enjoy Listening to Music",
+        "text_en": "What do you enjoy doing in your free time?\nI enjoy listening to music.\nWhat kind of music do you like?\nI like jazz and classical music.\nI prefer reading books.\nReading is a great hobby too.",
+        "text_zh": "A：你空闲时间喜欢做什么？\nB：我喜欢听音乐。\nA：你喜欢什么类型的音乐？\nB：我喜欢爵士乐和古典音乐。\nA：我更喜欢读书。\nB：阅读也是一个很好的爱好。",
+        "vocabulary": [
+          {
+            "word": "enjoy",
+            "phonetic": "/ɪnˈdʒɔɪ/",
+            "meaning": "享受"
+          },
+          {
+            "word": "listening",
+            "phonetic": "/ˈlɪsənɪŋ/",
+            "meaning": "听"
+          },
+          {
+            "word": "free time",
+            "phonetic": "/friː taɪm/",
+            "meaning": "空闲时间"
+          },
+          {
+            "word": "hobby",
+            "phonetic": "/ˈhɒbi/",
+            "meaning": "爱好"
+          }
+        ]
+      },
+      {
+        "id": "sbs3_011",
+        "title": "Lesson 11: The Window Was Broken by the Storm",
+        "text_en": "What happened to the window?\nIt was broken by the storm.\nWhen did the storm happen?\nLast night. The wind was very strong.\nWas anything else damaged?\nYes, some trees were knocked down.",
+        "text_zh": "A：窗户怎么了？\nB：被暴风雨打破了。\nA：暴风雨什么时候来的？\nB：昨晚。风很大。\nA：还有其他东西受损吗？\nB：是的，一些树被吹倒了。",
+        "vocabulary": [
+          {
+            "word": "storm",
+            "phonetic": "/stɔːrm/",
+            "meaning": "暴风雨"
+          },
+          {
+            "word": "broken",
+            "phonetic": "/ˈbroʊkən/",
+            "meaning": "打破的"
+          },
+          {
+            "word": "damaged",
+            "phonetic": "/ˈdæmɪdʒd/",
+            "meaning": "受损的"
+          },
+          {
+            "word": "wind",
+            "phonetic": "/wɪnd/",
+            "meaning": "风"
+          }
+        ]
+      },
+      {
+        "id": "sbs3_012",
+        "title": "Lesson 12: He Asked Me Where I Lived",
+        "text_en": "What did the police officer ask you?\nHe asked me where I lived.\nWhat did you tell him?\nI told him I lived on Oak Street.\nDid he ask for your ID?\nYes, he asked to see my driver's license.",
+        "text_zh": "A：警察问了你什么？\nB：他问我住在哪里。\nA：你告诉他什么了？\nB：我告诉他我住在橡树街。\nA：他要你的身份证了吗？\nB：是的，他要看我的驾照。",
+        "vocabulary": [
+          {
+            "word": "asked",
+            "phonetic": "/æskt/",
+            "meaning": "问（过去式）"
+          },
+          {
+            "word": "police officer",
+            "phonetic": "/pəˈliːs ˈɒfɪsər/",
+            "meaning": "警察"
+          },
+          {
+            "word": "ID",
+            "phonetic": "/aɪ diː/",
+            "meaning": "身份证"
+          },
+          {
+            "word": "driver's license",
+            "phonetic": "/ˈdraɪvərz ˈlaɪsns/",
+            "meaning": "驾照"
+          }
+        ]
+      },
+      {
+        "id": "sbs3_013",
+        "title": "Lesson 13: The Food Is Being Prepared",
+        "text_en": "Is the food ready?\nNot yet. It's being prepared now.\nHow long will it take?\nThe chef is cooking it right now.\nWhat is being served tonight?\nGrilled salmon with vegetables.",
+        "text_zh": "A：食物准备好了吗？\nB：还没有。正在准备中。\nA：需要多久？\nB：厨师正在做。\nA：今晚供应什么？\nB：烤三文鱼配蔬菜。",
+        "vocabulary": [
+          {
+            "word": "being prepared",
+            "phonetic": "/ˈbiːɪŋ prɪˈperd/",
+            "meaning": "正在准备"
+          },
+          {
+            "word": "served",
+            "phonetic": "/sɜːrvd/",
+            "meaning": "供应"
+          },
+          {
+            "word": "salmon",
+            "phonetic": "/ˈsæmən/",
+            "meaning": "三文鱼"
+          },
+          {
+            "word": "chef",
+            "phonetic": "/ʃef/",
+            "meaning": "厨师"
+          }
+        ]
+      },
+      {
+        "id": "sbs3_014",
+        "title": "Lesson 14: I Wish I Had Studied More",
+        "text_en": "You look upset.\nI wish I had studied more for the test.\nDid you not do well?\nNo, I failed.\nI'm sorry. You can take it again.\nI know. I'll prepare better next time.",
+        "text_zh": "A：你看起来很沮丧。\nB：我真希望我为考试多学了一些。\nA：你没考好吗？\nB：不，我没通过。\nA：很遗憾。你可以再考一次。\nB：我知道。下次我会准备得更好。",
+        "vocabulary": [
+          {
+            "word": "wish...had...",
+            "phonetic": "/wɪʃ hæd/",
+            "meaning": "希望……本该……"
+          },
+          {
+            "word": "failed",
+            "phonetic": "/feɪld/",
+            "meaning": "失败，没通过"
+          },
+          {
+            "word": "test",
+            "phonetic": "/test/",
+            "meaning": "考试"
+          },
+          {
+            "word": "prepare",
+            "phonetic": "/prɪˈper/",
+            "meaning": "准备"
+          }
+        ]
+      },
+      {
+        "id": "sbs3_015",
+        "title": "Lesson 15: He Has Been Working Here for Five Years",
+        "text_en": "How long has Tom been working here?\nHe has been working here for five years.\nDoes he like it?\nYes, he loves his job.\nWhat does he do exactly?\nHe's a software engineer.",
+        "text_zh": "A：汤姆在这里工作多久了？\nB：他在这里已经工作五年了。\nA：他喜欢吗？\nB：是的，他热爱他的工作。\nA：他具体做什么？\nB：他是一名软件工程师。",
+        "vocabulary": [
+          {
+            "word": "has been working",
+            "phonetic": "/hæz bɪn ˈwɜːrkɪŋ/",
+            "meaning": "一直在工作"
+          },
+          {
+            "word": "software",
+            "phonetic": "/ˈsɒftwer/",
+            "meaning": "软件"
+          },
+          {
+            "word": "engineer",
+            "phonetic": "/ˌendʒɪˈnɪr/",
+            "meaning": "工程师"
+          },
+          {
+            "word": "exactly",
+            "phonetic": "/ɪɡˈzæktli/",
+            "meaning": "确切地"
+          }
+        ]
+      },
+      {
+        "id": "sbs3_016",
+        "title": "Lesson 16: It Must Have Been Expensive",
+        "text_en": "Look at this painting.\nIt must have been very expensive.\nIt was. It cost over ten thousand dollars.\nWho bought it?\nA wealthy collector.\nI wish I could afford something like that.",
+        "text_zh": "A：看这幅画。\nB：一定很贵。\nA：是的。花费超过一万美元。\nB：谁买了？\nA：一位富有的收藏家。\nB：真希望我也买得起这样的东西。",
+        "vocabulary": [
+          {
+            "word": "must have",
+            "phonetic": "/mʌst hæv/",
+            "meaning": "一定已经"
+          },
+          {
+            "word": "painting",
+            "phonetic": "/ˈpeɪntɪŋ/",
+            "meaning": "画"
+          },
+          {
+            "word": "wealthy",
+            "phonetic": "/ˈwelθi/",
+            "meaning": "富有的"
+          },
+          {
+            "word": "collector",
+            "phonetic": "/kəˈlektər/",
+            "meaning": "收藏家"
+          }
+        ]
+      },
+      {
+        "id": "sbs3_017",
+        "title": "Lesson 17: The Car Was Being Repaired",
+        "text_en": "Where is your car?\nIt was being repaired at the garage.\nWhat was wrong with it?\nThe engine had a problem.\nIs it fixed now?\nYes, I picked it up this morning.",
+        "text_zh": "A：你的车在哪里？\nB：正在修理厂修理。\nA：出了什么问题？\nB：发动机有问题。\nA：现在修好了吗？\nB：是的，我今天早上取回来了。",
+        "vocabulary": [
+          {
+            "word": "being repaired",
+            "phonetic": "/ˈbiːɪŋ rɪˈperd/",
+            "meaning": "正在修理"
+          },
+          {
+            "word": "garage",
+            "phonetic": "/ɡəˈrɑːʒ/",
+            "meaning": "修理厂"
+          },
+          {
+            "word": "engine",
+            "phonetic": "/ˈendʒɪn/",
+            "meaning": "发动机"
+          },
+          {
+            "word": "fixed",
+            "phonetic": "/fɪkst/",
+            "meaning": "修好的"
+          }
+        ]
+      },
+      {
+        "id": "sbs3_018",
+        "title": "Lesson 18: She Told Me That She Was Sick",
+        "text_en": "Why wasn't Mary at work today?\nShe told me that she was sick.\nDid she say what was wrong?\nShe said she had a bad cold.\nI hope she gets better soon.\nMe too. I'll send her a get-well message.",
+        "text_zh": "A：玛丽今天为什么没上班？\nB：她告诉我她生病了。\nA：她说了哪里不舒服吗？\nB：她说她得了重感冒。\nA：希望她早日康复。\nB：我也是。我会给她发慰问信息。",
+        "vocabulary": [
+          {
+            "word": "told me that",
+            "phonetic": "/toʊld miː ðæt/",
+            "meaning": "告诉我"
+          },
+          {
+            "word": "sick",
+            "phonetic": "/sɪk/",
+            "meaning": "生病的"
+          },
+          {
+            "word": "cold",
+            "phonetic": "/koʊld/",
+            "meaning": "感冒"
+          },
+          {
+            "word": "get well",
+            "phonetic": "/ɡet wel/",
+            "meaning": "康复"
+          }
+        ]
+      },
+      {
+        "id": "sbs3_019",
+        "title": "Lesson 19: If I Were Rich, I Would Travel the World",
+        "text_en": "What would you do if you were rich?\nIf I were rich, I would travel the world.\nWhere would you go first?\nI would go to the Maldives.\nThat's a beautiful place.\nYes, I've seen pictures. It looks like paradise.",
+        "text_zh": "A：如果你有钱，你会做什么？\nB：如果我有钱，我会环游世界。\nA：你会先去哪里？\nB：我会去马尔代夫。\nA：那是个美丽的地方。\nB：是的，我看过照片。看起来像天堂。",
+        "vocabulary": [
+          {
+            "word": "if I were",
+            "phonetic": "/ɪf aɪ wɜːr/",
+            "meaning": "如果我是"
+          },
+          {
+            "word": "rich",
+            "phonetic": "/rɪtʃ/",
+            "meaning": "富有的"
+          },
+          {
+            "word": "paradise",
+            "phonetic": "/ˈpærədaɪs/",
+            "meaning": "天堂"
+          },
+          {
+            "word": "Maldives",
+            "phonetic": "/ˈmɔːldiːvz/",
+            "meaning": "马尔代夫"
+          }
+        ]
+      },
+      {
+        "id": "sbs3_020",
+        "title": "Lesson 20: The Book Was Written in 1998",
+        "text_en": "When was this book written?\nIt was written in 1998.\nWho wrote it?\nIt was written by a famous author.\nHas it been translated into other languages?\nYes, it has been translated into twenty languages.",
+        "text_zh": "A：这本书是什么时候写的？\nB：写于1998年。\nA：谁写的？\nB：由一位著名作家写的。\nA：它被翻译成其他语言了吗？\nB：是的，已经翻译成二十种语言了。",
+        "vocabulary": [
+          {
+            "word": "translated",
+            "phonetic": "/ˈtrænsleɪtɪd/",
+            "meaning": "翻译"
+          },
+          {
+            "word": "author",
+            "phonetic": "/ˈɔːθər/",
+            "meaning": "作者"
+          },
+          {
+            "word": "famous",
+            "phonetic": "/ˈfeɪməs/",
+            "meaning": "著名的"
+          },
+          {
+            "word": "language",
+            "phonetic": "/ˈlæŋɡwɪdʒ/",
+            "meaning": "语言"
+          }
+        ]
+      },
+      {
+        "id": "sbs3_021",
+        "title": "Lesson 21: You Shouldn't Have Said That",
+        "text_en": "You shouldn't have said that to her.\nI know. It was a mistake.\nShe looked really hurt.\nI'll apologize to her.\nThat would be the right thing to do.\nI hope she forgives me.",
+        "text_zh": "A：你不应该那样对她说的。\nB：我知道。那是个错误。\nA：她看起来真的很受伤。\nB：我会向她道歉的。\nA：那样做是对的。\nB：希望她能原谅我。",
+        "vocabulary": [
+          {
+            "word": "shouldn't have",
+            "phonetic": "/ˈʃʊdnt hæv/",
+            "meaning": "本不应该"
+          },
+          {
+            "word": "mistake",
+            "phonetic": "/mɪˈsteɪk/",
+            "meaning": "错误"
+          },
+          {
+            "word": "apologize",
+            "phonetic": "/əˈpɒlədʒaɪz/",
+            "meaning": "道歉"
+          },
+          {
+            "word": "forgive",
+            "phonetic": "/fərˈɡɪv/",
+            "meaning": "原谅"
+          }
+        ]
+      },
+      {
+        "id": "sbs3_022",
+        "title": "Lesson 22: I've Been Thinking About You",
+        "text_en": "You look lost in thought.\nI've been thinking about you.\nReally? What about?\nI was just remembering our trip together.\nThat was such a good time!\nYes, we should do it again.",
+        "text_zh": "A：你看起来在沉思。\nB：我一直在想你。\nA：真的吗？想什么？\nB：我只是在回忆我们一起的旅行。\nA：那段时光太美好了！\nB：是的，我们应该再去一次。",
+        "vocabulary": [
+          {
+            "word": "been thinking",
+            "phonetic": "/bɪn ˈθɪŋkɪŋ/",
+            "meaning": "一直在想"
+          },
+          {
+            "word": "remember",
+            "phonetic": "/rɪˈmembər/",
+            "meaning": "回忆"
+          },
+          {
+            "word": "together",
+            "phonetic": "/təˈɡeðər/",
+            "meaning": "一起"
+          },
+          {
+            "word": "thought",
+            "phonetic": "/θɔːt/",
+            "meaning": "思考"
+          }
+        ]
+      },
+      {
+        "id": "sbs3_023",
+        "title": "Lesson 23: The Party Will Be Held on Saturday",
+        "text_en": "When will the party be held?\nIt will be held on Saturday.\nWhere will it be held?\nIt will be held at the community center.\nWill food be served?\nYes, dinner will be served at seven.",
+        "text_zh": "A：派对什么时候举办？\nB：星期六举办。\nA：在哪里举办？\nB：在社区中心举办。\nA：有食物供应吗？\nB：是的，七点供应晚餐。",
+        "vocabulary": [
+          {
+            "word": "will be held",
+            "phonetic": "/wɪl biː held/",
+            "meaning": "将被举办"
+          },
+          {
+            "word": "community center",
+            "phonetic": "/kəˈmjuːnəti ˈsentər/",
+            "meaning": "社区中心"
+          },
+          {
+            "word": "dinner",
+            "phonetic": "/ˈdɪnər/",
+            "meaning": "晚餐"
+          },
+          {
+            "word": "Saturday",
+            "phonetic": "/ˈsætərdeɪ/",
+            "meaning": "星期六"
+          }
+        ]
+      },
+      {
+        "id": "sbs3_024",
+        "title": "Lesson 24: I Wish I Could Sing Better",
+        "text_en": "I wish I could sing better.\nYou're not that bad!\nBut I want to be really good.\nPractice makes perfect.\nHow often should I practice?\nAt least thirty minutes every day.",
+        "text_zh": "A：我希望我能唱得更好。\nB：你唱得没那么差！\nA：但我想唱得非常好。\nB：熟能生巧。\nA：我应该多久练习一次？\nB：每天至少三十分钟。",
+        "vocabulary": [
+          {
+            "word": "wish...could...",
+            "phonetic": "/wɪʃ kʊd/",
+            "meaning": "希望……能……"
+          },
+          {
+            "word": "practice makes perfect",
+            "phonetic": "/ˈpræktɪs meɪks pərˈfekt/",
+            "meaning": "熟能生巧"
+          },
+          {
+            "word": "bad",
+            "phonetic": "/bæd/",
+            "meaning": "差的"
+          },
+          {
+            "word": "really",
+            "phonetic": "/ˈriːəli/",
+            "meaning": "真正地"
+          }
+        ]
+      },
+      {
+        "id": "sbs3_025",
+        "title": "Lesson 25: All the Tickets Have Been Sold",
+        "text_en": "Can I buy two tickets for the concert?\nI'm sorry, all the tickets have been sold.\nSold out? Already?\nYes, they were sold within two hours.\nThat's disappointing.\nYou can try the next concert in December.",
+        "text_zh": "A：我能买两张音乐会的票吗？\nB：对不起，所有的票都卖完了。\nA：售罄了？这么快？\nB：是的，两小时内就卖完了。\nA：真令人失望。\nB：你可以试试十二月的下一场音乐会。",
+        "vocabulary": [
+          {
+            "word": "have been sold",
+            "phonetic": "/hæv bɪn soʊld/",
+            "meaning": "已售完"
+          },
+          {
+            "word": "sold out",
+            "phonetic": "/soʊld aʊt/",
+            "meaning": "售罄"
+          },
+          {
+            "word": "concert",
+            "phonetic": "/ˈkɑːnsərt/",
+            "meaning": "音乐会"
+          },
+          {
+            "word": "disappointing",
+            "phonetic": "/ˌdɪsəˈpɔɪntɪŋ/",
+            "meaning": "令人失望的"
+          }
+        ]
+      },
+      {
+        "id": "sbs3_026",
+        "title": "Lesson 26: He Might Have Forgotten",
+        "text_en": "Tom isn't here yet.\nHe might have forgotten about the meeting.\nDid you remind him?\nYes, I sent him an email this morning.\nMaybe his phone is off.\nI'll try calling him again.",
+        "text_zh": "A：汤姆还没到。\nB：他可能忘记会议了。\nA：你提醒他了吗？\nB：是的，我今天早上给他发了邮件。\nA：也许他手机关机了。\nB：我再打给他试试。",
+        "vocabulary": [
+          {
+            "word": "might have",
+            "phonetic": "/maɪt hæv/",
+            "meaning": "可能已经"
+          },
+          {
+            "word": "forgotten",
+            "phonetic": "/fərˈɡɒtn/",
+            "meaning": "忘记了"
+          },
+          {
+            "word": "remind",
+            "phonetic": "/rɪˈmaɪnd/",
+            "meaning": "提醒"
+          },
+          {
+            "word": "meeting",
+            "phonetic": "/ˈmiːtɪŋ/",
+            "meaning": "会议"
+          }
+        ]
+      },
+      {
+        "id": "sbs3_027",
+        "title": "Lesson 27: It Is Said That He Is a Genius",
+        "text_en": "Have you heard about the new professor?\nYes, it is said that he is a genius.\nIs he really that smart?\nPeople say he discovered a new formula.\nI would like to meet him.\nMaybe you can attend his lecture.",
+        "text_zh": "A：你听说那位新教授了吗？\nB：是的，据说他是个天才。\nA：他真的那么聪明吗？\nB：人们说他发现了一个新公式。\nA：我想见见他。\nB：也许你可以去听他的讲座。",
+        "vocabulary": [
+          {
+            "word": "it is said",
+            "phonetic": "/ɪt ɪz sed/",
+            "meaning": "据说"
+          },
+          {
+            "word": "genius",
+            "phonetic": "/ˈdʒiːniəs/",
+            "meaning": "天才"
+          },
+          {
+            "word": "formula",
+            "phonetic": "/ˈfɔːrmjələ/",
+            "meaning": "公式"
+          },
+          {
+            "word": "lecture",
+            "phonetic": "/ˈlektʃər/",
+            "meaning": "讲座"
+          }
+        ]
+      },
+      {
+        "id": "sbs3_028",
+        "title": "Lesson 28: I'm Not Used to Driving on the Left",
+        "text_en": "How are you liking it here in the UK?\nIt's great, but I'm not used to driving on the left.\nThat takes time to adjust.\nI almost went the wrong way today!\nJust remember to stay on the left side.\nI'll get used to it eventually.",
+        "text_zh": "A：你在英国过得怎么样？\nB：很好，但我不习惯靠左行驶。\nA：那需要时间适应。\nB：我今天差点开错方向！\nA：只要记住靠左行驶就行。\nB：最终我会习惯的。",
+        "vocabulary": [
+          {
+            "word": "not used to",
+            "phonetic": "/nɒt juːst tuː/",
+            "meaning": "不习惯"
+          },
+          {
+            "word": "adjust",
+            "phonetic": "/əˈdʒʌst/",
+            "meaning": "适应"
+          },
+          {
+            "word": "left side",
+            "phonetic": "/left saɪd/",
+            "meaning": "左边"
+          },
+          {
+            "word": "wrong way",
+            "phonetic": "/rɒŋ weɪ/",
+            "meaning": "错误方向"
+          }
+        ]
+      },
+      {
+        "id": "sbs3_029",
+        "title": "Lesson 29: The Letter Was Sent Yesterday",
+        "text_en": "Was the letter sent?\nYes, it was sent yesterday.\nWas it sent by regular mail?\nNo, it was sent by express delivery.\nWhen will it arrive?\nIt should arrive by Wednesday.",
+        "text_zh": "A：信寄出去了吗？\nB：是的，昨天寄出的。\nA：是平邮寄的吗？\nB：不，是快递寄的。\nA：什么时候能到？\nB：应该周三前到。",
+        "vocabulary": [
+          {
+            "word": "was sent",
+            "phonetic": "/wɒz sent/",
+            "meaning": "被寄出"
+          },
+          {
+            "word": "regular mail",
+            "phonetic": "/ˈreɡjələr meɪl/",
+            "meaning": "平邮"
+          },
+          {
+            "word": "express delivery",
+            "phonetic": "/ɪkˈspres dɪˈlɪvəri/",
+            "meaning": "快递"
+          },
+          {
+            "word": "arrive",
+            "phonetic": "/əˈraɪv/",
+            "meaning": "到达"
+          }
+        ]
+      },
+      {
+        "id": "sbs3_030",
+        "title": "Lesson 30: She Said She Would Call Me Back",
+        "text_en": "Did you speak to the manager?\nYes, I did.\nWhat did she say?\nShe said she would call me back.\nWhen did she say she would call?\nShe said she would call this afternoon.",
+        "text_zh": "A：你和经理说话了吗？\nB：是的，说了。\nA：她说什么？\nB：她说她会给我回电话。\nA：她说什么时候打？\nB：她说今天下午会打。",
+        "vocabulary": [
+          {
+            "word": "would call back",
+            "phonetic": "/wʊd kɔːl bæk/",
+            "meaning": "会回电话"
+          },
+          {
+            "word": "manager",
+            "phonetic": "/ˈmænɪdʒər/",
+            "meaning": "经理"
+          },
+          {
+            "word": "speak",
+            "phonetic": "/spiːk/",
+            "meaning": "说话"
+          },
+          {
+            "word": "afternoon",
+            "phonetic": "/ˌæftərˈnuːn/",
+            "meaning": "下午"
+          }
+        ]
+      },
+      {
+        "id": "sbs3_031",
+        "title": "Lesson 31: This Bridge Was Built a Century Ago",
+        "text_en": "This bridge looks very old.\nYes, it was built a century ago.\nWho built it?\nIt was built by a famous engineer.\nIs it still safe to use?\nYes, it's been maintained very well.",
+        "text_zh": "A：这座桥看起来很旧。\nB：是的，是一个世纪前建的。\nA：谁建造的？\nB：由一位著名工程师建造的。\nA：现在还安全吗？\nB：是的，维护得很好。",
+        "vocabulary": [
+          {
+            "word": "century",
+            "phonetic": "/ˈsentʃəri/",
+            "meaning": "世纪"
+          },
+          {
+            "word": "bridge",
+            "phonetic": "/brɪdʒ/",
+            "meaning": "桥"
+          },
+          {
+            "word": "maintained",
+            "phonetic": "/meɪnˈteɪnd/",
+            "meaning": "维护"
+          },
+          {
+            "word": "safe",
+            "phonetic": "/seɪf/",
+            "meaning": "安全的"
+          }
+        ]
+      },
+      {
+        "id": "sbs3_032",
+        "title": "Lesson 32: I'd Rather Not Talk About It",
+        "text_en": "What happened at the meeting?\nI'd rather not talk about it.\nWas it that bad?\nLet's just say it didn't go well.\nI'm sorry to hear that.\nMaybe we can discuss it another time.",
+        "text_zh": "A：会议上发生了什么？\nB：我宁愿不谈这个。\nA：有那么糟糕吗？\nB：只能说进展不顺利。\nA：听你这么说我很遗憾。\nB：也许我们改天再聊。",
+        "vocabulary": [
+          {
+            "word": "would rather",
+            "phonetic": "/wʊd ˈræðər/",
+            "meaning": "宁愿"
+          },
+          {
+            "word": "discuss",
+            "phonetic": "/dɪˈskʌs/",
+            "meaning": "讨论"
+          },
+          {
+            "word": "another time",
+            "phonetic": "/əˈnʌðər taɪm/",
+            "meaning": "改天"
+          },
+          {
+            "word": "go well",
+            "phonetic": "/ɡoʊ wel/",
+            "meaning": "进展顺利"
+          }
+        ]
+      },
+      {
+        "id": "sbs3_033",
+        "title": "Lesson 33: The Museum Can Be Visited for Free",
+        "text_en": "How much is the museum entrance fee?\nIt can be visited for free.\nReally? That's great news!\nYes, it's free every Sunday.\nAre all exhibits free too?\nMost of them, except the special exhibition.",
+        "text_zh": "A：博物馆门票多少钱？\nB：可以免费参观。\nA：真的吗？太好了！\nB：是的，每周日免费。\nA：所有展览都免费吗？\nB：大部分是，特展除外。",
+        "vocabulary": [
+          {
+            "word": "can be visited",
+            "phonetic": "/kæn biː ˈvɪzɪtɪd/",
+            "meaning": "可以参观"
+          },
+          {
+            "word": "for free",
+            "phonetic": "/fɔːr friː/",
+            "meaning": "免费"
+          },
+          {
+            "word": "entrance fee",
+            "phonetic": "/ˈentrəns fiː/",
+            "meaning": "门票"
+          },
+          {
+            "word": "exhibition",
+            "phonetic": "/ˌeksɪˈbɪʃn/",
+            "meaning": "展览"
+          }
+        ]
+      },
+      {
+        "id": "sbs3_034",
+        "title": "Lesson 34: If I Had Known, I Wouldn't Have Gone",
+        "text_en": "How was the party last night?\nTerrible. If I had known, I wouldn't have gone.\nWhat happened?\nThe music was too loud and the food was bad.\nThat doesn't sound fun.\nI left after thirty minutes.",
+        "text_zh": "A：昨晚的派对怎么样？\nB：太糟了。如果早知道，我就不去了。\nA：怎么了？\nB：音乐太吵，食物也很难吃。\nA：听起来不好玩。\nB：我三十分钟后就走了。",
+        "vocabulary": [
+          {
+            "word": "if...had known",
+            "phonetic": "/ɪf hæd noʊn/",
+            "meaning": "如果早知道"
+          },
+          {
+            "word": "terrible",
+            "phonetic": "/ˈterəbl/",
+            "meaning": "糟糕的"
+          },
+          {
+            "word": "loud",
+            "phonetic": "/laʊd/",
+            "meaning": "大声的"
+          },
+          {
+            "word": "fun",
+            "phonetic": "/fʌn/",
+            "meaning": "有趣的"
+          }
+        ]
+      },
+      {
+        "id": "sbs3_035",
+        "title": "Lesson 35: The Window Needs to Be Cleaned",
+        "text_en": "The window is very dirty.\nYes, it needs to be cleaned.\nWhen was it last cleaned?\nI think it was cleaned two months ago.\nI'll clean it this weekend.\nI'll help you. It's a big job.",
+        "text_zh": "A：窗户很脏。\nB：是的，需要清洗。\nA：上次是什么时候洗的？\nB：我想是两个月前。\nA：我这个周末来洗。\nB：我帮你。这是个大工程。",
+        "vocabulary": [
+          {
+            "word": "needs to be",
+            "phonetic": "/niːdz tuː biː/",
+            "meaning": "需要被"
+          },
+          {
+            "word": "dirty",
+            "phonetic": "/ˈdɜːrti/",
+            "meaning": "脏的"
+          },
+          {
+            "word": "cleaned",
+            "phonetic": "/kliːnd/",
+            "meaning": "清洗"
+          },
+          {
+            "word": "big job",
+            "phonetic": "/bɪɡ dʒɒb/",
+            "meaning": "大工程"
+          }
+        ]
+      },
+      {
+        "id": "sbs3_036",
+        "title": "Lesson 36: He Asked If I Could Help Him",
+        "text_en": "What did your neighbor want?\nHe asked if I could help him move.\nDid you agree?\nYes, I said I would help him on Saturday.\nThat's very kind of you.\nHe helped me last year, so I'm returning the favor.",
+        "text_zh": "A：你的邻居想要什么？\nB：他问我能不能帮他搬家。\nA：你同意了吗？\nB：是的，我说周六帮他。\nA：你真好。\nB：他去年帮过我，所以我在还人情。",
+        "vocabulary": [
+          {
+            "word": "asked if",
+            "phonetic": "/æskt ɪf/",
+            "meaning": "问是否"
+          },
+          {
+            "word": "neighbor",
+            "phonetic": "/ˈneɪbər/",
+            "meaning": "邻居"
+          },
+          {
+            "word": "move",
+            "phonetic": "/muːv/",
+            "meaning": "搬家"
+          },
+          {
+            "word": "favor",
+            "phonetic": "/ˈfeɪvər/",
+            "meaning": "恩惠"
+          }
+        ]
+      },
+      {
+        "id": "sbs3_037",
+        "title": "Lesson 37: It Hasn't Been Decided Yet",
+        "text_en": "Has the date been decided?\nNo, it hasn't been decided yet.\nWhen will it be decided?\nIt will be decided at the next meeting.\nPlease let me know when you know.\nI'll update you as soon as possible.",
+        "text_zh": "A：日期定了吗？\nB：不，还没定。\nA：什么时候会确定？\nB：下次会议上会确定。\nA：知道后请告诉我。\nB：我会尽快通知你。",
+        "vocabulary": [
+          {
+            "word": "hasn't been decided",
+            "phonetic": "/ˈhæznt bɪn dɪˈsaɪdɪd/",
+            "meaning": "尚未决定"
+          },
+          {
+            "word": "date",
+            "phonetic": "/deɪt/",
+            "meaning": "日期"
+          },
+          {
+            "word": "update",
+            "phonetic": "/ʌpˈdeɪt/",
+            "meaning": "更新"
+          },
+          {
+            "word": "as soon as possible",
+            "phonetic": "/æz suːn æz ˈpɒsəbl/",
+            "meaning": "尽快"
+          }
+        ]
+      },
+      {
+        "id": "sbs3_038",
+        "title": "Lesson 38: I Wish I Hadn't Said That",
+        "text_en": "You look sad.\nI wish I hadn't said that to her.\nWhat did you say?\nI said something I didn't mean.\nYou should apologize.\nI already did. I hope she accepts.",
+        "text_zh": "A：你看起来很难过。\nB：我真希望我没有对她说那些话。\nA：你说了什么？\nB：我说了一些并非我本意的话。\nA：你应该道歉。\nB：我已经道了歉。希望她能接受。",
+        "vocabulary": [
+          {
+            "word": "wish...hadn't",
+            "phonetic": "/wɪʃ ˈhædnt/",
+            "meaning": "希望……没做"
+          },
+          {
+            "word": "apologize",
+            "phonetic": "/əˈpɒlədʒaɪz/",
+            "meaning": "道歉"
+          },
+          {
+            "word": "accept",
+            "phonetic": "/əkˈsept/",
+            "meaning": "接受"
+          },
+          {
+            "word": "mean",
+            "phonetic": "/miːn/",
+            "meaning": "意指"
+          }
+        ]
+      },
+      {
+        "id": "sbs3_039",
+        "title": "Lesson 39: The Project Will Be Finished By Friday",
+        "text_en": "When will the project be finished?\nIt will be finished by Friday.\nIs that a promise?\nYes, we're working on it right now.\nWho will present it?\nIt will be presented by the team leader.",
+        "text_zh": "A：项目什么时候完成？\nB：周五前完成。\nA：这是承诺吗？\nB：是的，我们现在正在做。\nA：谁会做报告？\nB：将由组长做报告。",
+        "vocabulary": [
+          {
+            "word": "will be finished",
+            "phonetic": "/wɪl biː ˈfɪnɪʃt/",
+            "meaning": "将完成"
+          },
+          {
+            "word": "project",
+            "phonetic": "/ˈprɒdʒekt/",
+            "meaning": "项目"
+          },
+          {
+            "word": "present",
+            "phonetic": "/prɪˈzent/",
+            "meaning": "展示"
+          },
+          {
+            "word": "team leader",
+            "phonetic": "/tiːm ˈliːdər/",
+            "meaning": "组长"
+          }
+        ]
+      },
+      {
+        "id": "sbs3_040",
+        "title": "Lesson 40: You Could Have Called Me",
+        "text_en": "You could have called me last night.\nI'm sorry. It was very late.\nI was worried about you.\nI didn't want to wake you up.\nI don't mind. Next time, please call.",
+        "text_zh": "A：你昨晚本可以给我打电话的。\nB：对不起。太晚了。\nA：我很担心你。\nB：我不想吵醒你。\nA：我不介意。下次请打给我。",
+        "vocabulary": [
+          {
+            "word": "could have",
+            "phonetic": "/kʊd hæv/",
+            "meaning": "本可以"
+          },
+          {
+            "word": "worried",
+            "phonetic": "/ˈwʌrid/",
+            "meaning": "担心的"
+          },
+          {
+            "word": "wake up",
+            "phonetic": "/weɪk ʌp/",
+            "meaning": "叫醒"
+          },
+          {
+            "word": "mind",
+            "phonetic": "/maɪnd/",
+            "meaning": "介意"
+          }
+        ]
+      },
+      {
+        "id": "sbs3_041",
+        "title": "Lesson 41: The Soup Is Being Heated",
+        "text_en": "Is the soup ready?\nIt's being heated right now.\nHow long will it take?\nJust a few more minutes.\nIt smells wonderful.\nIt's my grandmother's recipe.",
+        "text_zh": "A：汤好了吗？\nB：正在加热。\nA：还需要多久？\nB：再几分钟就好。\nA：闻起来真香。\nB：这是我祖母的配方。",
+        "vocabulary": [
+          {
+            "word": "being heated",
+            "phonetic": "/ˈbiːɪŋ ˈhiːtɪd/",
+            "meaning": "正在加热"
+          },
+          {
+            "word": "soup",
+            "phonetic": "/suːp/",
+            "meaning": "汤"
+          },
+          {
+            "word": "recipe",
+            "phonetic": "/ˈresəpi/",
+            "meaning": "食谱"
+          },
+          {
+            "word": "smell",
+            "phonetic": "/smel/",
+            "meaning": "闻起来"
+          }
+        ]
+      },
+      {
+        "id": "sbs3_042",
+        "title": "Lesson 42: He Said That He Was Sorry",
+        "text_en": "Did Tom apologize?\nYes, he said that he was sorry.\nDid he explain why he was late?\nHe said his car broke down.\nDo you believe him?\nYes, I think he was telling the truth.",
+        "text_zh": "A：汤姆道歉了吗？\nB：是的，他说他很抱歉。\nA：他解释为什么迟到了吗？\nB：他说他的车坏了。\nA：你相信他吗？\nB：是的，我觉得他说的是真话。",
+        "vocabulary": [
+          {
+            "word": "said that",
+            "phonetic": "/sed ðæt/",
+            "meaning": "说……"
+          },
+          {
+            "word": "sorry",
+            "phonetic": "/ˈsɒri/",
+            "meaning": "抱歉的"
+          },
+          {
+            "word": "broke down",
+            "phonetic": "/broʊk daʊn/",
+            "meaning": "坏了"
+          },
+          {
+            "word": "truth",
+            "phonetic": "/truːθ/",
+            "meaning": "真相"
+          }
+        ]
+      },
+      {
+        "id": "sbs3_043",
+        "title": "Lesson 43: I Wish It Would Stop Raining",
+        "text_en": "It's been raining all day.\nI wish it would stop raining.\nI wanted to go for a walk.\nMaybe we can go tomorrow.\nI hope the weather clears up.\nThe forecast says it will be sunny tomorrow.",
+        "text_zh": "A：下了一整天的雨。\nB：真希望雨能停。\nA：我本来想去散步的。\nB：也许我们明天可以去。\nA：希望天气放晴。\nB：预报说明天会是晴天。",
+        "vocabulary": [
+          {
+            "word": "wish...would stop",
+            "phonetic": "/wɪʃ wʊd stɒp/",
+            "meaning": "希望……会停止"
+          },
+          {
+            "word": "raining",
+            "phonetic": "/ˈreɪnɪŋ/",
+            "meaning": "下雨"
+          },
+          {
+            "word": "weather",
+            "phonetic": "/ˈweðər/",
+            "meaning": "天气"
+          },
+          {
+            "word": "forecast",
+            "phonetic": "/ˈfɔːrkæst/",
+            "meaning": "预报"
+          }
+        ]
+      },
+      {
+        "id": "sbs3_044",
+        "title": "Lesson 44: The Application Must Be Submitted by Friday",
+        "text_en": "When does the application need to be submitted?\nIt must be submitted by Friday.\nWhat happens if I miss the deadline?\nThen your application won't be considered.\nI should submit it early then.\nYes, don't wait until the last minute.",
+        "text_zh": "A：申请需要什么时候提交？\nB：必须在周五前提交。\nA：如果错过了截止日期怎么办？\nB：那你的申请就不会被考虑了。\nA：那我应该早点提交。\nB：是的，不要等到最后一刻。",
+        "vocabulary": [
+          {
+            "word": "must be submitted",
+            "phonetic": "/mʌst biː səbˈmɪtɪd/",
+            "meaning": "必须提交"
+          },
+          {
+            "word": "application",
+            "phonetic": "/ˌæplɪˈkeɪʃn/",
+            "meaning": "申请"
+          },
+          {
+            "word": "deadline",
+            "phonetic": "/ˈdedlaɪn/",
+            "meaning": "截止日期"
+          },
+          {
+            "word": "considered",
+            "phonetic": "/kənˈsɪdərd/",
+            "meaning": "考虑"
+          }
+        ]
+      },
+      {
+        "id": "sbs3_045",
+        "title": "Lesson 45: She Wondered If He Would Come",
+        "text_en": "Was Mary at the party?\nNo, she wasn't sure if she would come.\nDid she tell you why?\nShe wondered if John would be there.\nI see. They had an argument.\nThat explains it.",
+        "text_zh": "A：玛丽在派对上吗？\nB：不，她不确自己会不会来。\nA：她告诉你原因了吗？\nB：她在想约翰会不会在那里。\nA：我明白了。他们吵架了。\nB：这就解释通了。",
+        "vocabulary": [
+          {
+            "word": "wondered if",
+            "phonetic": "/ˈwʌndərd ɪf/",
+            "meaning": "想知道是否"
+          },
+          {
+            "word": "argument",
+            "phonetic": "/ˈɑːrɡjumənt/",
+            "meaning": "争执"
+          },
+          {
+            "word": "explain",
+            "phonetic": "/ɪkˈspleɪn/",
+            "meaning": "解释"
+          },
+          {
+            "word": "sure",
+            "phonetic": "/ʃʊr/",
+            "meaning": "确定的"
+          }
+        ]
+      },
+      {
+        "id": "sbs3_046",
+        "title": "Lesson 46: My Wallet Was Stolen",
+        "text_en": "What happened?\nMy wallet was stolen on the bus.\nDid you see the thief?\nNo, I didn't notice until I got off.\nYou should report it to the police.\nI already did. I hope they catch him.",
+        "text_zh": "A：怎么了？\nB：我的钱包在公交车上被偷了。\nA：你看到小偷了吗？\nB：没有，我下车时才发现。\nA：你应该报警。\nB：我已经报了。希望他们能抓到他。",
+        "vocabulary": [
+          {
+            "word": "was stolen",
+            "phonetic": "/wɒz ˈstoʊlən/",
+            "meaning": "被偷了"
+          },
+          {
+            "word": "thief",
+            "phonetic": "/θiːf/",
+            "meaning": "小偷"
+          },
+          {
+            "word": "report",
+            "phonetic": "/rɪˈpɔːrt/",
+            "meaning": "报告"
+          },
+          {
+            "word": "police",
+            "phonetic": "/pəˈliːs/",
+            "meaning": "警察"
+          }
+        ]
+      },
+      {
+        "id": "sbs3_047",
+        "title": "Lesson 47: I Should Have Listened to You",
+        "text_en": "You were right. I should have listened to you.\nWhat happened?\nI invested in that company and lost money.\nI'm sorry to hear that.\nYou warned me, but I didn't listen.\nIt's a lesson learned.",
+        "text_zh": "A：你是对的。我本应该听你的。\nB：怎么了？\nA：我投资了那家公司，亏了钱。\nB：听你这么说我很遗憾。\nA：你警告过我，但我没听。\nB：这是一个教训。",
+        "vocabulary": [
+          {
+            "word": "should have listened",
+            "phonetic": "/ʃʊd hæv ˈlɪsnd/",
+            "meaning": "本应该听"
+          },
+          {
+            "word": "invested",
+            "phonetic": "/ɪnˈvestɪd/",
+            "meaning": "投资"
+          },
+          {
+            "word": "warn",
+            "phonetic": "/wɔːrn/",
+            "meaning": "警告"
+          },
+          {
+            "word": "lesson",
+            "phonetic": "/ˈlesn/",
+            "meaning": "教训"
+          }
+        ]
+      },
+      {
+        "id": "sbs3_048",
+        "title": "Lesson 48: It Can Be Seen From Miles Away",
+        "text_en": "Can you see the mountain from here?\nYes, it can be seen from miles away.\nHow tall is it?\nIt's over 4,000 meters tall.\nHave you ever climbed it?\nNo, but I hope to someday.",
+        "text_zh": "A：从这里能看到那座山吗？\nB：是的，几英里外就能看到。\nA：它有多高？\nB：超过4000米。\nA：你爬过吗？\nB：没有，但希望有一天能爬。",
+        "vocabulary": [
+          {
+            "word": "can be seen",
+            "phonetic": "/kæn biː siːn/",
+            "meaning": "能看到"
+          },
+          {
+            "word": "mountain",
+            "phonetic": "/ˈmaʊntn/",
+            "meaning": "山"
+          },
+          {
+            "word": "meter",
+            "phonetic": "/ˈmiːtər/",
+            "meaning": "米"
+          },
+          {
+            "word": "climb",
+            "phonetic": "/klaɪm/",
+            "meaning": "爬"
+          }
+        ]
+      },
+      {
+        "id": "sbs3_049",
+        "title": "Lesson 49: If I Were You, I Would Take the Job",
+        "text_en": "I'm not sure if I should accept the job offer.\nIf I were you, I would take it.\nBut the salary isn't very high.\nThink about the experience you'll gain.\nThat's a good point.\nYou can always look for a better job later.",
+        "text_zh": "A：我不确定是否该接受这份工作。\nB：如果我是你，我会接受。\nA：但薪水不是很高。\nB：想想你能获得的经验。\nA：说得有道理。\nB：你以后总能找到更好的工作。",
+        "vocabulary": [
+          {
+            "word": "if I were you",
+            "phonetic": "/ɪf aɪ wɜːr juː/",
+            "meaning": "如果我是你"
+          },
+          {
+            "word": "accept",
+            "phonetic": "/əkˈsept/",
+            "meaning": "接受"
+          },
+          {
+            "word": "salary",
+            "phonetic": "/ˈsæləri/",
+            "meaning": "薪水"
+          },
+          {
+            "word": "gain",
+            "phonetic": "/ɡeɪn/",
+            "meaning": "获得"
+          }
+        ]
+      },
+      {
+        "id": "sbs3_050",
+        "title": "Lesson 50: It Has Been a Wonderful Journey",
+        "text_en": "How do you feel about finishing the course?\nIt has been a wonderful journey.\nWhat was the best part?\nMeeting all the new friends.\nDid you learn a lot?\nYes, I've learned more than I expected.",
+        "text_zh": "A：完成课程感觉如何？\nB：这是一段美好的旅程。\nA：最好的部分是什么？\nB：认识了所有的新朋友。\nA：你学到了很多吗？\nB：是的，我学到的比预期的多。",
+        "vocabulary": [
+          {
+            "word": "has been",
+            "phonetic": "/hæz bɪn/",
+            "meaning": "一直是"
+          },
+          {
+            "word": "journey",
+            "phonetic": "/ˈdʒɜːrni/",
+            "meaning": "旅程"
+          },
+          {
+            "word": "finish",
+            "phonetic": "/ˈfɪnɪʃ/",
+            "meaning": "完成"
+          },
+          {
+            "word": "expected",
+            "phonetic": "/ɪkˈspektɪd/",
+            "meaning": "预期的"
+          }
+        ]
+      }
+    ]
+  }
+}

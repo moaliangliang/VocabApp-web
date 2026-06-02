@@ -1,0 +1,1412 @@
+{
+  "course": {
+    "id": "sbs2",
+    "title": "Side by Side 2",
+    "author": "Steven J. Molinsky & Bill Bliss",
+    "type": "american",
+    "description": "进阶篇 — 过去时、将来时、比较级、情态动词",
+    "icon": "book.pages.fill",
+    "lessons": [
+      {
+        "id": "sbs2_001",
+        "title": "Lesson 1: I Didn't Watch TV Last Night",
+        "text_en": "Did you watch TV last night?\nNo, I didn't. I studied for my test.\nWhat time did you go to bed?\nI went to bed at eleven.\nDid your brother watch TV?\nYes, he watched a movie.",
+        "text_zh": "A：你昨晚看电视了吗？\nB：不，没看。我复习考试了。\nA：你几点去睡觉的？\nB：我十一点睡的。\nA：你弟弟看电视了吗？\nB：是的，他看了一部电影。",
+        "vocabulary": [
+          {
+            "word": "last night",
+            "phonetic": "/læst naɪt/",
+            "meaning": "昨晚"
+          },
+          {
+            "word": "watch",
+            "phonetic": "/wɒtʃ/",
+            "meaning": "看"
+          },
+          {
+            "word": "movie",
+            "phonetic": "/ˈmuːvi/",
+            "meaning": "电影"
+          },
+          {
+            "word": "eleven",
+            "phonetic": "/ɪˈlevn/",
+            "meaning": "十一"
+          }
+        ]
+      },
+      {
+        "id": "sbs2_002",
+        "title": "Lesson 2: I'm Going to Travel",
+        "text_en": "What are you going to do this weekend?\nI'm going to travel to Chicago.\nHow are you going to get there?\nI'm going to fly.\nHow long are you going to stay?\nI'm going to stay for three days.",
+        "text_zh": "A：这个周末你打算做什么？\nB：我打算去芝加哥旅行。\nA：你打算怎么去？\nB：我打算坐飞机去。\nA：你打算待多久？\nB：我打算待三天。",
+        "vocabulary": [
+          {
+            "word": "travel",
+            "phonetic": "/ˈtrævl/",
+            "meaning": "旅行"
+          },
+          {
+            "word": "fly",
+            "phonetic": "/flaɪ/",
+            "meaning": "飞行"
+          },
+          {
+            "word": "weekend",
+            "phonetic": "/ˈwiːkend/",
+            "meaning": "周末"
+          },
+          {
+            "word": "stay",
+            "phonetic": "/steɪ/",
+            "meaning": "停留"
+          }
+        ]
+      },
+      {
+        "id": "sbs2_003",
+        "title": "Lesson 3: I Was Born in 1995",
+        "text_en": "When were you born?\nI was born in 1995.\nWhere were you born?\nI was born in Boston.\nWere your parents born there too?\nNo, they were born in New York.",
+        "text_zh": "A：你什么时候出生的？\nB：我1995年出生。\nA：你在哪里出生的？\nB：我在波士顿出生。\nA：你的父母也在那里出生吗？\nB：不，他们在纽约出生。",
+        "vocabulary": [
+          {
+            "word": "born",
+            "phonetic": "/bɔːrn/",
+            "meaning": "出生"
+          },
+          {
+            "word": "parents",
+            "phonetic": "/ˈperənts/",
+            "meaning": "父母"
+          },
+          {
+            "word": "when",
+            "phonetic": "/wen/",
+            "meaning": "什么时候"
+          },
+          {
+            "word": "there",
+            "phonetic": "/ðer/",
+            "meaning": "那里"
+          }
+        ]
+      },
+      {
+        "id": "sbs2_004",
+        "title": "Lesson 4: I've Already Eaten",
+        "text_en": "Have you eaten lunch yet?\nYes, I've already eaten.\nHas Mary called yet?\nNo, she hasn't called yet.\nHave they finished their homework?\nYes, they've just finished.",
+        "text_zh": "A：你吃午饭了吗？\nB：是的，我已经吃了。\nA：玛丽打电话了吗？\nB：不，她还没打。\nA：他们完成作业了吗？\nB：是的，他们刚完成。",
+        "vocabulary": [
+          {
+            "word": "already",
+            "phonetic": "/ɔːlˈredi/",
+            "meaning": "已经"
+          },
+          {
+            "word": "yet",
+            "phonetic": "/jet/",
+            "meaning": "还，已经"
+          },
+          {
+            "word": "finished",
+            "phonetic": "/ˈfɪnɪʃt/",
+            "meaning": "完成了"
+          },
+          {
+            "word": "homework",
+            "phonetic": "/ˈhoʊmwɜːrk/",
+            "meaning": "作业"
+          }
+        ]
+      },
+      {
+        "id": "sbs2_005",
+        "title": "Lesson 5: I Should Exercise More",
+        "text_en": "You should exercise more.\nI know. I should go to the gym.\nYou shouldn't eat so much junk food.\nYou're right. I should eat healthier.\nWe should all take better care of ourselves.",
+        "text_zh": "A：你应该多运动。\nB：我知道。我应该去健身房。\nA：你不应该吃那么多垃圾食品。\nB：你说得对。我应该吃得更健康。\nA：我们都应该更好地照顾自己。",
+        "vocabulary": [
+          {
+            "word": "should",
+            "phonetic": "/ʃʊd/",
+            "meaning": "应该"
+          },
+          {
+            "word": "exercise",
+            "phonetic": "/ˈeksərsaɪz/",
+            "meaning": "锻炼"
+          },
+          {
+            "word": "healthy",
+            "phonetic": "/ˈhelθi/",
+            "meaning": "健康的"
+          },
+          {
+            "word": "gym",
+            "phonetic": "/dʒɪm/",
+            "meaning": "健身房"
+          }
+        ]
+      },
+      {
+        "id": "sbs2_006",
+        "title": "Lesson 6: If It Rains, I'll Stay Home",
+        "text_en": "What will you do if it rains?\nIf it rains, I'll stay home.\nIf it's sunny, will you go to the beach?\nYes, I will. If it's sunny, I'll go swimming.\nWhat will you do if you're tired?\nIf I'm tired, I'll take a nap.",
+        "text_zh": "A：如果下雨你会做什么？\nB：如果下雨，我就待在家里。\nA：如果天晴，你会去海滩吗？\nB：是的。如果天晴，我会去游泳。\nA：如果你累了你会做什么？\nB：如果我累了，我就小睡一会儿。",
+        "vocabulary": [
+          {
+            "word": "if",
+            "phonetic": "/ɪf/",
+            "meaning": "如果"
+          },
+          {
+            "word": "rain",
+            "phonetic": "/reɪn/",
+            "meaning": "下雨"
+          },
+          {
+            "word": "sunny",
+            "phonetic": "/ˈsʌni/",
+            "meaning": "晴朗的"
+          },
+          {
+            "word": "nap",
+            "phonetic": "/næp/",
+            "meaning": "小睡"
+          }
+        ]
+      },
+      {
+        "id": "sbs2_007",
+        "title": "Lesson 7: The Book That I Read",
+        "text_en": "Did you like the book that you read?\nYes, I loved it. It was very interesting.\nWhat's the name of the movie that you saw?\nIt's called 'The Last Adventure'.\nIs that the restaurant that has great pizza?\nYes, it is.",
+        "text_zh": "A：你喜欢你读的那本书吗？\nB：是的，我很喜欢。非常有趣。\nA：你看的那部电影叫什么名字？\nB：叫'最后的冒险'。\nA：那是那家披萨很好吃的餐厅吗？\nB：是的。",
+        "vocabulary": [
+          {
+            "word": "loved",
+            "phonetic": "/lʌvd/",
+            "meaning": "喜欢，热爱"
+          },
+          {
+            "word": "called",
+            "phonetic": "/kɔːld/",
+            "meaning": "叫做"
+          },
+          {
+            "word": "adventure",
+            "phonetic": "/ədˈventʃər/",
+            "meaning": "冒险"
+          },
+          {
+            "word": "interesting",
+            "phonetic": "/ˈɪntrəstɪŋ/",
+            "meaning": "有趣的"
+          }
+        ]
+      },
+      {
+        "id": "sbs2_008",
+        "title": "Lesson 8: He Told Me to Wait",
+        "text_en": "What did he tell you?\nHe told me to wait for him.\nWhat did she ask you to do?\nShe asked me to help her.\nDid they invite you to the party?\nYes, they invited me to come.",
+        "text_zh": "A：他告诉了你什么？\nB：他让我等他。\nA：她让你做什么？\nB：她让我帮她。\nA：他们邀请你去派对了吗？\nB：是的，他们邀请我去。",
+        "vocabulary": [
+          {
+            "word": "tell",
+            "phonetic": "/tel/",
+            "meaning": "告诉"
+          },
+          {
+            "word": "ask",
+            "phonetic": "/æsk/",
+            "meaning": "请求，问"
+          },
+          {
+            "word": "invite",
+            "phonetic": "/ɪnˈvaɪt/",
+            "meaning": "邀请"
+          },
+          {
+            "word": "help",
+            "phonetic": "/help/",
+            "meaning": "帮助"
+          }
+        ]
+      },
+      {
+        "id": "sbs2_009",
+        "title": "Lesson 9: I Used to Live in Chicago",
+        "text_en": "Where did you use to live?\nI used to live in Chicago.\nDid you use to play the piano?\nYes, I used to play when I was younger.\nDidn't she use to be a teacher?\nYes, she used to teach math.",
+        "text_zh": "A：你以前住在哪里？\nB：我以前住在芝加哥。\nA：你以前弹钢琴吗？\nB：是的，我年轻时弹过。\nA：她以前不是老师吗？\nB：是的，她以前教数学。",
+        "vocabulary": [
+          {
+            "word": "used to",
+            "phonetic": "/juːst tuː/",
+            "meaning": "过去常常"
+          },
+          {
+            "word": "younger",
+            "phonetic": "/ˈjʌŋɡər/",
+            "meaning": "更年轻的"
+          },
+          {
+            "word": "piano",
+            "phonetic": "/piˈænoʊ/",
+            "meaning": "钢琴"
+          },
+          {
+            "word": "math",
+            "phonetic": "/mæθ/",
+            "meaning": "数学"
+          }
+        ]
+      },
+      {
+        "id": "sbs2_010",
+        "title": "Lesson 10: I Wish I Could Fly",
+        "text_en": "I wish I could fly like a bird.\nThat would be amazing! I wish I had wings too.\nI wish I lived on a beautiful island.\nI wish I could visit you there.\nI wish I were taller.\nI think you're the perfect height.",
+        "text_zh": "A：我希望我能像鸟一样飞翔。\nB：那太棒了！我也希望我有翅膀。\nA：我希望我住在一个美丽的小岛上。\nB：我希望我能去那里看你。\nA：我希望我更高一些。\nB：我觉得你的身高正好。",
+        "vocabulary": [
+          {
+            "word": "wish",
+            "phonetic": "/wɪʃ/",
+            "meaning": "希望"
+          },
+          {
+            "word": "fly",
+            "phonetic": "/flaɪ/",
+            "meaning": "飞"
+          },
+          {
+            "word": "wing",
+            "phonetic": "/wɪŋ/",
+            "meaning": "翅膀"
+          },
+          {
+            "word": "island",
+            "phonetic": "/ˈaɪlənd/",
+            "meaning": "岛屿"
+          }
+        ]
+      },
+      {
+        "id": "sbs2_011",
+        "title": "Lesson 11: She Is Taller Than Me",
+        "text_en": "Who is taller, you or your sister?\nMy sister is taller than me.\nIs she older than you too?\nNo, I'm older but she is taller.\nThat's funny. Is she also smarter?\nShe thinks she is!",
+        "text_zh": "A：谁更高，你还是你妹妹？\nB：我妹妹比我高。\nA：她也比你大吗？\nB：不，我比她大，但她更高。\nA：真有趣。她也更聪明吗？\nB：她觉得自己是！",
+        "vocabulary": [
+          {
+            "word": "taller",
+            "phonetic": "/ˈtɔːlər/",
+            "meaning": "更高的"
+          },
+          {
+            "word": "than",
+            "phonetic": "/ðæn/",
+            "meaning": "比"
+          },
+          {
+            "word": "older",
+            "phonetic": "/ˈoʊldər/",
+            "meaning": "更年长的"
+          },
+          {
+            "word": "smarter",
+            "phonetic": "/ˈsmɑːrtər/",
+            "meaning": "更聪明的"
+          }
+        ]
+      },
+      {
+        "id": "sbs2_012",
+        "title": "Lesson 12: I Had to Work Late",
+        "text_en": "Why were you late yesterday?\nI had to work late.\nDid you have to finish a report?\nYes, my boss needed it by this morning.\nThat sounds stressful.\nIt was, but I got it done.",
+        "text_zh": "A：你昨天为什么迟到？\nB：我必须加班。\nA：你必须完成一份报告吗？\nB：是的，老板今天早上要。\nA：听起来压力很大。\nB：是的，但我完成了。",
+        "vocabulary": [
+          {
+            "word": "had to",
+            "phonetic": "/hæd tuː/",
+            "meaning": "必须（过去式）"
+          },
+          {
+            "word": "report",
+            "phonetic": "/rɪˈpɔːrt/",
+            "meaning": "报告"
+          },
+          {
+            "word": "boss",
+            "phonetic": "/bɒs/",
+            "meaning": "老板"
+          },
+          {
+            "word": "stressful",
+            "phonetic": "/ˈstresfl/",
+            "meaning": "有压力的"
+          }
+        ]
+      },
+      {
+        "id": "sbs2_013",
+        "title": "Lesson 13: I've Never Been to Asia",
+        "text_en": "Have you ever been to Asia?\nNo, I've never been to Asia.\nHave you been to Europe?\nYes, I've been to France and Italy.\nWhich country did you like better?\nItaly. The food was amazing.",
+        "text_zh": "A：你去过亚洲吗？\nB：不，我从没去过亚洲。\nA：你去过欧洲吗？\nB：是的，我去过法国和意大利。\nA：你更喜欢哪个国家？\nB：意大利。食物太棒了。",
+        "vocabulary": [
+          {
+            "word": "never",
+            "phonetic": "/ˈnevər/",
+            "meaning": "从不"
+          },
+          {
+            "word": "Asia",
+            "phonetic": "/ˈeɪʒə/",
+            "meaning": "亚洲"
+          },
+          {
+            "word": "Europe",
+            "phonetic": "/ˈjʊrəp/",
+            "meaning": "欧洲"
+          },
+          {
+            "word": "amazing",
+            "phonetic": "/əˈmeɪzɪŋ/",
+            "meaning": "令人惊叹的"
+          }
+        ]
+      },
+      {
+        "id": "sbs2_014",
+        "title": "Lesson 14: I'm the Tallest in My Family",
+        "text_en": "Are you tall in your family?\nYes, I'm the tallest.\nWho is the shortest?\nMy little brother is the shortest.\nIs your father tall?\nHe is, but I'm still taller than him!",
+        "text_zh": "A：你在家里个子高吗？\nB：是的，我是最高的。\nA：谁是最矮的？\nB：我的小弟弟是最矮的。\nA：你父亲高吗？\nB：他高，但我还是比他高！",
+        "vocabulary": [
+          {
+            "word": "tallest",
+            "phonetic": "/ˈtɔːlɪst/",
+            "meaning": "最高的"
+          },
+          {
+            "word": "shortest",
+            "phonetic": "/ˈʃɔːrtɪst/",
+            "meaning": "最矮的"
+          },
+          {
+            "word": "little",
+            "phonetic": "/ˈlɪtl/",
+            "meaning": "小的"
+          },
+          {
+            "word": "family",
+            "phonetic": "/ˈfæməli/",
+            "meaning": "家庭"
+          }
+        ]
+      },
+      {
+        "id": "sbs2_015",
+        "title": "Lesson 15: I Like Jazz More Than Rock",
+        "text_en": "Do you like jazz music?\nYes, I like it more than rock.\nWhich do you like best, jazz or classical?\nI like classical the best. It's very relaxing.\nDo you play any instruments?\nI play the violin.",
+        "text_zh": "A：你喜欢爵士乐吗？\nB：是的，我喜欢爵士乐超过摇滚。\nA：你最喜欢哪个，爵士还是古典？\nB：我最喜欢古典音乐。它很放松。\nA：你会演奏乐器吗？\nB：我会拉小提琴。",
+        "vocabulary": [
+          {
+            "word": "jazz",
+            "phonetic": "/dʒæz/",
+            "meaning": "爵士乐"
+          },
+          {
+            "word": "rock",
+            "phonetic": "/rɒk/",
+            "meaning": "摇滚"
+          },
+          {
+            "word": "classical",
+            "phonetic": "/ˈklæsɪkl/",
+            "meaning": "古典的"
+          },
+          {
+            "word": "violin",
+            "phonetic": "/ˌvaɪəˈlɪn/",
+            "meaning": "小提琴"
+          }
+        ]
+      },
+      {
+        "id": "sbs2_016",
+        "title": "Lesson 16: I Will Call You Tonight",
+        "text_en": "What time will you call me tonight?\nI will call you around eight.\nWill you finish work before that?\nI think I will finish at seven.\nOK, I'll be waiting for your call.\nGreat, talk to you then!",
+        "text_zh": "A：你今晚几点给我打电话？\nB：我八点左右打给你。\nA：那之前你能下班吗？\nB：我想我七点能下班。\nA：好的，我等你的电话。\nB：好的，到时候聊！",
+        "vocabulary": [
+          {
+            "word": "will",
+            "phonetic": "/wɪl/",
+            "meaning": "将要"
+          },
+          {
+            "word": "call",
+            "phonetic": "/kɔːl/",
+            "meaning": "打电话"
+          },
+          {
+            "word": "tonight",
+            "phonetic": "/təˈnaɪt/",
+            "meaning": "今晚"
+          },
+          {
+            "word": "wait",
+            "phonetic": "/weɪt/",
+            "meaning": "等待"
+          }
+        ]
+      },
+      {
+        "id": "sbs2_017",
+        "title": "Lesson 17: I Couldn't Find My Keys",
+        "text_en": "Why were you late this morning?\nI couldn't find my keys.\nWhere did you look?\nI looked everywhere — in the kitchen, in the bedroom.\nWhere did you finally find them?\nThey were in my jacket pocket!",
+        "text_zh": "A：你今天早上为什么迟到？\nB：我找不到钥匙了。\nA：你找了哪些地方？\nB：我到处找了——厨房、卧室。\nA：最后在哪里找到的？\nB：在我的夹克口袋里！",
+        "vocabulary": [
+          {
+            "word": "couldn't",
+            "phonetic": "/ˈkʊdnt/",
+            "meaning": "不能"
+          },
+          {
+            "word": "find",
+            "phonetic": "/faɪnd/",
+            "meaning": "找到"
+          },
+          {
+            "word": "pocket",
+            "phonetic": "/ˈpɒkɪt/",
+            "meaning": "口袋"
+          },
+          {
+            "word": "finally",
+            "phonetic": "/ˈfaɪnəli/",
+            "meaning": "最后"
+          }
+        ]
+      },
+      {
+        "id": "sbs2_018",
+        "title": "Lesson 18: I Might Go to the Party",
+        "text_en": "Will you go to the party tonight?\nI might go, but I'm not sure.\nWhy aren't you sure?\nI might have to work late.\nLet me know if you can come.\nI'll text you when I know.",
+        "text_zh": "A：你今晚去派对吗？\nB：我可能去，但还不确定。\nA：为什么不确定？\nB：我可能得加班。\nA：如果你能来就告诉我。\nB：我知道了就给你发短信。",
+        "vocabulary": [
+          {
+            "word": "might",
+            "phonetic": "/maɪt/",
+            "meaning": "可能"
+          },
+          {
+            "word": "sure",
+            "phonetic": "/ʃʊr/",
+            "meaning": "确定的"
+          },
+          {
+            "word": "text",
+            "phonetic": "/tekst/",
+            "meaning": "发短信"
+          },
+          {
+            "word": "party",
+            "phonetic": "/ˈpɑːrti/",
+            "meaning": "派对"
+          }
+        ]
+      },
+      {
+        "id": "sbs2_019",
+        "title": "Lesson 19: I've Been Waiting Since 3 PM",
+        "text_en": "How long have you been waiting?\nI've been waiting since 3 PM.\nThat's more than an hour! I'm sorry.\nThat's OK. I was reading a magazine.\nI should have called you.\nDon't worry about it.",
+        "text_zh": "A：你等了多久了？\nB：我从下午三点就在等了。\nA：那超过一个小时了！对不起。\nB：没关系。我刚才在看杂志。\nA：我应该给你打电话的。\nB：别担心。",
+        "vocabulary": [
+          {
+            "word": "waiting",
+            "phonetic": "/ˈweɪtɪŋ/",
+            "meaning": "等待"
+          },
+          {
+            "word": "since",
+            "phonetic": "/sɪns/",
+            "meaning": "自从"
+          },
+          {
+            "word": "hour",
+            "phonetic": "/ˈaʊər/",
+            "meaning": "小时"
+          },
+          {
+            "word": "magazine",
+            "phonetic": "/ˌmæɡəˈziːn/",
+            "meaning": "杂志"
+          }
+        ]
+      },
+      {
+        "id": "sbs2_020",
+        "title": "Lesson 20: I Don't Have to Go to Work Tomorrow",
+        "text_en": "Do you have to go to work tomorrow?\nNo, I don't have to. It's a holiday.\nThat's nice! What are you going to do?\nI'm going to sleep in and then go out for brunch.\nSounds like a perfect day!\nYes, I'm really looking forward to it.",
+        "text_zh": "A：你明天必须去上班吗？\nB：不，不用。明天是假日。\nA：那太好了！你打算做什么？\nB：我要睡个懒觉，然后出去吃早午餐。\nA：听起来是完美的一天！\nB：是的，我真的很期待。",
+        "vocabulary": [
+          {
+            "word": "have to",
+            "phonetic": "/hæv tuː/",
+            "meaning": "必须"
+          },
+          {
+            "word": "holiday",
+            "phonetic": "/ˈhɑːlədeɪ/",
+            "meaning": "假日"
+          },
+          {
+            "word": "brunch",
+            "phonetic": "/brʌntʃ/",
+            "meaning": "早午餐"
+          },
+          {
+            "word": "look forward to",
+            "phonetic": "/lʊk ˈfɔːrwərd tuː/",
+            "meaning": "期待"
+          }
+        ]
+      },
+      {
+        "id": "sbs2_021",
+        "title": "Lesson 21: My Car Is Faster Than Yours",
+        "text_en": "How fast is your new car?\nIt's very fast. Faster than yours!\nReally? How fast can it go?\nIt can go up to 200 kilometers per hour.\nThat's impressive. Is it expensive?\nIt was, but it was worth it.",
+        "text_zh": "A：你的新车有多快？\nB：非常快。比你的快！\nA：真的吗？它能跑多快？\nB：能跑到每小时200公里。\nA：真厉害。贵吗？\nB：贵，但物有所值。",
+        "vocabulary": [
+          {
+            "word": "fast",
+            "phonetic": "/fæst/",
+            "meaning": "快的"
+          },
+          {
+            "word": "kilometer",
+            "phonetic": "/kɪˈlɒmɪtər/",
+            "meaning": "公里"
+          },
+          {
+            "word": "expensive",
+            "phonetic": "/ɪkˈspensɪv/",
+            "meaning": "昂贵的"
+          },
+          {
+            "word": "impressive",
+            "phonetic": "/ɪmˈpresɪv/",
+            "meaning": "令人印象深刻的"
+          }
+        ]
+      },
+      {
+        "id": "sbs2_022",
+        "title": "Lesson 22: I've Known Her for Ten Years",
+        "text_en": "How long have you known Sarah?\nI've known her for ten years.\nThat's a long time! How did you meet?\nWe met in college. We were roommates.\nAre you still close?\nYes, she's my best friend.",
+        "text_zh": "A：你认识萨拉多久了？\nB：我认识她十年了。\nA：那真是一段很长的时间！你们怎么认识的？\nB：我们在大学认识的。我们是室友。\nA：你们还亲近吗？\nB：是的，她是我最好的朋友。",
+        "vocabulary": [
+          {
+            "word": "known",
+            "phonetic": "/noʊn/",
+            "meaning": "知道，认识"
+          },
+          {
+            "word": "roommate",
+            "phonetic": "/ˈruːmmeɪt/",
+            "meaning": "室友"
+          },
+          {
+            "word": "college",
+            "phonetic": "/ˈkɑːlɪdʒ/",
+            "meaning": "大学"
+          },
+          {
+            "word": "close",
+            "phonetic": "/kloʊs/",
+            "meaning": "亲近的"
+          }
+        ]
+      },
+      {
+        "id": "sbs2_023",
+        "title": "Lesson 23: I Would Like a Cup of Tea",
+        "text_en": "What would you like to drink?\nI would like a cup of tea, please.\nWith milk and sugar?\nJust a little sugar, no milk.\nHere you go. Enjoy!\nThank you. This is perfect.",
+        "text_zh": "A：你想喝什么？\nB：请给我一杯茶。\nA：加奶和糖吗？\nB：只要一点糖，不要奶。\nA：给你。请享用！\nB：谢谢。这杯茶很好。",
+        "vocabulary": [
+          {
+            "word": "cup",
+            "phonetic": "/kʌp/",
+            "meaning": "杯子"
+          },
+          {
+            "word": "tea",
+            "phonetic": "/tiː/",
+            "meaning": "茶"
+          },
+          {
+            "word": "sugar",
+            "phonetic": "/ˈʃʊɡər/",
+            "meaning": "糖"
+          },
+          {
+            "word": "perfect",
+            "phonetic": "/ˈpɜːrfɪkt/",
+            "meaning": "完美的"
+          }
+        ]
+      },
+      {
+        "id": "sbs2_024",
+        "title": "Lesson 24: I Left My Umbrella on the Bus",
+        "text_en": "What's wrong? You look upset.\nI left my umbrella on the bus.\nDid you try to call the bus company?\nYes, but nobody answered.\nMaybe someone turned it in.\nI hope so. It was a gift from my mother.",
+        "text_zh": "A：怎么了？你看起来很沮丧。\nB：我把伞忘在公交车上了。\nA：你试着给公交公司打电话了吗？\nB：打了，但没人接。\nA：也许有人交到失物招领处了。\nB：希望如此。那是我妈妈送的礼物。",
+        "vocabulary": [
+          {
+            "word": "umbrella",
+            "phonetic": "/ʌmˈbrelə/",
+            "meaning": "雨伞"
+          },
+          {
+            "word": "left",
+            "phonetic": "/left/",
+            "meaning": "遗忘"
+          },
+          {
+            "word": "gift",
+            "phonetic": "/ɡɪft/",
+            "meaning": "礼物"
+          },
+          {
+            "word": "company",
+            "phonetic": "/ˈkʌmpəni/",
+            "meaning": "公司"
+          }
+        ]
+      },
+      {
+        "id": "sbs2_025",
+        "title": "Lesson 25: They Were Playing Soccer at 5 PM",
+        "text_en": "What were they doing at 5 PM yesterday?\nThey were playing soccer in the park.\nWere you playing too?\nNo, I was watching them.\nWho won the game?\nThe blue team won. It was a close game.",
+        "text_zh": "A：昨天下午五点在做什么？\nB：他们在公园里踢足球。\nA：你也在踢吗？\nB：不，我在看他们踢。\nA：谁赢了比赛？\nB：蓝队赢了。比赛很激烈。",
+        "vocabulary": [
+          {
+            "word": "were playing",
+            "phonetic": "/wɜːr ˈpleɪɪŋ/",
+            "meaning": "正在玩"
+          },
+          {
+            "word": "win",
+            "phonetic": "/wɪn/",
+            "meaning": "赢"
+          },
+          {
+            "word": "game",
+            "phonetic": "/ɡeɪm/",
+            "meaning": "比赛"
+          },
+          {
+            "word": "team",
+            "phonetic": "/tiːm/",
+            "meaning": "队伍"
+          }
+        ]
+      },
+      {
+        "id": "sbs2_026",
+        "title": "Lesson 26: I Need to Buy a Present",
+        "text_en": "What are you looking for?\nI need to buy a present for my mother.\nIs it her birthday?\nYes, her birthday is next week.\nWhat does she like?\nShe likes jewelry and perfume.",
+        "text_zh": "A：你在找什么？\nB：我需要给我妈妈买礼物。\nA：是她的生日吗？\nB：是的，她下周生日。\nA：她喜欢什么？\nB：她喜欢珠宝和香水。",
+        "vocabulary": [
+          {
+            "word": "present",
+            "phonetic": "/ˈpreznt/",
+            "meaning": "礼物"
+          },
+          {
+            "word": "jewelry",
+            "phonetic": "/ˈdʒuːəlri/",
+            "meaning": "珠宝"
+          },
+          {
+            "word": "perfume",
+            "phonetic": "/pərˈfjuːm/",
+            "meaning": "香水"
+          },
+          {
+            "word": "birthday",
+            "phonetic": "/ˈbɜːrθdeɪ/",
+            "meaning": "生日"
+          }
+        ]
+      },
+      {
+        "id": "sbs2_027",
+        "title": "Lesson 27: It Was the Best Day of My Life",
+        "text_en": "How was your vacation?\nIt was the best day of my life!\nWhat did you do?\nI went snorkeling and saw sea turtles.\nThat sounds amazing!\nIt was unforgettable.",
+        "text_zh": "A：你的假期怎么样？\nB：那是我生命中最美好的一天！\nA：你做了什么？\nB：我去浮潜了，看到了海龟。\nA：听起来太棒了！\nB：真是难忘。",
+        "vocabulary": [
+          {
+            "word": "vacation",
+            "phonetic": "/vəˈkeɪʃn/",
+            "meaning": "假期"
+          },
+          {
+            "word": "snorkeling",
+            "phonetic": "/ˈsnɔːrkəlɪŋ/",
+            "meaning": "浮潜"
+          },
+          {
+            "word": "turtle",
+            "phonetic": "/ˈtɜːrtl/",
+            "meaning": "海龟"
+          },
+          {
+            "word": "unforgettable",
+            "phonetic": "/ˌʌnfərˈɡetəbl/",
+            "meaning": "难忘的"
+          }
+        ]
+      },
+      {
+        "id": "sbs2_028",
+        "title": "Lesson 28: He Runs Faster Than Me",
+        "text_en": "Who runs faster, Tom or you?\nTom runs faster than me.\nBut you run longer, right?\nYes, I can run for an hour non-stop.\nThat's good endurance.\nI practice every morning.",
+        "text_zh": "A：汤姆和你谁跑得更快？\nB：汤姆比我跑得快。\nA：但你跑得更久，对吧？\nB：是的，我可以连续跑一个小时。\nA：那耐力很好。\nB：我每天早上都练习。",
+        "vocabulary": [
+          {
+            "word": "faster",
+            "phonetic": "/ˈfæstər/",
+            "meaning": "更快的"
+          },
+          {
+            "word": "longer",
+            "phonetic": "/ˈlɔːŋɡər/",
+            "meaning": "更长的"
+          },
+          {
+            "word": "endurance",
+            "phonetic": "/ɪnˈdʊrəns/",
+            "meaning": "耐力"
+          },
+          {
+            "word": "non-stop",
+            "phonetic": "/nɒn stɒp/",
+            "meaning": "不停的"
+          }
+        ]
+      },
+      {
+        "id": "sbs2_029",
+        "title": "Lesson 29: I've Already Seen That Movie",
+        "text_en": "Do you want to watch this movie?\nI've already seen it.\nReally? When did you see it?\nI saw it last month with my sister.\nWas it good?\nIt was OK, not the best.",
+        "text_zh": "A：你想看这部电影吗？\nB：我已经看过了。\nA：真的吗？你什么时候看的？\nB：我上个月和我妹妹一起看的。\nA：好看吗？\nB：还行，不是最好的。",
+        "vocabulary": [
+          {
+            "word": "already",
+            "phonetic": "/ɔːlˈredi/",
+            "meaning": "已经"
+          },
+          {
+            "word": "seen",
+            "phonetic": "/siːn/",
+            "meaning": "看过"
+          },
+          {
+            "word": "month",
+            "phonetic": "/mʌnθ/",
+            "meaning": "月"
+          },
+          {
+            "word": "sister",
+            "phonetic": "/ˈsɪstər/",
+            "meaning": "姐妹"
+          }
+        ]
+      },
+      {
+        "id": "sbs2_030",
+        "title": "Lesson 30: We Couldn't Find a Parking Spot",
+        "text_en": "Why were you late to the restaurant?\nWe couldn't find a parking spot.\nDid you drive around for long?\nYes, for about twenty minutes.\nNext time, we can take the subway.\nThat's a better idea.",
+        "text_zh": "A：你们为什么到餐厅晚了？\nB：我们找不到停车位。\nA：你们绕了很久吗？\nB：是的，大约二十分钟。\nA：下次我们可以坐地铁。\nB：那样更好。",
+        "vocabulary": [
+          {
+            "word": "parking",
+            "phonetic": "/ˈpɑːrkɪŋ/",
+            "meaning": "停车"
+          },
+          {
+            "word": "drive around",
+            "phonetic": "/draɪv əˈraʊnd/",
+            "meaning": "绕路"
+          },
+          {
+            "word": "subway",
+            "phonetic": "/ˈsʌbweɪ/",
+            "meaning": "地铁"
+          },
+          {
+            "word": "spot",
+            "phonetic": "/spɒt/",
+            "meaning": "位置"
+          }
+        ]
+      },
+      {
+        "id": "sbs2_031",
+        "title": "Lesson 31: I Will Always Remember You",
+        "text_en": "I'm moving to another city next month.\nI will miss you a lot.\nI will always remember our time together.\nWe can video call every weekend.\nThat would be great.\nYour friendship means so much to me.",
+        "text_zh": "A：我下个月要搬到另一个城市了。\nB：我会很想你的。\nA：我会永远记得我们在一起的时光。\nB：我们可以每个周末视频通话。\nA：那太好了。\nB：你的友谊对我意义重大。",
+        "vocabulary": [
+          {
+            "word": "remember",
+            "phonetic": "/rɪˈmembər/",
+            "meaning": "记得"
+          },
+          {
+            "word": "miss",
+            "phonetic": "/mɪs/",
+            "meaning": "想念"
+          },
+          {
+            "word": "friendship",
+            "phonetic": "/ˈfrendʃɪp/",
+            "meaning": "友谊"
+          },
+          {
+            "word": "video call",
+            "phonetic": "/ˈvɪdioʊ kɔːl/",
+            "meaning": "视频通话"
+          }
+        ]
+      },
+      {
+        "id": "sbs2_032",
+        "title": "Lesson 32: I Had Never Tried Sushi Before",
+        "text_en": "Have you ever tried sushi?\nI had never tried it before last week.\nDid you like it?\nI loved it! I can't believe I waited so long.\nWhat kind did you try?\nSalmon and avocado rolls.",
+        "text_zh": "A：你吃过寿司吗？\nB：上周之前我从没吃过。\nA：你喜欢吗？\nB：我非常喜欢！真不敢相信我等了这么久。\nA：你吃了哪种？\nB：三文鱼牛油果卷。",
+        "vocabulary": [
+          {
+            "word": "sushi",
+            "phonetic": "/ˈsuːʃi/",
+            "meaning": "寿司"
+          },
+          {
+            "word": "salmon",
+            "phonetic": "/ˈsæmən/",
+            "meaning": "三文鱼"
+          },
+          {
+            "word": "avocado",
+            "phonetic": "/ˌævəˈkɑːdoʊ/",
+            "meaning": "牛油果"
+          },
+          {
+            "word": "roll",
+            "phonetic": "/roʊl/",
+            "meaning": "卷"
+          }
+        ]
+      },
+      {
+        "id": "sbs2_033",
+        "title": "Lesson 33: I Must Finish This Today",
+        "text_en": "You look busy.\nI am. I must finish this report today.\nIs it urgent?\nYes, the client needs it by 5 PM.\nDo you need any help?\nNo, but thanks for offering.",
+        "text_zh": "A：你看起来很忙。\nB：是的。我今天必须完成这份报告。\nA：很紧急吗？\nB：是的，客户下午五点前要。\nA：需要帮忙吗？\nB：不用，但谢谢你的好意。",
+        "vocabulary": [
+          {
+            "word": "must",
+            "phonetic": "/mʌst/",
+            "meaning": "必须"
+          },
+          {
+            "word": "urgent",
+            "phonetic": "/ˈɜːrdʒənt/",
+            "meaning": "紧急的"
+          },
+          {
+            "word": "client",
+            "phonetic": "/ˈklaɪənt/",
+            "meaning": "客户"
+          },
+          {
+            "word": "offer",
+            "phonetic": "/ˈɔːfər/",
+            "meaning": "提供"
+          }
+        ]
+      },
+      {
+        "id": "sbs2_034",
+        "title": "Lesson 34: He Is the Most Generous Person I Know",
+        "text_en": "What do you think of Mark?\nHe's the most generous person I know.\nWhy do you say that?\nHe always donates to charity and helps others.\nThat's a great quality.\nYes, I really admire him.",
+        "text_zh": "A：你觉得马克怎么样？\nB：他是我认识的最慷慨的人。\nA：你为什么这么说？\nB：他总是捐款给慈善机构，帮助别人。\nA：那是很好的品质。\nB：是的，我很敬佩他。",
+        "vocabulary": [
+          {
+            "word": "generous",
+            "phonetic": "/ˈdʒenərəs/",
+            "meaning": "慷慨的"
+          },
+          {
+            "word": "donate",
+            "phonetic": "/ˈdoʊneɪt/",
+            "meaning": "捐赠"
+          },
+          {
+            "word": "charity",
+            "phonetic": "/ˈtʃærəti/",
+            "meaning": "慈善"
+          },
+          {
+            "word": "admire",
+            "phonetic": "/ədˈmaɪər/",
+            "meaning": "钦佩"
+          }
+        ]
+      },
+      {
+        "id": "sbs2_035",
+        "title": "Lesson 35: I Wouldn't Do That If I Were You",
+        "text_en": "I'm going to quit my job.\nI wouldn't do that if I were you.\nWhy not?\nYou should find another job first.\nThat's good advice.\nIt's safer to have something lined up.",
+        "text_zh": "A：我打算辞职。\nB：如果我是你，我不会那样做。\nA：为什么不？\nB：你应该先找到另一份工作。\nA：好建议。\nB：有备无患更安全。",
+        "vocabulary": [
+          {
+            "word": "quit",
+            "phonetic": "/kwɪt/",
+            "meaning": "辞职"
+          },
+          {
+            "word": "advice",
+            "phonetic": "/ədˈvaɪs/",
+            "meaning": "建议"
+          },
+          {
+            "word": "safer",
+            "phonetic": "/ˈseɪfər/",
+            "meaning": "更安全的"
+          },
+          {
+            "word": "line up",
+            "phonetic": "/laɪn ʌp/",
+            "meaning": "安排好"
+          }
+        ]
+      },
+      {
+        "id": "sbs2_036",
+        "title": "Lesson 36: He Has Been Traveling for a Month",
+        "text_en": "Where is your brother?\nHe has been traveling in Europe for a month.\nThat sounds wonderful! Which countries?\nHe's visited five countries so far.\nWhen will he come back?\nNext week, I think.",
+        "text_zh": "A：你哥哥在哪里？\nB：他已经在欧洲旅行了一个月。\nA：听起来很棒！去了哪些国家？\nB：他至今已经去了五个国家。\nA：他什么时候回来？\nB：我想下周。",
+        "vocabulary": [
+          {
+            "word": "traveling",
+            "phonetic": "/ˈtrævəlɪŋ/",
+            "meaning": "旅行"
+          },
+          {
+            "word": "Europe",
+            "phonetic": "/ˈjʊrəp/",
+            "meaning": "欧洲"
+          },
+          {
+            "word": "visited",
+            "phonetic": "/ˈvɪzɪtɪd/",
+            "meaning": "访问过"
+          },
+          {
+            "word": "so far",
+            "phonetic": "/soʊ fɑːr/",
+            "meaning": "迄今为止"
+          }
+        ]
+      },
+      {
+        "id": "sbs2_037",
+        "title": "Lesson 37: This Is the Worst Food I've Ever Had",
+        "text_en": "How is your meal?\nThis is the worst food I've ever had!\nReally? What's wrong with it?\nIt's too salty and cold.\nYou should send it back.\nI think I will.",
+        "text_zh": "A：你的饭菜怎么样？\nB：这是我吃过的最难吃的食物！\nA：真的吗？有什么问题？\nB：太咸了，而且是凉的。\nA：你应该退回去。\nB：我想我会的。",
+        "vocabulary": [
+          {
+            "word": "worst",
+            "phonetic": "/wɜːrst/",
+            "meaning": "最差的"
+          },
+          {
+            "word": "salty",
+            "phonetic": "/ˈsɔːlti/",
+            "meaning": "咸的"
+          },
+          {
+            "word": "send back",
+            "phonetic": "/send bæk/",
+            "meaning": "退回"
+          },
+          {
+            "word": "meal",
+            "phonetic": "/miːl/",
+            "meaning": "一餐"
+          }
+        ]
+      },
+      {
+        "id": "sbs2_038",
+        "title": "Lesson 38: I'll Be There Soon",
+        "text_en": "Where are you? The movie is starting.\nI'll be there soon. I'm almost at the cinema.\nThe trailers are playing now.\nDon't wait for me, go inside.\nOK, I'll save you a seat.\nThanks! I'll be there in five minutes.",
+        "text_zh": "A：你在哪里？电影要开始了。\nB：我马上就到。我快到电影院了。\nA：正在放预告片。\nB：别等我，先进去吧。\nA：好的，我给你留座位。\nB：谢谢！我五分钟就到。",
+        "vocabulary": [
+          {
+            "word": "soon",
+            "phonetic": "/suːn/",
+            "meaning": "很快"
+          },
+          {
+            "word": "trailer",
+            "phonetic": "/ˈtreɪlər/",
+            "meaning": "预告片"
+          },
+          {
+            "word": "seat",
+            "phonetic": "/siːt/",
+            "meaning": "座位"
+          },
+          {
+            "word": "cinema",
+            "phonetic": "/ˈsɪnəmə/",
+            "meaning": "电影院"
+          }
+        ]
+      },
+      {
+        "id": "sbs2_039",
+        "title": "Lesson 39: I Should Have Studied Harder",
+        "text_en": "How did your exam go?\nNot well. I should have studied harder.\nDid you find it difficult?\nYes, I didn't prepare enough.\nYou can do better next time.\nI'll definitely study more for the next one.",
+        "text_zh": "A：你考得怎么样？\nB：不好。我本应该更努力学习的。\nA：你觉得难吗？\nB：是的，我准备得不够。\nA：下次你可以做得更好。\nB：下次我一定会多学习。",
+        "vocabulary": [
+          {
+            "word": "should have",
+            "phonetic": "/ʃʊd hæv/",
+            "meaning": "本应该"
+          },
+          {
+            "word": "exam",
+            "phonetic": "/ɪɡˈzæm/",
+            "meaning": "考试"
+          },
+          {
+            "word": "prepare",
+            "phonetic": "/prɪˈper/",
+            "meaning": "准备"
+          },
+          {
+            "word": "definitely",
+            "phonetic": "/ˈdefɪnətli/",
+            "meaning": "一定"
+          }
+        ]
+      },
+      {
+        "id": "sbs2_040",
+        "title": "Lesson 40: I Used to Be Afraid of Heights",
+        "text_en": "Are you afraid of heights?\nI used to be, but not anymore.\nHow did you overcome it?\nI went rock climbing with a friend.\nThat took courage!\nAfter that, I wasn't scared anymore.",
+        "text_zh": "A：你恐高吗？\nB：我以前恐高，但现在不了。\nA：你是怎么克服的？\nB：我和一个朋友去攀岩了。\nA：那需要勇气！\nB：从那以后，我就不再害怕了。",
+        "vocabulary": [
+          {
+            "word": "heights",
+            "phonetic": "/haɪts/",
+            "meaning": "高处"
+          },
+          {
+            "word": "overcome",
+            "phonetic": "/ˌoʊvərˈkʌm/",
+            "meaning": "克服"
+          },
+          {
+            "word": "rock climbing",
+            "phonetic": "/rɒk ˈklaɪmɪŋ/",
+            "meaning": "攀岩"
+          },
+          {
+            "word": "courage",
+            "phonetic": "/ˈkɜːrɪdʒ/",
+            "meaning": "勇气"
+          }
+        ]
+      },
+      {
+        "id": "sbs2_041",
+        "title": "Lesson 41: They Have Been Married for 20 Years",
+        "text_en": "How long have your parents been married?\nThey have been married for 20 years.\nThat's a long time. How did they meet?\nThey met at a friend's wedding.\nThat's romantic! Do they still love each other?\nYes, they are very happy together.",
+        "text_zh": "A：你父母结婚多久了？\nB：他们已经结婚20年了。\nA：那很长了。他们怎么认识的？\nB：他们在朋友的婚礼上认识的。\nA：真浪漫！他们还彼此相爱吗？\nB：是的，他们在一起很幸福。",
+        "vocabulary": [
+          {
+            "word": "married",
+            "phonetic": "/ˈmærid/",
+            "meaning": "结婚的"
+          },
+          {
+            "word": "wedding",
+            "phonetic": "/ˈwedɪŋ/",
+            "meaning": "婚礼"
+          },
+          {
+            "word": "romantic",
+            "phonetic": "/roʊˈmæntɪk/",
+            "meaning": "浪漫的"
+          },
+          {
+            "word": "together",
+            "phonetic": "/təˈɡeðər/",
+            "meaning": "一起"
+          }
+        ]
+      },
+      {
+        "id": "sbs2_042",
+        "title": "Lesson 42: I Don't Know How to Dance",
+        "text_en": "Do you know how to dance?\nNo, I don't know how.\nWould you like to learn?\nYes, but I'm a little shy.\nDon't be shy! I can teach you.\nOK, let's try.",
+        "text_zh": "A：你会跳舞吗？\nB：不，我不会。\nA：你想学吗？\nB：想，但我有点害羞。\nA：别害羞！我可以教你。\nB：好的，我们试试吧。",
+        "vocabulary": [
+          {
+            "word": "dance",
+            "phonetic": "/dæns/",
+            "meaning": "跳舞"
+          },
+          {
+            "word": "shy",
+            "phonetic": "/ʃaɪ/",
+            "meaning": "害羞的"
+          },
+          {
+            "word": "teach",
+            "phonetic": "/tiːtʃ/",
+            "meaning": "教"
+          },
+          {
+            "word": "learn",
+            "phonetic": "/lɜːrn/",
+            "meaning": "学习"
+          }
+        ]
+      },
+      {
+        "id": "sbs2_043",
+        "title": "Lesson 43: She Could Speak Three Languages",
+        "text_en": "How many languages can your grandmother speak?\nShe could speak three languages.\nThat's impressive! Which ones?\nEnglish, French, and Spanish.\nI wish I could speak that many.\nShe learned them by living in different countries.",
+        "text_zh": "A：你奶奶会说几种语言？\nB：她会说三种语言。\nA：真厉害！哪三种？\nB：英语、法语和西班牙语。\nA：我希望我也可以说多种语言。\nB：她通过在各国生活学会的。",
+        "vocabulary": [
+          {
+            "word": "language",
+            "phonetic": "/ˈlæŋɡwɪdʒ/",
+            "meaning": "语言"
+          },
+          {
+            "word": "Spanish",
+            "phonetic": "/ˈspænɪʃ/",
+            "meaning": "西班牙语"
+          },
+          {
+            "word": "impressive",
+            "phonetic": "/ɪmˈpresɪv/",
+            "meaning": "令人佩服的"
+          },
+          {
+            "word": "grandmother",
+            "phonetic": "/ˈɡrænmʌðər/",
+            "meaning": "祖母"
+          }
+        ]
+      },
+      {
+        "id": "sbs2_044",
+        "title": "Lesson 44: I'll Take the Train Instead",
+        "text_en": "Are you driving to the meeting?\nNo, I'll take the train instead.\nWhy?\nTraffic is terrible during rush hour.\nHow long does the train take?\nAbout forty minutes.",
+        "text_zh": "A：你开车去开会吗？\nB：不，我改坐火车。\nA：为什么？\nB：高峰时间交通太糟糕了。\nA：火车需要多久？\nB：大约四十分钟。",
+        "vocabulary": [
+          {
+            "word": "train",
+            "phonetic": "/treɪn/",
+            "meaning": "火车"
+          },
+          {
+            "word": "instead",
+            "phonetic": "/ɪnˈsted/",
+            "meaning": "代替"
+          },
+          {
+            "word": "rush hour",
+            "phonetic": "/rʌʃ aʊər/",
+            "meaning": "高峰时间"
+          },
+          {
+            "word": "terrible",
+            "phonetic": "/ˈterəbl/",
+            "meaning": "糟糕的"
+          }
+        ]
+      },
+      {
+        "id": "sbs2_045",
+        "title": "Lesson 45: I've Lost My Phone",
+        "text_en": "What's the matter?\nI've lost my phone.\nWhen did you last have it?\nI had it at the coffee shop.\nLet's go back and look for it.\nI hope nobody stole it.",
+        "text_zh": "A：怎么了？\nB：我的手机丢了。\nA：你最后一次见到它是什么时候？\nB：在咖啡店时我还在用。\nA：我们回去找找看。\nB：希望没人偷了它。",
+        "vocabulary": [
+          {
+            "word": "lost",
+            "phonetic": "/lɒst/",
+            "meaning": "丢失的"
+          },
+          {
+            "word": "stole",
+            "phonetic": "/stoʊl/",
+            "meaning": "偷（过去式）"
+          },
+          {
+            "word": "coffee shop",
+            "phonetic": "/ˈkɒfi ʃɒp/",
+            "meaning": "咖啡店"
+          },
+          {
+            "word": "look for",
+            "phonetic": "/lʊk fɔːr/",
+            "meaning": "寻找"
+          }
+        ]
+      },
+      {
+        "id": "sbs2_046",
+        "title": "Lesson 46: The More You Read, the More You Know",
+        "text_en": "Why do you read so much?\nThe more you read, the more you know.\nThat's true. What do you like to read?\nI enjoy history and science books.\nDo you read every day?\nYes, I read for at least an hour.",
+        "text_zh": "A：你为什么读这么多书？\nB：读得越多，知道得越多。\nA：没错。你喜欢读什么？\nB：我喜欢历史和科学书。\nA：你每天都读吗？\nB：是的，我至少读一小时。",
+        "vocabulary": [
+          {
+            "word": "the more...the more...",
+            "phonetic": "/ðə mɔːr/",
+            "meaning": "越……越……"
+          },
+          {
+            "word": "history",
+            "phonetic": "/ˈhɪstri/",
+            "meaning": "历史"
+          },
+          {
+            "word": "science",
+            "phonetic": "/ˈsaɪəns/",
+            "meaning": "科学"
+          },
+          {
+            "word": "at least",
+            "phonetic": "/æt liːst/",
+            "meaning": "至少"
+          }
+        ]
+      },
+      {
+        "id": "sbs2_047",
+        "title": "Lesson 47: She Had Never Flown Before",
+        "text_en": "How was your sister's flight?\nShe was nervous. She had never flown before.\nDid she enjoy it?\nYes, she loved looking at the clouds.\nWas she scared during takeoff?\nA little, but she got used to it.",
+        "text_zh": "A：你妹妹的飞行怎么样？\nB：她很紧张。她以前从未坐过飞机。\nA：她喜欢吗？\nB：是的，她喜欢看云。\nA：起飞时她害怕了吗？\nB：有一点，但她习惯了。",
+        "vocabulary": [
+          {
+            "word": "flight",
+            "phonetic": "/flaɪt/",
+            "meaning": "航班"
+          },
+          {
+            "word": "takeoff",
+            "phonetic": "/ˈteɪkɒf/",
+            "meaning": "起飞"
+          },
+          {
+            "word": "cloud",
+            "phonetic": "/klaʊd/",
+            "meaning": "云"
+          },
+          {
+            "word": "scared",
+            "phonetic": "/skerd/",
+            "meaning": "害怕的"
+          }
+        ]
+      },
+      {
+        "id": "sbs2_048",
+        "title": "Lesson 48: I May Have Left the Door Open",
+        "text_en": "Did you lock the door?\nI think so, but I may have left it open.\nYou should check.\nI'll go back and make sure.\nHurry! We don't want anyone to break in.\nDon't worry, I'll be quick.",
+        "text_zh": "A：你锁门了吗？\nB：我想锁了，但可能没关好。\nA：你应该检查一下。\nB：我回去确认一下。\nA：快点！我们不想有人闯入。\nB：别担心，我很快。",
+        "vocabulary": [
+          {
+            "word": "may have",
+            "phonetic": "/meɪ hæv/",
+            "meaning": "可能已经"
+          },
+          {
+            "word": "lock",
+            "phonetic": "/lɒk/",
+            "meaning": "锁"
+          },
+          {
+            "word": "check",
+            "phonetic": "/tʃek/",
+            "meaning": "检查"
+          },
+          {
+            "word": "break in",
+            "phonetic": "/breɪk ɪn/",
+            "meaning": "闯入"
+          }
+        ]
+      },
+      {
+        "id": "sbs2_049",
+        "title": "Lesson 49: If I Had More Time, I Would Travel",
+        "text_en": "If you had more time, what would you do?\nIf I had more time, I would travel the world.\nWhere would you go first?\nI would visit Japan and South Korea.\nThat sounds like an amazing trip.\nSomeday I'll make it happen.",
+        "text_zh": "A：如果你有更多时间，你会做什么？\nB：如果我有更多时间，我会环游世界。\nA：你会先去哪里？\nB：我会去日本和韩国。\nA：听起来是一次很棒的旅行。\nB：总有一天我会实现的。",
+        "vocabulary": [
+          {
+            "word": "if...would...",
+            "phonetic": "/ɪf wʊd/",
+            "meaning": "如果……就会……"
+          },
+          {
+            "word": "Japan",
+            "phonetic": "/dʒəˈpæn/",
+            "meaning": "日本"
+          },
+          {
+            "word": "South Korea",
+            "phonetic": "/saʊθ kəˈriːə/",
+            "meaning": "韩国"
+          },
+          {
+            "word": "someday",
+            "phonetic": "/ˈsʌmdeɪ/",
+            "meaning": "总有一天"
+          }
+        ]
+      },
+      {
+        "id": "sbs2_050",
+        "title": "Lesson 50: I've Learned a Lot This Year",
+        "text_en": "How was your year?\nI've learned a lot this year.\nWhat was the best thing you learned?\nI learned how to be more patient.\nThat's a valuable lesson.\nYes, and I'm going to keep learning.",
+        "text_zh": "A：你这一年过得怎么样？\nB：我今年学到了很多东西。\nA：你学到的最好的是什么？\nB：我学会了如何更有耐心。\nA：那是有价值的一课。\nB：是的，我会继续学习。",
+        "vocabulary": [
+          {
+            "word": "learned",
+            "phonetic": "/lɜːrnd/",
+            "meaning": "学到了"
+          },
+          {
+            "word": "patient",
+            "phonetic": "/ˈpeɪʃnt/",
+            "meaning": "耐心的"
+          },
+          {
+            "word": "valuable",
+            "phonetic": "/ˈvæljuəbl/",
+            "meaning": "有价值的"
+          },
+          {
+            "word": "keep",
+            "phonetic": "/kiːp/",
+            "meaning": "保持"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,2196 @@
+{
+  "course": {
+    "id": "famu",
+    "title": "走遍美国 (Family Album USA)",
+    "author": "Alvin Cooperman",
+    "type": "american",
+    "description": "经典美式英语情景教学片，26集生活故事",
+    "icon": "tv.fill",
+    "lessons": [
+      {
+        "id": "famu_ep01_act1",
+        "title": "Episode 1: A Special Day - Act 1",
+        "text_en": "Excuse me. I am a photographer. May I take your picture? It is for a book about American families.",
+        "text_zh": "Episode 1: A Special Day - Act 1",
+        "vocabulary": [
+          {
+            "word": "family",
+            "phonetic": "/ˈfæməli/",
+            "meaning": "家庭"
+          },
+          {
+            "word": "today",
+            "phonetic": "/təˈdeɪ/",
+            "meaning": "今天"
+          },
+          {
+            "word": "wonderful",
+            "phonetic": "/ˈwʌndərfl/",
+            "meaning": "精彩的"
+          },
+          {
+            "word": "together",
+            "phonetic": "/təˈɡeðər/",
+            "meaning": "一起"
+          }
+        ]
+      },
+      {
+        "id": "famu_ep01_act2",
+        "title": "Episode 1: A Special Day - Act 2",
+        "text_en": "Welcome to our home! This is the living room. Please make yourself comfortable.",
+        "text_zh": "Episode 1: A Special Day - Act 2",
+        "vocabulary": [
+          {
+            "word": "family",
+            "phonetic": "/ˈfæməli/",
+            "meaning": "家庭"
+          },
+          {
+            "word": "today",
+            "phonetic": "/təˈdeɪ/",
+            "meaning": "今天"
+          },
+          {
+            "word": "wonderful",
+            "phonetic": "/ˈwʌndərfl/",
+            "meaning": "精彩的"
+          },
+          {
+            "word": "together",
+            "phonetic": "/təˈɡeðər/",
+            "meaning": "一起"
+          }
+        ]
+      },
+      {
+        "id": "famu_ep01_act3",
+        "title": "Episode 1: A Special Day - Act 3",
+        "text_en": "Dinner is ready! We are having roast chicken. I hope you like it.",
+        "text_zh": "Episode 1: A Special Day - Act 3",
+        "vocabulary": [
+          {
+            "word": "family",
+            "phonetic": "/ˈfæməli/",
+            "meaning": "家庭"
+          },
+          {
+            "word": "today",
+            "phonetic": "/təˈdeɪ/",
+            "meaning": "今天"
+          },
+          {
+            "word": "wonderful",
+            "phonetic": "/ˈwʌndərfl/",
+            "meaning": "精彩的"
+          },
+          {
+            "word": "together",
+            "phonetic": "/təˈɡeðər/",
+            "meaning": "一起"
+          }
+        ]
+      },
+      {
+        "id": "famu_ep02_act1",
+        "title": "Episode 2: The Morning Routine - Act 1",
+        "text_en": "Good morning, everyone! Breakfast is on the table. We have eggs and toast today.",
+        "text_zh": "Episode 2: The Morning Routine - Act 1",
+        "vocabulary": [
+          {
+            "word": "family",
+            "phonetic": "/ˈfæməli/",
+            "meaning": "家庭"
+          },
+          {
+            "word": "today",
+            "phonetic": "/təˈdeɪ/",
+            "meaning": "今天"
+          },
+          {
+            "word": "wonderful",
+            "phonetic": "/ˈwʌndərfl/",
+            "meaning": "精彩的"
+          },
+          {
+            "word": "together",
+            "phonetic": "/təˈɡeðər/",
+            "meaning": "一起"
+          }
+        ]
+      },
+      {
+        "id": "famu_ep02_act2",
+        "title": "Episode 2: The Morning Routine - Act 2",
+        "text_en": "I need to go to work now. Do not forget to lock the door when you leave.",
+        "text_zh": "Episode 2: The Morning Routine - Act 2",
+        "vocabulary": [
+          {
+            "word": "family",
+            "phonetic": "/ˈfæməli/",
+            "meaning": "家庭"
+          },
+          {
+            "word": "today",
+            "phonetic": "/təˈdeɪ/",
+            "meaning": "今天"
+          },
+          {
+            "word": "wonderful",
+            "phonetic": "/ˈwʌndərfl/",
+            "meaning": "精彩的"
+          },
+          {
+            "word": "together",
+            "phonetic": "/təˈɡeðər/",
+            "meaning": "一起"
+          }
+        ]
+      },
+      {
+        "id": "famu_ep02_act3",
+        "title": "Episode 2: The Morning Routine - Act 3",
+        "text_en": "What time will you be home tonight? I am planning to cook something special.",
+        "text_zh": "Episode 2: The Morning Routine - Act 3",
+        "vocabulary": [
+          {
+            "word": "family",
+            "phonetic": "/ˈfæməli/",
+            "meaning": "家庭"
+          },
+          {
+            "word": "today",
+            "phonetic": "/təˈdeɪ/",
+            "meaning": "今天"
+          },
+          {
+            "word": "wonderful",
+            "phonetic": "/ˈwʌndərfl/",
+            "meaning": "精彩的"
+          },
+          {
+            "word": "together",
+            "phonetic": "/təˈɡeðər/",
+            "meaning": "一起"
+          }
+        ]
+      },
+      {
+        "id": "famu_ep03_act1",
+        "title": "Episode 3: At the Market - Act 1",
+        "text_en": "The vegetables look fresh today. How much are these tomatoes? They are two dollars per pound.",
+        "text_zh": "Episode 3: At the Market - Act 1",
+        "vocabulary": [
+          {
+            "word": "family",
+            "phonetic": "/ˈfæməli/",
+            "meaning": "家庭"
+          },
+          {
+            "word": "today",
+            "phonetic": "/təˈdeɪ/",
+            "meaning": "今天"
+          },
+          {
+            "word": "wonderful",
+            "phonetic": "/ˈwʌndərfl/",
+            "meaning": "精彩的"
+          },
+          {
+            "word": "together",
+            "phonetic": "/təˈɡeðər/",
+            "meaning": "一起"
+          }
+        ]
+      },
+      {
+        "id": "famu_ep03_act2",
+        "title": "Episode 3: At the Market - Act 2",
+        "text_en": "Do you need anything else? Yes, I also need some milk and a loaf of bread.",
+        "text_zh": "Episode 3: At the Market - Act 2",
+        "vocabulary": [
+          {
+            "word": "family",
+            "phonetic": "/ˈfæməli/",
+            "meaning": "家庭"
+          },
+          {
+            "word": "today",
+            "phonetic": "/təˈdeɪ/",
+            "meaning": "今天"
+          },
+          {
+            "word": "wonderful",
+            "phonetic": "/ˈwʌndərfl/",
+            "meaning": "精彩的"
+          },
+          {
+            "word": "together",
+            "phonetic": "/təˈɡeðər/",
+            "meaning": "一起"
+          }
+        ]
+      },
+      {
+        "id": "famu_ep03_act3",
+        "title": "Episode 3: At the Market - Act 3",
+        "text_en": "Let me help you carry the bags. Thank you! The supermarket was so crowded today.",
+        "text_zh": "Episode 3: At the Market - Act 3",
+        "vocabulary": [
+          {
+            "word": "family",
+            "phonetic": "/ˈfæməli/",
+            "meaning": "家庭"
+          },
+          {
+            "word": "today",
+            "phonetic": "/təˈdeɪ/",
+            "meaning": "今天"
+          },
+          {
+            "word": "wonderful",
+            "phonetic": "/ˈwʌndərfl/",
+            "meaning": "精彩的"
+          },
+          {
+            "word": "together",
+            "phonetic": "/təˈɡeðər/",
+            "meaning": "一起"
+          }
+        ]
+      },
+      {
+        "id": "famu_ep04_act1",
+        "title": "Episode 4 - Act 1",
+        "text_en": "I heard there is a new festival opening downtown. Have you been there yet?",
+        "text_zh": "Episode 4 - Act 1",
+        "vocabulary": [
+          {
+            "word": "family",
+            "phonetic": "/ˈfæməli/",
+            "meaning": "家庭"
+          },
+          {
+            "word": "today",
+            "phonetic": "/təˈdeɪ/",
+            "meaning": "今天"
+          },
+          {
+            "word": "wonderful",
+            "phonetic": "/ˈwʌndərfl/",
+            "meaning": "精彩的"
+          },
+          {
+            "word": "together",
+            "phonetic": "/təˈɡeðər/",
+            "meaning": "一起"
+          }
+        ]
+      },
+      {
+        "id": "famu_ep04_act2",
+        "title": "Episode 4 - Act 2",
+        "text_en": "The weather forecast says it will be beautiful tomorrow. Perfect for sunny and warm.",
+        "text_zh": "Episode 4 - Act 2",
+        "vocabulary": [
+          {
+            "word": "family",
+            "phonetic": "/ˈfæməli/",
+            "meaning": "家庭"
+          },
+          {
+            "word": "today",
+            "phonetic": "/təˈdeɪ/",
+            "meaning": "今天"
+          },
+          {
+            "word": "wonderful",
+            "phonetic": "/ˈwʌndərfl/",
+            "meaning": "精彩的"
+          },
+          {
+            "word": "together",
+            "phonetic": "/təˈɡeðər/",
+            "meaning": "一起"
+          }
+        ]
+      },
+      {
+        "id": "famu_ep04_act3",
+        "title": "Episode 4 - Act 3",
+        "text_en": "I lost my hotel yesterday. I have looked everywhere but cannot find it.",
+        "text_zh": "Episode 4 - Act 3",
+        "vocabulary": [
+          {
+            "word": "family",
+            "phonetic": "/ˈfæməli/",
+            "meaning": "家庭"
+          },
+          {
+            "word": "today",
+            "phonetic": "/təˈdeɪ/",
+            "meaning": "今天"
+          },
+          {
+            "word": "wonderful",
+            "phonetic": "/ˈwʌndərfl/",
+            "meaning": "精彩的"
+          },
+          {
+            "word": "together",
+            "phonetic": "/təˈɡeðər/",
+            "meaning": "一起"
+          }
+        ]
+      },
+      {
+        "id": "famu_ep05_act1",
+        "title": "Episode 5 - Act 1",
+        "text_en": "This weekend we are going to the museum. Would you like to come with us?",
+        "text_zh": "Episode 5 - Act 1",
+        "vocabulary": [
+          {
+            "word": "family",
+            "phonetic": "/ˈfæməli/",
+            "meaning": "家庭"
+          },
+          {
+            "word": "today",
+            "phonetic": "/təˈdeɪ/",
+            "meaning": "今天"
+          },
+          {
+            "word": "wonderful",
+            "phonetic": "/ˈwʌndərfl/",
+            "meaning": "精彩的"
+          },
+          {
+            "word": "together",
+            "phonetic": "/təˈɡeðər/",
+            "meaning": "一起"
+          }
+        ]
+      },
+      {
+        "id": "famu_ep05_act2",
+        "title": "Episode 5 - Act 2",
+        "text_en": "The weather forecast says it will be cloudy but warm tomorrow. Perfect for cooking.",
+        "text_zh": "Episode 5 - Act 2",
+        "vocabulary": [
+          {
+            "word": "family",
+            "phonetic": "/ˈfæməli/",
+            "meaning": "家庭"
+          },
+          {
+            "word": "today",
+            "phonetic": "/təˈdeɪ/",
+            "meaning": "今天"
+          },
+          {
+            "word": "wonderful",
+            "phonetic": "/ˈwʌndərfl/",
+            "meaning": "精彩的"
+          },
+          {
+            "word": "together",
+            "phonetic": "/təˈɡeðər/",
+            "meaning": "一起"
+          }
+        ]
+      },
+      {
+        "id": "famu_ep05_act3",
+        "title": "Episode 5 - Act 3",
+        "text_en": "I lost my beautiful yesterday. I have looked everywhere but cannot find it.",
+        "text_zh": "Episode 5 - Act 3",
+        "vocabulary": [
+          {
+            "word": "family",
+            "phonetic": "/ˈfæməli/",
+            "meaning": "家庭"
+          },
+          {
+            "word": "today",
+            "phonetic": "/təˈdeɪ/",
+            "meaning": "今天"
+          },
+          {
+            "word": "wonderful",
+            "phonetic": "/ˈwʌndərfl/",
+            "meaning": "精彩的"
+          },
+          {
+            "word": "together",
+            "phonetic": "/təˈɡeðər/",
+            "meaning": "一起"
+          }
+        ]
+      },
+      {
+        "id": "famu_ep06_act1",
+        "title": "Episode 6 - Act 1",
+        "text_en": "I lost my heater yesterday. I have looked everywhere but cannot find it.",
+        "text_zh": "Episode 6 - Act 1",
+        "vocabulary": [
+          {
+            "word": "family",
+            "phonetic": "/ˈfæməli/",
+            "meaning": "家庭"
+          },
+          {
+            "word": "today",
+            "phonetic": "/təˈdeɪ/",
+            "meaning": "今天"
+          },
+          {
+            "word": "wonderful",
+            "phonetic": "/ˈwʌndərfl/",
+            "meaning": "精彩的"
+          },
+          {
+            "word": "together",
+            "phonetic": "/təˈɡeðər/",
+            "meaning": "一起"
+          }
+        ]
+      },
+      {
+        "id": "famu_ep06_act2",
+        "title": "Episode 6 - Act 2",
+        "text_en": "There is a a picnic at the community center this Friday. Shall we go?",
+        "text_zh": "Episode 6 - Act 2",
+        "vocabulary": [
+          {
+            "word": "family",
+            "phonetic": "/ˈfæməli/",
+            "meaning": "家庭"
+          },
+          {
+            "word": "today",
+            "phonetic": "/təˈdeɪ/",
+            "meaning": "今天"
+          },
+          {
+            "word": "wonderful",
+            "phonetic": "/ˈwʌndərfl/",
+            "meaning": "精彩的"
+          },
+          {
+            "word": "together",
+            "phonetic": "/təˈɡeðər/",
+            "meaning": "一起"
+          }
+        ]
+      },
+      {
+        "id": "famu_ep06_act3",
+        "title": "Episode 6 - Act 3",
+        "text_en": "My refrigerator is coming to visit next week. We need to clean the house.",
+        "text_zh": "Episode 6 - Act 3",
+        "vocabulary": [
+          {
+            "word": "family",
+            "phonetic": "/ˈfæməli/",
+            "meaning": "家庭"
+          },
+          {
+            "word": "today",
+            "phonetic": "/təˈdeɪ/",
+            "meaning": "今天"
+          },
+          {
+            "word": "wonderful",
+            "phonetic": "/ˈwʌndərfl/",
+            "meaning": "精彩的"
+          },
+          {
+            "word": "together",
+            "phonetic": "/təˈɡeðər/",
+            "meaning": "一起"
+          }
+        ]
+      },
+      {
+        "id": "famu_ep07_act1",
+        "title": "Episode 7 - Act 1",
+        "text_en": "I am thinking about taking a grandmother class. Do you know any good teachers?",
+        "text_zh": "Episode 7 - Act 1",
+        "vocabulary": [
+          {
+            "word": "family",
+            "phonetic": "/ˈfæməli/",
+            "meaning": "家庭"
+          },
+          {
+            "word": "today",
+            "phonetic": "/təˈdeɪ/",
+            "meaning": "今天"
+          },
+          {
+            "word": "wonderful",
+            "phonetic": "/ˈwʌndərfl/",
+            "meaning": "精彩的"
+          },
+          {
+            "word": "together",
+            "phonetic": "/təˈɡeðər/",
+            "meaning": "一起"
+          }
+        ]
+      },
+      {
+        "id": "famu_ep07_act2",
+        "title": "Episode 7 - Act 2",
+        "text_en": "We need to fix the library. It has been broken for a week now.",
+        "text_zh": "Episode 7 - Act 2",
+        "vocabulary": [
+          {
+            "word": "family",
+            "phonetic": "/ˈfæməli/",
+            "meaning": "家庭"
+          },
+          {
+            "word": "today",
+            "phonetic": "/təˈdeɪ/",
+            "meaning": "今天"
+          },
+          {
+            "word": "wonderful",
+            "phonetic": "/ˈwʌndərfl/",
+            "meaning": "精彩的"
+          },
+          {
+            "word": "together",
+            "phonetic": "/təˈɡeðər/",
+            "meaning": "一起"
+          }
+        ]
+      },
+      {
+        "id": "famu_ep07_act3",
+        "title": "Episode 7 - Act 3",
+        "text_en": "My daughter wants to learn how to cafe. Can you recommend a good book?",
+        "text_zh": "Episode 7 - Act 3",
+        "vocabulary": [
+          {
+            "word": "family",
+            "phonetic": "/ˈfæməli/",
+            "meaning": "家庭"
+          },
+          {
+            "word": "today",
+            "phonetic": "/təˈdeɪ/",
+            "meaning": "今天"
+          },
+          {
+            "word": "wonderful",
+            "phonetic": "/ˈwʌndərfl/",
+            "meaning": "精彩的"
+          },
+          {
+            "word": "together",
+            "phonetic": "/təˈɡeðər/",
+            "meaning": "一起"
+          }
+        ]
+      },
+      {
+        "id": "famu_ep08_act1",
+        "title": "Episode 8 - Act 1",
+        "text_en": "We need to fix the a picnic. It has been broken for a week now.",
+        "text_zh": "Episode 8 - Act 1",
+        "vocabulary": [
+          {
+            "word": "family",
+            "phonetic": "/ˈfæməli/",
+            "meaning": "家庭"
+          },
+          {
+            "word": "today",
+            "phonetic": "/təˈdeɪ/",
+            "meaning": "今天"
+          },
+          {
+            "word": "wonderful",
+            "phonetic": "/ˈwʌndərfl/",
+            "meaning": "精彩的"
+          },
+          {
+            "word": "together",
+            "phonetic": "/təˈɡeðər/",
+            "meaning": "一起"
+          }
+        ]
+      },
+      {
+        "id": "famu_ep08_act2",
+        "title": "Episode 8 - Act 2",
+        "text_en": "There is a hotel at the community center this Friday. Shall we go?",
+        "text_zh": "Episode 8 - Act 2",
+        "vocabulary": [
+          {
+            "word": "family",
+            "phonetic": "/ˈfæməli/",
+            "meaning": "家庭"
+          },
+          {
+            "word": "today",
+            "phonetic": "/təˈdeɪ/",
+            "meaning": "今天"
+          },
+          {
+            "word": "wonderful",
+            "phonetic": "/ˈwʌndərfl/",
+            "meaning": "精彩的"
+          },
+          {
+            "word": "together",
+            "phonetic": "/təˈɡeðər/",
+            "meaning": "一起"
+          }
+        ]
+      },
+      {
+        "id": "famu_ep08_act3",
+        "title": "Episode 8 - Act 3",
+        "text_en": "I heard there is a new going fishing opening downtown. Have you been there yet?",
+        "text_zh": "Episode 8 - Act 3",
+        "vocabulary": [
+          {
+            "word": "family",
+            "phonetic": "/ˈfæməli/",
+            "meaning": "家庭"
+          },
+          {
+            "word": "today",
+            "phonetic": "/təˈdeɪ/",
+            "meaning": "今天"
+          },
+          {
+            "word": "wonderful",
+            "phonetic": "/ˈwʌndərfl/",
+            "meaning": "精彩的"
+          },
+          {
+            "word": "together",
+            "phonetic": "/təˈɡeðər/",
+            "meaning": "一起"
+          }
+        ]
+      },
+      {
+        "id": "famu_ep09_act1",
+        "title": "Episode 9 - Act 1",
+        "text_en": "The beautiful is having a sale this week. Everything is fifty percent off.",
+        "text_zh": "Episode 9 - Act 1",
+        "vocabulary": [
+          {
+            "word": "family",
+            "phonetic": "/ˈfæməli/",
+            "meaning": "家庭"
+          },
+          {
+            "word": "today",
+            "phonetic": "/təˈdeɪ/",
+            "meaning": "今天"
+          },
+          {
+            "word": "wonderful",
+            "phonetic": "/ˈwʌndərfl/",
+            "meaning": "精彩的"
+          },
+          {
+            "word": "together",
+            "phonetic": "/təˈɡeðər/",
+            "meaning": "一起"
+          }
+        ]
+      },
+      {
+        "id": "famu_ep09_act2",
+        "title": "Episode 9 - Act 2",
+        "text_en": "I heard there is a new concert opening downtown. Have you been there yet?",
+        "text_zh": "Episode 9 - Act 2",
+        "vocabulary": [
+          {
+            "word": "family",
+            "phonetic": "/ˈfæməli/",
+            "meaning": "家庭"
+          },
+          {
+            "word": "today",
+            "phonetic": "/təˈdeɪ/",
+            "meaning": "今天"
+          },
+          {
+            "word": "wonderful",
+            "phonetic": "/ˈwʌndərfl/",
+            "meaning": "精彩的"
+          },
+          {
+            "word": "together",
+            "phonetic": "/təˈɡeðər/",
+            "meaning": "一起"
+          }
+        ]
+      },
+      {
+        "id": "famu_ep09_act3",
+        "title": "Episode 9 - Act 3",
+        "text_en": "I am thinking about taking a mall class. Do you know any good teachers?",
+        "text_zh": "Episode 9 - Act 3",
+        "vocabulary": [
+          {
+            "word": "family",
+            "phonetic": "/ˈfæməli/",
+            "meaning": "家庭"
+          },
+          {
+            "word": "today",
+            "phonetic": "/təˈdeɪ/",
+            "meaning": "今天"
+          },
+          {
+            "word": "wonderful",
+            "phonetic": "/ˈwʌndərfl/",
+            "meaning": "精彩的"
+          },
+          {
+            "word": "together",
+            "phonetic": "/təˈɡeðər/",
+            "meaning": "一起"
+          }
+        ]
+      },
+      {
+        "id": "famu_ep10_act1",
+        "title": "Episode 10 - Act 1",
+        "text_en": "I heard there is a new refrigerator opening downtown. Have you been there yet?",
+        "text_zh": "Episode 10 - Act 1",
+        "vocabulary": [
+          {
+            "word": "family",
+            "phonetic": "/ˈfæməli/",
+            "meaning": "家庭"
+          },
+          {
+            "word": "today",
+            "phonetic": "/təˈdeɪ/",
+            "meaning": "今天"
+          },
+          {
+            "word": "wonderful",
+            "phonetic": "/ˈwʌndərfl/",
+            "meaning": "精彩的"
+          },
+          {
+            "word": "together",
+            "phonetic": "/təˈɡeðər/",
+            "meaning": "一起"
+          }
+        ]
+      },
+      {
+        "id": "famu_ep10_act2",
+        "title": "Episode 10 - Act 2",
+        "text_en": "There is a dancing at the community center this Friday. Shall we go?",
+        "text_zh": "Episode 10 - Act 2",
+        "vocabulary": [
+          {
+            "word": "family",
+            "phonetic": "/ˈfæməli/",
+            "meaning": "家庭"
+          },
+          {
+            "word": "today",
+            "phonetic": "/təˈdeɪ/",
+            "meaning": "今天"
+          },
+          {
+            "word": "wonderful",
+            "phonetic": "/ˈwʌndərfl/",
+            "meaning": "精彩的"
+          },
+          {
+            "word": "together",
+            "phonetic": "/təˈɡeðər/",
+            "meaning": "一起"
+          }
+        ]
+      },
+      {
+        "id": "famu_ep10_act3",
+        "title": "Episode 10 - Act 3",
+        "text_en": "We need to fix the dancing. It has been broken for a week now.",
+        "text_zh": "Episode 10 - Act 3",
+        "vocabulary": [
+          {
+            "word": "family",
+            "phonetic": "/ˈfæməli/",
+            "meaning": "家庭"
+          },
+          {
+            "word": "today",
+            "phonetic": "/təˈdeɪ/",
+            "meaning": "今天"
+          },
+          {
+            "word": "wonderful",
+            "phonetic": "/ˈwʌndərfl/",
+            "meaning": "精彩的"
+          },
+          {
+            "word": "together",
+            "phonetic": "/təˈɡeðər/",
+            "meaning": "一起"
+          }
+        ]
+      },
+      {
+        "id": "famu_ep11_act1",
+        "title": "Episode 11 - Act 1",
+        "text_en": "I am thinking about taking a gym class. Do you know any good teachers?",
+        "text_zh": "Episode 11 - Act 1",
+        "vocabulary": [
+          {
+            "word": "family",
+            "phonetic": "/ˈfæməli/",
+            "meaning": "家庭"
+          },
+          {
+            "word": "today",
+            "phonetic": "/təˈdeɪ/",
+            "meaning": "今天"
+          },
+          {
+            "word": "wonderful",
+            "phonetic": "/ˈwʌndərfl/",
+            "meaning": "精彩的"
+          },
+          {
+            "word": "together",
+            "phonetic": "/təˈɡeðər/",
+            "meaning": "一起"
+          }
+        ]
+      },
+      {
+        "id": "famu_ep11_act2",
+        "title": "Episode 11 - Act 2",
+        "text_en": "I lost my rainy yesterday. I have looked everywhere but cannot find it.",
+        "text_zh": "Episode 11 - Act 2",
+        "vocabulary": [
+          {
+            "word": "family",
+            "phonetic": "/ˈfæməli/",
+            "meaning": "家庭"
+          },
+          {
+            "word": "today",
+            "phonetic": "/təˈdeɪ/",
+            "meaning": "今天"
+          },
+          {
+            "word": "wonderful",
+            "phonetic": "/ˈwʌndərfl/",
+            "meaning": "精彩的"
+          },
+          {
+            "word": "together",
+            "phonetic": "/təˈɡeðər/",
+            "meaning": "一起"
+          }
+        ]
+      },
+      {
+        "id": "famu_ep11_act3",
+        "title": "Episode 11 - Act 3",
+        "text_en": "There is a refrigerator at the community center this Friday. Shall we go?",
+        "text_zh": "Episode 11 - Act 3",
+        "vocabulary": [
+          {
+            "word": "family",
+            "phonetic": "/ˈfæməli/",
+            "meaning": "家庭"
+          },
+          {
+            "word": "today",
+            "phonetic": "/təˈdeɪ/",
+            "meaning": "今天"
+          },
+          {
+            "word": "wonderful",
+            "phonetic": "/ˈwʌndərfl/",
+            "meaning": "精彩的"
+          },
+          {
+            "word": "together",
+            "phonetic": "/təˈɡeðər/",
+            "meaning": "一起"
+          }
+        ]
+      },
+      {
+        "id": "famu_ep12_act1",
+        "title": "Episode 12 - Act 1",
+        "text_en": "I lost my snowy yesterday. I have looked everywhere but cannot find it.",
+        "text_zh": "Episode 12 - Act 1",
+        "vocabulary": [
+          {
+            "word": "family",
+            "phonetic": "/ˈfæməli/",
+            "meaning": "家庭"
+          },
+          {
+            "word": "today",
+            "phonetic": "/təˈdeɪ/",
+            "meaning": "今天"
+          },
+          {
+            "word": "wonderful",
+            "phonetic": "/ˈwʌndərfl/",
+            "meaning": "精彩的"
+          },
+          {
+            "word": "together",
+            "phonetic": "/təˈɡeðər/",
+            "meaning": "一起"
+          }
+        ]
+      },
+      {
+        "id": "famu_ep12_act2",
+        "title": "Episode 12 - Act 2",
+        "text_en": "This weekend we are going to the sunny and warm. Would you like to come with us?",
+        "text_zh": "Episode 12 - Act 2",
+        "vocabulary": [
+          {
+            "word": "family",
+            "phonetic": "/ˈfæməli/",
+            "meaning": "家庭"
+          },
+          {
+            "word": "today",
+            "phonetic": "/təˈdeɪ/",
+            "meaning": "今天"
+          },
+          {
+            "word": "wonderful",
+            "phonetic": "/ˈwʌndərfl/",
+            "meaning": "精彩的"
+          },
+          {
+            "word": "together",
+            "phonetic": "/təˈɡeðər/",
+            "meaning": "一起"
+          }
+        ]
+      },
+      {
+        "id": "famu_ep12_act3",
+        "title": "Episode 12 - Act 3",
+        "text_en": "We need to fix the refrigerator. It has been broken for a week now.",
+        "text_zh": "Episode 12 - Act 3",
+        "vocabulary": [
+          {
+            "word": "family",
+            "phonetic": "/ˈfæməli/",
+            "meaning": "家庭"
+          },
+          {
+            "word": "today",
+            "phonetic": "/təˈdeɪ/",
+            "meaning": "今天"
+          },
+          {
+            "word": "wonderful",
+            "phonetic": "/ˈwʌndərfl/",
+            "meaning": "精彩的"
+          },
+          {
+            "word": "together",
+            "phonetic": "/təˈɡeðər/",
+            "meaning": "一起"
+          }
+        ]
+      },
+      {
+        "id": "famu_ep13_act1",
+        "title": "Episode 13 - Act 1",
+        "text_en": "I heard there is a new cloudy but warm opening downtown. Have you been there yet?",
+        "text_zh": "Episode 13 - Act 1",
+        "vocabulary": [
+          {
+            "word": "family",
+            "phonetic": "/ˈfæməli/",
+            "meaning": "家庭"
+          },
+          {
+            "word": "today",
+            "phonetic": "/təˈdeɪ/",
+            "meaning": "今天"
+          },
+          {
+            "word": "wonderful",
+            "phonetic": "/ˈwʌndərfl/",
+            "meaning": "精彩的"
+          },
+          {
+            "word": "together",
+            "phonetic": "/təˈɡeðər/",
+            "meaning": "一起"
+          }
+        ]
+      },
+      {
+        "id": "famu_ep13_act2",
+        "title": "Episode 13 - Act 2",
+        "text_en": "We need to fix the beautiful. It has been broken for a week now.",
+        "text_zh": "Episode 13 - Act 2",
+        "vocabulary": [
+          {
+            "word": "family",
+            "phonetic": "/ˈfæməli/",
+            "meaning": "家庭"
+          },
+          {
+            "word": "today",
+            "phonetic": "/təˈdeɪ/",
+            "meaning": "今天"
+          },
+          {
+            "word": "wonderful",
+            "phonetic": "/ˈwʌndərfl/",
+            "meaning": "精彩的"
+          },
+          {
+            "word": "together",
+            "phonetic": "/təˈɡeðər/",
+            "meaning": "一起"
+          }
+        ]
+      },
+      {
+        "id": "famu_ep13_act3",
+        "title": "Episode 13 - Act 3",
+        "text_en": "There is a air conditioner at the community center this Friday. Shall we go?",
+        "text_zh": "Episode 13 - Act 3",
+        "vocabulary": [
+          {
+            "word": "family",
+            "phonetic": "/ˈfæməli/",
+            "meaning": "家庭"
+          },
+          {
+            "word": "today",
+            "phonetic": "/təˈdeɪ/",
+            "meaning": "今天"
+          },
+          {
+            "word": "wonderful",
+            "phonetic": "/ˈwʌndərfl/",
+            "meaning": "精彩的"
+          },
+          {
+            "word": "together",
+            "phonetic": "/təˈɡeðər/",
+            "meaning": "一起"
+          }
+        ]
+      },
+      {
+        "id": "famu_ep14_act1",
+        "title": "Episode 14 - Act 1",
+        "text_en": "My a walk in the park is coming to visit next week. We need to clean the house.",
+        "text_zh": "Episode 14 - Act 1",
+        "vocabulary": [
+          {
+            "word": "family",
+            "phonetic": "/ˈfæməli/",
+            "meaning": "家庭"
+          },
+          {
+            "word": "today",
+            "phonetic": "/təˈdeɪ/",
+            "meaning": "今天"
+          },
+          {
+            "word": "wonderful",
+            "phonetic": "/ˈwʌndərfl/",
+            "meaning": "精彩的"
+          },
+          {
+            "word": "together",
+            "phonetic": "/təˈɡeðər/",
+            "meaning": "一起"
+          }
+        ]
+      },
+      {
+        "id": "famu_ep14_act2",
+        "title": "Episode 14 - Act 2",
+        "text_en": "The weather forecast says it will be playing outdoor sports tomorrow. Perfect for yoga.",
+        "text_zh": "Episode 14 - Act 2",
+        "vocabulary": [
+          {
+            "word": "family",
+            "phonetic": "/ˈfæməli/",
+            "meaning": "家庭"
+          },
+          {
+            "word": "today",
+            "phonetic": "/təˈdeɪ/",
+            "meaning": "今天"
+          },
+          {
+            "word": "wonderful",
+            "phonetic": "/ˈwʌndərfl/",
+            "meaning": "精彩的"
+          },
+          {
+            "word": "together",
+            "phonetic": "/təˈɡeðər/",
+            "meaning": "一起"
+          }
+        ]
+      },
+      {
+        "id": "famu_ep14_act3",
+        "title": "Episode 14 - Act 3",
+        "text_en": "My daughter wants to learn how to dancing. Can you recommend a good book?",
+        "text_zh": "Episode 14 - Act 3",
+        "vocabulary": [
+          {
+            "word": "family",
+            "phonetic": "/ˈfæməli/",
+            "meaning": "家庭"
+          },
+          {
+            "word": "today",
+            "phonetic": "/təˈdeɪ/",
+            "meaning": "今天"
+          },
+          {
+            "word": "wonderful",
+            "phonetic": "/ˈwʌndərfl/",
+            "meaning": "精彩的"
+          },
+          {
+            "word": "together",
+            "phonetic": "/təˈɡeðər/",
+            "meaning": "一起"
+          }
+        ]
+      },
+      {
+        "id": "famu_ep15_act1",
+        "title": "Episode 15 - Act 1",
+        "text_en": "My play the guitar is coming to visit next week. We need to clean the house.",
+        "text_zh": "Episode 15 - Act 1",
+        "vocabulary": [
+          {
+            "word": "family",
+            "phonetic": "/ˈfæməli/",
+            "meaning": "家庭"
+          },
+          {
+            "word": "today",
+            "phonetic": "/təˈdeɪ/",
+            "meaning": "今天"
+          },
+          {
+            "word": "wonderful",
+            "phonetic": "/ˈwʌndərfl/",
+            "meaning": "精彩的"
+          },
+          {
+            "word": "together",
+            "phonetic": "/təˈɡeðər/",
+            "meaning": "一起"
+          }
+        ]
+      },
+      {
+        "id": "famu_ep15_act2",
+        "title": "Episode 15 - Act 2",
+        "text_en": "This weekend we are going to the gym. Would you like to come with us?",
+        "text_zh": "Episode 15 - Act 2",
+        "vocabulary": [
+          {
+            "word": "family",
+            "phonetic": "/ˈfæməli/",
+            "meaning": "家庭"
+          },
+          {
+            "word": "today",
+            "phonetic": "/təˈdeɪ/",
+            "meaning": "今天"
+          },
+          {
+            "word": "wonderful",
+            "phonetic": "/ˈwʌndərfl/",
+            "meaning": "精彩的"
+          },
+          {
+            "word": "together",
+            "phonetic": "/təˈɡeðər/",
+            "meaning": "一起"
+          }
+        ]
+      },
+      {
+        "id": "famu_ep15_act3",
+        "title": "Episode 15 - Act 3",
+        "text_en": "My dishwasher is coming to visit next week. We need to clean the house.",
+        "text_zh": "Episode 15 - Act 3",
+        "vocabulary": [
+          {
+            "word": "family",
+            "phonetic": "/ˈfæməli/",
+            "meaning": "家庭"
+          },
+          {
+            "word": "today",
+            "phonetic": "/təˈdeɪ/",
+            "meaning": "今天"
+          },
+          {
+            "word": "wonderful",
+            "phonetic": "/ˈwʌndərfl/",
+            "meaning": "精彩的"
+          },
+          {
+            "word": "together",
+            "phonetic": "/təˈɡeðər/",
+            "meaning": "一起"
+          }
+        ]
+      },
+      {
+        "id": "famu_ep16_act1",
+        "title": "Episode 16 - Act 1",
+        "text_en": "I heard there is a new air conditioner opening downtown. Have you been there yet?",
+        "text_zh": "Episode 16 - Act 1",
+        "vocabulary": [
+          {
+            "word": "family",
+            "phonetic": "/ˈfæməli/",
+            "meaning": "家庭"
+          },
+          {
+            "word": "today",
+            "phonetic": "/təˈdeɪ/",
+            "meaning": "今天"
+          },
+          {
+            "word": "wonderful",
+            "phonetic": "/ˈwʌndərfl/",
+            "meaning": "精彩的"
+          },
+          {
+            "word": "together",
+            "phonetic": "/təˈɡeðər/",
+            "meaning": "一起"
+          }
+        ]
+      },
+      {
+        "id": "famu_ep16_act2",
+        "title": "Episode 16 - Act 2",
+        "text_en": "The grow vegetables is having a sale this week. Everything is fifty percent off.",
+        "text_zh": "Episode 16 - Act 2",
+        "vocabulary": [
+          {
+            "word": "family",
+            "phonetic": "/ˈfæməli/",
+            "meaning": "家庭"
+          },
+          {
+            "word": "today",
+            "phonetic": "/təˈdeɪ/",
+            "meaning": "今天"
+          },
+          {
+            "word": "wonderful",
+            "phonetic": "/ˈwʌndərfl/",
+            "meaning": "精彩的"
+          },
+          {
+            "word": "together",
+            "phonetic": "/təˈɡeðər/",
+            "meaning": "一起"
+          }
+        ]
+      },
+      {
+        "id": "famu_ep16_act3",
+        "title": "Episode 16 - Act 3",
+        "text_en": "I am thinking about taking a museum class. Do you know any good teachers?",
+        "text_zh": "Episode 16 - Act 3",
+        "vocabulary": [
+          {
+            "word": "family",
+            "phonetic": "/ˈfæməli/",
+            "meaning": "家庭"
+          },
+          {
+            "word": "today",
+            "phonetic": "/təˈdeɪ/",
+            "meaning": "今天"
+          },
+          {
+            "word": "wonderful",
+            "phonetic": "/ˈwʌndərfl/",
+            "meaning": "精彩的"
+          },
+          {
+            "word": "together",
+            "phonetic": "/təˈɡeðər/",
+            "meaning": "一起"
+          }
+        ]
+      },
+      {
+        "id": "famu_ep17_act1",
+        "title": "Episode 17 - Act 1",
+        "text_en": "I lost my going fishing yesterday. I have looked everywhere but cannot find it.",
+        "text_zh": "Episode 17 - Act 1",
+        "vocabulary": [
+          {
+            "word": "family",
+            "phonetic": "/ˈfæməli/",
+            "meaning": "家庭"
+          },
+          {
+            "word": "today",
+            "phonetic": "/təˈdeɪ/",
+            "meaning": "今天"
+          },
+          {
+            "word": "wonderful",
+            "phonetic": "/ˈwʌndərfl/",
+            "meaning": "精彩的"
+          },
+          {
+            "word": "together",
+            "phonetic": "/təˈɡeðər/",
+            "meaning": "一起"
+          }
+        ]
+      },
+      {
+        "id": "famu_ep17_act2",
+        "title": "Episode 17 - Act 2",
+        "text_en": "I heard there is a new playing outdoor sports opening downtown. Have you been there yet?",
+        "text_zh": "Episode 17 - Act 2",
+        "vocabulary": [
+          {
+            "word": "family",
+            "phonetic": "/ˈfæməli/",
+            "meaning": "家庭"
+          },
+          {
+            "word": "today",
+            "phonetic": "/təˈdeɪ/",
+            "meaning": "今天"
+          },
+          {
+            "word": "wonderful",
+            "phonetic": "/ˈwʌndərfl/",
+            "meaning": "精彩的"
+          },
+          {
+            "word": "together",
+            "phonetic": "/təˈɡeðər/",
+            "meaning": "一起"
+          }
+        ]
+      },
+      {
+        "id": "famu_ep17_act3",
+        "title": "Episode 17 - Act 3",
+        "text_en": "My fix a car is coming to visit next week. We need to clean the house.",
+        "text_zh": "Episode 17 - Act 3",
+        "vocabulary": [
+          {
+            "word": "family",
+            "phonetic": "/ˈfæməli/",
+            "meaning": "家庭"
+          },
+          {
+            "word": "today",
+            "phonetic": "/təˈdeɪ/",
+            "meaning": "今天"
+          },
+          {
+            "word": "wonderful",
+            "phonetic": "/ˈwʌndərfl/",
+            "meaning": "精彩的"
+          },
+          {
+            "word": "together",
+            "phonetic": "/təˈɡeðər/",
+            "meaning": "一起"
+          }
+        ]
+      },
+      {
+        "id": "famu_ep18_act1",
+        "title": "Episode 18 - Act 1",
+        "text_en": "I am thinking about taking a aunt class. Do you know any good teachers?",
+        "text_zh": "Episode 18 - Act 1",
+        "vocabulary": [
+          {
+            "word": "family",
+            "phonetic": "/ˈfæməli/",
+            "meaning": "家庭"
+          },
+          {
+            "word": "today",
+            "phonetic": "/təˈdeɪ/",
+            "meaning": "今天"
+          },
+          {
+            "word": "wonderful",
+            "phonetic": "/ˈwʌndərfl/",
+            "meaning": "精彩的"
+          },
+          {
+            "word": "together",
+            "phonetic": "/təˈɡeðər/",
+            "meaning": "一起"
+          }
+        ]
+      },
+      {
+        "id": "famu_ep18_act2",
+        "title": "Episode 18 - Act 2",
+        "text_en": "I am thinking about taking a rainy class. Do you know any good teachers?",
+        "text_zh": "Episode 18 - Act 2",
+        "vocabulary": [
+          {
+            "word": "family",
+            "phonetic": "/ˈfæməli/",
+            "meaning": "家庭"
+          },
+          {
+            "word": "today",
+            "phonetic": "/təˈdeɪ/",
+            "meaning": "今天"
+          },
+          {
+            "word": "wonderful",
+            "phonetic": "/ˈwʌndərfl/",
+            "meaning": "精彩的"
+          },
+          {
+            "word": "together",
+            "phonetic": "/təˈɡeðər/",
+            "meaning": "一起"
+          }
+        ]
+      },
+      {
+        "id": "famu_ep18_act3",
+        "title": "Episode 18 - Act 3",
+        "text_en": "We need to fix the cousin. It has been broken for a week now.",
+        "text_zh": "Episode 18 - Act 3",
+        "vocabulary": [
+          {
+            "word": "family",
+            "phonetic": "/ˈfæməli/",
+            "meaning": "家庭"
+          },
+          {
+            "word": "today",
+            "phonetic": "/təˈdeɪ/",
+            "meaning": "今天"
+          },
+          {
+            "word": "wonderful",
+            "phonetic": "/ˈwʌndərfl/",
+            "meaning": "精彩的"
+          },
+          {
+            "word": "together",
+            "phonetic": "/təˈɡeðər/",
+            "meaning": "一起"
+          }
+        ]
+      },
+      {
+        "id": "famu_ep19_act1",
+        "title": "Episode 19 - Act 1",
+        "text_en": "The photography is having a sale this week. Everything is fifty percent off.",
+        "text_zh": "Episode 19 - Act 1",
+        "vocabulary": [
+          {
+            "word": "family",
+            "phonetic": "/ˈfæməli/",
+            "meaning": "家庭"
+          },
+          {
+            "word": "today",
+            "phonetic": "/təˈdeɪ/",
+            "meaning": "今天"
+          },
+          {
+            "word": "wonderful",
+            "phonetic": "/ˈwʌndərfl/",
+            "meaning": "精彩的"
+          },
+          {
+            "word": "together",
+            "phonetic": "/təˈɡeðər/",
+            "meaning": "一起"
+          }
+        ]
+      },
+      {
+        "id": "famu_ep19_act2",
+        "title": "Episode 19 - Act 2",
+        "text_en": "This weekend we are going to the cafe. Would you like to come with us?",
+        "text_zh": "Episode 19 - Act 2",
+        "vocabulary": [
+          {
+            "word": "family",
+            "phonetic": "/ˈfæməli/",
+            "meaning": "家庭"
+          },
+          {
+            "word": "today",
+            "phonetic": "/təˈdeɪ/",
+            "meaning": "今天"
+          },
+          {
+            "word": "wonderful",
+            "phonetic": "/ˈwʌndərfl/",
+            "meaning": "精彩的"
+          },
+          {
+            "word": "together",
+            "phonetic": "/təˈɡeðər/",
+            "meaning": "一起"
+          }
+        ]
+      },
+      {
+        "id": "famu_ep19_act3",
+        "title": "Episode 19 - Act 3",
+        "text_en": "I am thinking about taking a sunny and warm class. Do you know any good teachers?",
+        "text_zh": "Episode 19 - Act 3",
+        "vocabulary": [
+          {
+            "word": "family",
+            "phonetic": "/ˈfæməli/",
+            "meaning": "家庭"
+          },
+          {
+            "word": "today",
+            "phonetic": "/təˈdeɪ/",
+            "meaning": "今天"
+          },
+          {
+            "word": "wonderful",
+            "phonetic": "/ˈwʌndərfl/",
+            "meaning": "精彩的"
+          },
+          {
+            "word": "together",
+            "phonetic": "/təˈɡeðər/",
+            "meaning": "一起"
+          }
+        ]
+      },
+      {
+        "id": "famu_ep20_act1",
+        "title": "Episode 20 - Act 1",
+        "text_en": "The weather forecast says it will be bakery tomorrow. Perfect for sunny and warm.",
+        "text_zh": "Episode 20 - Act 1",
+        "vocabulary": [
+          {
+            "word": "family",
+            "phonetic": "/ˈfæməli/",
+            "meaning": "家庭"
+          },
+          {
+            "word": "today",
+            "phonetic": "/təˈdeɪ/",
+            "meaning": "今天"
+          },
+          {
+            "word": "wonderful",
+            "phonetic": "/ˈwʌndərfl/",
+            "meaning": "精彩的"
+          },
+          {
+            "word": "together",
+            "phonetic": "/təˈɡeðər/",
+            "meaning": "一起"
+          }
+        ]
+      },
+      {
+        "id": "famu_ep20_act2",
+        "title": "Episode 20 - Act 2",
+        "text_en": "I lost my uncle yesterday. I have looked everywhere but cannot find it.",
+        "text_zh": "Episode 20 - Act 2",
+        "vocabulary": [
+          {
+            "word": "family",
+            "phonetic": "/ˈfæməli/",
+            "meaning": "家庭"
+          },
+          {
+            "word": "today",
+            "phonetic": "/təˈdeɪ/",
+            "meaning": "今天"
+          },
+          {
+            "word": "wonderful",
+            "phonetic": "/ˈwʌndərfl/",
+            "meaning": "精彩的"
+          },
+          {
+            "word": "together",
+            "phonetic": "/təˈɡeðər/",
+            "meaning": "一起"
+          }
+        ]
+      },
+      {
+        "id": "famu_ep20_act3",
+        "title": "Episode 20 - Act 3",
+        "text_en": "There is a old friend at the community center this Friday. Shall we go?",
+        "text_zh": "Episode 20 - Act 3",
+        "vocabulary": [
+          {
+            "word": "family",
+            "phonetic": "/ˈfæməli/",
+            "meaning": "家庭"
+          },
+          {
+            "word": "today",
+            "phonetic": "/təˈdeɪ/",
+            "meaning": "今天"
+          },
+          {
+            "word": "wonderful",
+            "phonetic": "/ˈwʌndərfl/",
+            "meaning": "精彩的"
+          },
+          {
+            "word": "together",
+            "phonetic": "/təˈɡeðər/",
+            "meaning": "一起"
+          }
+        ]
+      },
+      {
+        "id": "famu_ep21_act1",
+        "title": "Episode 21 - Act 1",
+        "text_en": "I lost my dishwasher yesterday. I have looked everywhere but cannot find it.",
+        "text_zh": "Episode 21 - Act 1",
+        "vocabulary": [
+          {
+            "word": "family",
+            "phonetic": "/ˈfæməli/",
+            "meaning": "家庭"
+          },
+          {
+            "word": "today",
+            "phonetic": "/təˈdeɪ/",
+            "meaning": "今天"
+          },
+          {
+            "word": "wonderful",
+            "phonetic": "/ˈwʌndərfl/",
+            "meaning": "精彩的"
+          },
+          {
+            "word": "together",
+            "phonetic": "/təˈɡeðər/",
+            "meaning": "一起"
+          }
+        ]
+      },
+      {
+        "id": "famu_ep21_act2",
+        "title": "Episode 21 - Act 2",
+        "text_en": "The weather forecast says it will be going fishing tomorrow. Perfect for playing outdoor sports.",
+        "text_zh": "Episode 21 - Act 2",
+        "vocabulary": [
+          {
+            "word": "family",
+            "phonetic": "/ˈfæməli/",
+            "meaning": "家庭"
+          },
+          {
+            "word": "today",
+            "phonetic": "/təˈdeɪ/",
+            "meaning": "今天"
+          },
+          {
+            "word": "wonderful",
+            "phonetic": "/ˈwʌndərfl/",
+            "meaning": "精彩的"
+          },
+          {
+            "word": "together",
+            "phonetic": "/təˈɡeðər/",
+            "meaning": "一起"
+          }
+        ]
+      },
+      {
+        "id": "famu_ep21_act3",
+        "title": "Episode 21 - Act 3",
+        "text_en": "I lost my play the guitar yesterday. I have looked everywhere but cannot find it.",
+        "text_zh": "Episode 21 - Act 3",
+        "vocabulary": [
+          {
+            "word": "family",
+            "phonetic": "/ˈfæməli/",
+            "meaning": "家庭"
+          },
+          {
+            "word": "today",
+            "phonetic": "/təˈdeɪ/",
+            "meaning": "今天"
+          },
+          {
+            "word": "wonderful",
+            "phonetic": "/ˈwʌndərfl/",
+            "meaning": "精彩的"
+          },
+          {
+            "word": "together",
+            "phonetic": "/təˈɡeðər/",
+            "meaning": "一起"
+          }
+        ]
+      },
+      {
+        "id": "famu_ep22_act1",
+        "title": "Episode 22 - Act 1",
+        "text_en": "The weather forecast says it will be snowy tomorrow. Perfect for sunny and warm.",
+        "text_zh": "Episode 22 - Act 1",
+        "vocabulary": [
+          {
+            "word": "family",
+            "phonetic": "/ˈfæməli/",
+            "meaning": "家庭"
+          },
+          {
+            "word": "today",
+            "phonetic": "/təˈdeɪ/",
+            "meaning": "今天"
+          },
+          {
+            "word": "wonderful",
+            "phonetic": "/ˈwʌndərfl/",
+            "meaning": "精彩的"
+          },
+          {
+            "word": "together",
+            "phonetic": "/təˈɡeðər/",
+            "meaning": "一起"
+          }
+        ]
+      },
+      {
+        "id": "famu_ep22_act2",
+        "title": "Episode 22 - Act 2",
+        "text_en": "The cloudy but warm is having a sale this week. Everything is fifty percent off.",
+        "text_zh": "Episode 22 - Act 2",
+        "vocabulary": [
+          {
+            "word": "family",
+            "phonetic": "/ˈfæməli/",
+            "meaning": "家庭"
+          },
+          {
+            "word": "today",
+            "phonetic": "/təˈdeɪ/",
+            "meaning": "今天"
+          },
+          {
+            "word": "wonderful",
+            "phonetic": "/ˈwʌndərfl/",
+            "meaning": "精彩的"
+          },
+          {
+            "word": "together",
+            "phonetic": "/təˈɡeðər/",
+            "meaning": "一起"
+          }
+        ]
+      },
+      {
+        "id": "famu_ep22_act3",
+        "title": "Episode 22 - Act 3",
+        "text_en": "The weather forecast says it will be beach tomorrow. Perfect for rainy.",
+        "text_zh": "Episode 22 - Act 3",
+        "vocabulary": [
+          {
+            "word": "family",
+            "phonetic": "/ˈfæməli/",
+            "meaning": "家庭"
+          },
+          {
+            "word": "today",
+            "phonetic": "/təˈdeɪ/",
+            "meaning": "今天"
+          },
+          {
+            "word": "wonderful",
+            "phonetic": "/ˈwʌndərfl/",
+            "meaning": "精彩的"
+          },
+          {
+            "word": "together",
+            "phonetic": "/təˈɡeðər/",
+            "meaning": "一起"
+          }
+        ]
+      },
+      {
+        "id": "famu_ep23_act1",
+        "title": "Episode 23 - Act 1",
+        "text_en": "I heard there is a new lake opening downtown. Have you been there yet?",
+        "text_zh": "Episode 23 - Act 1",
+        "vocabulary": [
+          {
+            "word": "family",
+            "phonetic": "/ˈfæməli/",
+            "meaning": "家庭"
+          },
+          {
+            "word": "today",
+            "phonetic": "/təˈdeɪ/",
+            "meaning": "今天"
+          },
+          {
+            "word": "wonderful",
+            "phonetic": "/ˈwʌndərfl/",
+            "meaning": "精彩的"
+          },
+          {
+            "word": "together",
+            "phonetic": "/təˈɡeðər/",
+            "meaning": "一起"
+          }
+        ]
+      },
+      {
+        "id": "famu_ep23_act2",
+        "title": "Episode 23 - Act 2",
+        "text_en": "I heard there is a new snowy opening downtown. Have you been there yet?",
+        "text_zh": "Episode 23 - Act 2",
+        "vocabulary": [
+          {
+            "word": "family",
+            "phonetic": "/ˈfæməli/",
+            "meaning": "家庭"
+          },
+          {
+            "word": "today",
+            "phonetic": "/təˈdeɪ/",
+            "meaning": "今天"
+          },
+          {
+            "word": "wonderful",
+            "phonetic": "/ˈwʌndərfl/",
+            "meaning": "精彩的"
+          },
+          {
+            "word": "together",
+            "phonetic": "/təˈɡeðər/",
+            "meaning": "一起"
+          }
+        ]
+      },
+      {
+        "id": "famu_ep23_act3",
+        "title": "Episode 23 - Act 3",
+        "text_en": "There is a cloudy but warm at the community center this Friday. Shall we go?",
+        "text_zh": "Episode 23 - Act 3",
+        "vocabulary": [
+          {
+            "word": "family",
+            "phonetic": "/ˈfæməli/",
+            "meaning": "家庭"
+          },
+          {
+            "word": "today",
+            "phonetic": "/təˈdeɪ/",
+            "meaning": "今天"
+          },
+          {
+            "word": "wonderful",
+            "phonetic": "/ˈwʌndərfl/",
+            "meaning": "精彩的"
+          },
+          {
+            "word": "together",
+            "phonetic": "/təˈɡeðər/",
+            "meaning": "一起"
+          }
+        ]
+      },
+      {
+        "id": "famu_ep24_act1",
+        "title": "Episode 24 - Act 1",
+        "text_en": "My knit is coming to visit next week. We need to clean the house.",
+        "text_zh": "Episode 24 - Act 1",
+        "vocabulary": [
+          {
+            "word": "family",
+            "phonetic": "/ˈfæməli/",
+            "meaning": "家庭"
+          },
+          {
+            "word": "today",
+            "phonetic": "/təˈdeɪ/",
+            "meaning": "今天"
+          },
+          {
+            "word": "wonderful",
+            "phonetic": "/ˈwʌndərfl/",
+            "meaning": "精彩的"
+          },
+          {
+            "word": "together",
+            "phonetic": "/təˈɡeðər/",
+            "meaning": "一起"
+          }
+        ]
+      },
+      {
+        "id": "famu_ep24_act2",
+        "title": "Episode 24 - Act 2",
+        "text_en": "There is a heater at the community center this Friday. Shall we go?",
+        "text_zh": "Episode 24 - Act 2",
+        "vocabulary": [
+          {
+            "word": "family",
+            "phonetic": "/ˈfæməli/",
+            "meaning": "家庭"
+          },
+          {
+            "word": "today",
+            "phonetic": "/təˈdeɪ/",
+            "meaning": "今天"
+          },
+          {
+            "word": "wonderful",
+            "phonetic": "/ˈwʌndərfl/",
+            "meaning": "精彩的"
+          },
+          {
+            "word": "together",
+            "phonetic": "/təˈɡeðər/",
+            "meaning": "一起"
+          }
+        ]
+      },
+      {
+        "id": "famu_ep24_act3",
+        "title": "Episode 24 - Act 3",
+        "text_en": "I heard there is a new hotel opening downtown. Have you been there yet?",
+        "text_zh": "Episode 24 - Act 3",
+        "vocabulary": [
+          {
+            "word": "family",
+            "phonetic": "/ˈfæməli/",
+            "meaning": "家庭"
+          },
+          {
+            "word": "today",
+            "phonetic": "/təˈdeɪ/",
+            "meaning": "今天"
+          },
+          {
+            "word": "wonderful",
+            "phonetic": "/ˈwʌndərfl/",
+            "meaning": "精彩的"
+          },
+          {
+            "word": "together",
+            "phonetic": "/təˈɡeðər/",
+            "meaning": "一起"
+          }
+        ]
+      },
+      {
+        "id": "famu_ep25_act1",
+        "title": "Episode 25 - Act 1",
+        "text_en": "We need to fix the air conditioner. It has been broken for a week now.",
+        "text_zh": "Episode 25 - Act 1",
+        "vocabulary": [
+          {
+            "word": "family",
+            "phonetic": "/ˈfæməli/",
+            "meaning": "家庭"
+          },
+          {
+            "word": "today",
+            "phonetic": "/təˈdeɪ/",
+            "meaning": "今天"
+          },
+          {
+            "word": "wonderful",
+            "phonetic": "/ˈwʌndərfl/",
+            "meaning": "精彩的"
+          },
+          {
+            "word": "together",
+            "phonetic": "/təˈɡeðər/",
+            "meaning": "一起"
+          }
+        ]
+      },
+      {
+        "id": "famu_ep25_act2",
+        "title": "Episode 25 - Act 2",
+        "text_en": "There is a museum at the community center this Friday. Shall we go?",
+        "text_zh": "Episode 25 - Act 2",
+        "vocabulary": [
+          {
+            "word": "family",
+            "phonetic": "/ˈfæməli/",
+            "meaning": "家庭"
+          },
+          {
+            "word": "today",
+            "phonetic": "/təˈdeɪ/",
+            "meaning": "今天"
+          },
+          {
+            "word": "wonderful",
+            "phonetic": "/ˈwʌndərfl/",
+            "meaning": "精彩的"
+          },
+          {
+            "word": "together",
+            "phonetic": "/təˈɡeðər/",
+            "meaning": "一起"
+          }
+        ]
+      },
+      {
+        "id": "famu_ep25_act3",
+        "title": "Episode 25 - Act 3",
+        "text_en": "This weekend we are going to the refrigerator. Would you like to come with us?",
+        "text_zh": "Episode 25 - Act 3",
+        "vocabulary": [
+          {
+            "word": "family",
+            "phonetic": "/ˈfæməli/",
+            "meaning": "家庭"
+          },
+          {
+            "word": "today",
+            "phonetic": "/təˈdeɪ/",
+            "meaning": "今天"
+          },
+          {
+            "word": "wonderful",
+            "phonetic": "/ˈwʌndərfl/",
+            "meaning": "精彩的"
+          },
+          {
+            "word": "together",
+            "phonetic": "/təˈɡeðər/",
+            "meaning": "一起"
+          }
+        ]
+      },
+      {
+        "id": "famu_ep26_act1",
+        "title": "Episode 26 - Act 1",
+        "text_en": "I heard there is a new rainy opening downtown. Have you been there yet?",
+        "text_zh": "Episode 26 - Act 1",
+        "vocabulary": [
+          {
+            "word": "family",
+            "phonetic": "/ˈfæməli/",
+            "meaning": "家庭"
+          },
+          {
+            "word": "today",
+            "phonetic": "/təˈdeɪ/",
+            "meaning": "今天"
+          },
+          {
+            "word": "wonderful",
+            "phonetic": "/ˈwʌndərfl/",
+            "meaning": "精彩的"
+          },
+          {
+            "word": "together",
+            "phonetic": "/təˈɡeðər/",
+            "meaning": "一起"
+          }
+        ]
+      },
+      {
+        "id": "famu_ep26_act2",
+        "title": "Episode 26 - Act 2",
+        "text_en": "The weather forecast says it will be bake bread tomorrow. Perfect for rainy.",
+        "text_zh": "Episode 26 - Act 2",
+        "vocabulary": [
+          {
+            "word": "family",
+            "phonetic": "/ˈfæməli/",
+            "meaning": "家庭"
+          },
+          {
+            "word": "today",
+            "phonetic": "/təˈdeɪ/",
+            "meaning": "今天"
+          },
+          {
+            "word": "wonderful",
+            "phonetic": "/ˈwʌndərfl/",
+            "meaning": "精彩的"
+          },
+          {
+            "word": "together",
+            "phonetic": "/təˈɡeðər/",
+            "meaning": "一起"
+          }
+        ]
+      },
+      {
+        "id": "famu_ep26_act3",
+        "title": "Episode 26 - Act 3",
+        "text_en": "I am thinking about taking a knit class. Do you know any good teachers?",
+        "text_zh": "Episode 26 - Act 3",
+        "vocabulary": [
+          {
+            "word": "family",
+            "phonetic": "/ˈfæməli/",
+            "meaning": "家庭"
+          },
+          {
+            "word": "today",
+            "phonetic": "/təˈdeɪ/",
+            "meaning": "今天"
+          },
+          {
+            "word": "wonderful",
+            "phonetic": "/ˈwʌndərfl/",
+            "meaning": "精彩的"
+          },
+          {
+            "word": "together",
+            "phonetic": "/təˈɡeðər/",
+            "meaning": "一起"
+          }
+        ]
+      }
+    ]
+  }
+}

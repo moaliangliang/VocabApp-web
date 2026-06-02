@@ -1,0 +1,1 @@
+@rpath/VocabApp.debug.dylib

@@ -1,0 +1,389 @@
+[
+  {
+    "id": "increase",
+    "name": "增加，增长",
+    "words": [
+      {"word": "increase", "meaning": "增加，增长"},
+      {"word": "enhance", "meaning": "提高，增强"},
+      {"word": "boost", "meaning": "促进，提升"},
+      {"word": "augment", "meaning": "增加，扩大"},
+      {"word": "amplify", "meaning": "放大，增强"},
+      {"word": "escalate", "meaning": "逐步升级，加剧"},
+      {"word": "expand", "meaning": "扩展，膨胀"},
+      {"word": "proliferate", "meaning": "激增，扩散"}
+    ]
+  },
+  {
+    "id": "decrease",
+    "name": "减少，降低",
+    "words": [
+      {"word": "decrease", "meaning": "减少，降低"},
+      {"word": "reduce", "meaning": "减少，缩减"},
+      {"word": "diminish", "meaning": "减少，缩小"},
+      {"word": "dwindle", "meaning": "逐渐减少"},
+      {"word": "decline", "meaning": "下降，衰退"},
+      {"word": "alleviate", "meaning": "减轻，缓和"},
+      {"word": "mitigate", "meaning": "缓解，减轻"},
+      {"word": "subside", "meaning": "平息，减退"}
+    ]
+  },
+  {
+    "id": "important",
+    "name": "重要，重大",
+    "words": [
+      {"word": "important", "meaning": "重要的"},
+      {"word": "significant", "meaning": "重要的，有意义的"},
+      {"word": "crucial", "meaning": "关键的，决定性的"},
+      {"word": "vital", "meaning": "至关重要的"},
+      {"word": "essential", "meaning": "本质的，必要的"},
+      {"word": "paramount", "meaning": "最重要的，至上的"},
+      {"word": "imperative", "meaning": "必要的，紧急的"},
+      {"word": "indispensable", "meaning": "不可或缺的"}
+    ]
+  },
+  {
+    "id": "abundant",
+    "name": "丰富，充足",
+    "words": [
+      {"word": "abundant", "meaning": "丰富的，充裕的"},
+      {"word": "ample", "meaning": "充足的，丰富的"},
+      {"word": "plentiful", "meaning": "大量的，丰富的"},
+      {"word": "copious", "meaning": "丰富的，大量的"},
+      {"word": "sufficient", "meaning": "足够的，充分的"},
+      {"word": "adequate", "meaning": "足够的，适当的"},
+      {"word": "numerous", "meaning": "许多的，大量的"}
+    ]
+  },
+  {
+    "id": "obtain",
+    "name": "获得，得到",
+    "words": [
+      {"word": "obtain", "meaning": "获得，得到"},
+      {"word": "acquire", "meaning": "获取，习得"},
+      {"word": "attain", "meaning": "达到，获得"},
+      {"word": "achieve", "meaning": "实现，取得"},
+      {"word": "gain", "meaning": "获得，增加"},
+      {"word": "earn", "meaning": "赚得，赢得"},
+      {"word": "derive", "meaning": "源自，获取"}
+    ]
+  },
+  {
+    "id": "require",
+    "name": "需要，要求",
+    "words": [
+      {"word": "require", "meaning": "需要，要求"},
+      {"word": "request", "meaning": "请求，要求"},
+      {"word": "demand", "meaning": "要求，需求"},
+      {"word": "necessitate", "meaning": "使成为必要"},
+      {"word": "entail", "meaning": "牵涉，需要"},
+      {"word": "mandate", "meaning": "授权，强制要求"},
+      {"word": "stipulate", "meaning": "规定，明确要求"}
+    ]
+  },
+  {
+    "id": "change",
+    "name": "改变，变化",
+    "words": [
+      {"word": "change", "meaning": "改变，变化"},
+      {"word": "alter", "meaning": "改变，更改"},
+      {"word": "modify", "meaning": "修改，调整"},
+      {"word": "convert", "meaning": "转变，转换"},
+      {"word": "transform", "meaning": "改造，转变"},
+      {"word": "shift", "meaning": "转移，转变"},
+      {"word": "adjust", "meaning": "调整，适应"},
+      {"word": "reform", "meaning": "改革，革新"}
+    ]
+  },
+  {
+    "id": "show",
+    "name": "展示，表明",
+    "words": [
+      {"word": "show", "meaning": "显示，表明"},
+      {"word": "demonstrate", "meaning": "证明，示范"},
+      {"word": "illustrate", "meaning": "说明，阐明"},
+      {"word": "indicate", "meaning": "表明，指示"},
+      {"word": "reveal", "meaning": "揭示，揭露"},
+      {"word": "display", "meaning": "展示，陈列"},
+      {"word": "exhibit", "meaning": "展览，表现"},
+      {"word": "manifest", "meaning": "显示，表明"}
+    ]
+  },
+  {
+    "id": "support",
+    "name": "支持，赞成",
+    "words": [
+      {"word": "support", "meaning": "支持，拥护"},
+      {"word": "advocate", "meaning": "提倡，主张"},
+      {"word": "endorse", "meaning": "认可，支持"},
+      {"word": "back", "meaning": "支持，资助"},
+      {"word": "uphold", "meaning": "维护，支持"},
+      {"word": "sustain", "meaning": "维持，支撑"},
+      {"word": "foster", "meaning": "促进，培养"}
+    ]
+  },
+  {
+    "id": "oppose",
+    "name": "反对，拒绝",
+    "words": [
+      {"word": "oppose", "meaning": "反对，对抗"},
+      {"word": "object", "meaning": "反对，不赞成"},
+      {"word": "resist", "meaning": "抵抗，抵制"},
+      {"word": "defy", "meaning": "违抗，蔑视"},
+      {"word": "reject", "meaning": "拒绝，驳回"},
+      {"word": "decline", "meaning": "婉拒，下降"},
+      {"word": "refute", "meaning": "反驳，驳斥"}
+    ]
+  },
+  {
+    "id": "limit",
+    "name": "限制，约束",
+    "words": [
+      {"word": "limit", "meaning": "限制，限定"},
+      {"word": "restrict", "meaning": "限制，约束"},
+      {"word": "constrain", "meaning": "强制，约束"},
+      {"word": "confine", "meaning": "限制，禁闭"},
+      {"word": "curb", "meaning": "控制，抑制"},
+      {"word": "inhibit", "meaning": "抑制，阻碍"},
+      {"word": "hamper", "meaning": "妨碍，牵制"}
+    ]
+  },
+  {
+    "id": "promote",
+    "name": "促进，推动",
+    "words": [
+      {"word": "promote", "meaning": "促进，推广"},
+      {"word": "facilitate", "meaning": "促进，使便利"},
+      {"word": "advance", "meaning": "推进，提升"},
+      {"word": "further", "meaning": "促进，推进"},
+      {"word": "catalyze", "meaning": "催化，促进"},
+      {"word": "propel", "meaning": "推进，驱动"},
+      {"word": "stimulate", "meaning": "刺激，激发"}
+    ]
+  },
+  {
+    "id": "evaluate",
+    "name": "评估，评价",
+    "words": [
+      {"word": "evaluate", "meaning": "评估，评价"},
+      {"word": "assess", "meaning": "评估，评定"},
+      {"word": "appraise", "meaning": "评价，鉴定"},
+      {"word": "estimate", "meaning": "估计，估算"},
+      {"word": "judge", "meaning": "判断，评判"},
+      {"word": "rate", "meaning": "评级，评估"},
+      {"word": "reckon", "meaning": "认为，估算"}
+    ]
+  },
+  {
+    "id": "compose",
+    "name": "构成，组成",
+    "words": [
+      {"word": "compose", "meaning": "组成，构成"},
+      {"word": "consist", "meaning": "由…组成"},
+      {"word": "comprise", "meaning": "包含，由…构成"},
+      {"word": "constitute", "meaning": "构成，设立"},
+      {"word": "form", "meaning": "形成，组成"},
+      {"word": "make up", "meaning": "组成，弥补"}
+    ]
+  },
+  {
+    "id": "cause",
+    "name": "导致，引起",
+    "words": [
+      {"word": "cause", "meaning": "导致，引起"},
+      {"word": "trigger", "meaning": "触发，引起"},
+      {"word": "spark", "meaning": "引发，触发"},
+      {"word": "provoke", "meaning": "激起，挑起"},
+      {"word": "elicit", "meaning": "引出，诱出"},
+      {"word": "induce", "meaning": "诱导，引起"},
+      {"word": "generate", "meaning": "产生，生成"},
+      {"word": "result in", "meaning": "导致，造成"}
+    ]
+  },
+  {
+    "id": "include",
+    "name": "包含，包括",
+    "words": [
+      {"word": "include", "meaning": "包括，包含"},
+      {"word": "contain", "meaning": "包含，容纳"},
+      {"word": "involve", "meaning": "涉及，包含"},
+      {"word": "encompass", "meaning": "包含，涵盖"},
+      {"word": "embrace", "meaning": "包含，拥抱"},
+      {"word": "incorporate", "meaning": "合并，包含"}
+    ]
+  },
+  {
+    "id": "eliminate",
+    "name": "消除，去除",
+    "words": [
+      {"word": "eliminate", "meaning": "消除，淘汰"},
+      {"word": "remove", "meaning": "移除，去掉"},
+      {"word": "erase", "meaning": "擦除，抹去"},
+      {"word": "eradicate", "meaning": "根除，消灭"},
+      {"word": "extinguish", "meaning": "熄灭，消灭"},
+      {"word": "abolish", "meaning": "废除，废止"}
+    ]
+  },
+  {
+    "id": "establish",
+    "name": "建立，创立",
+    "words": [
+      {"word": "establish", "meaning": "建立，设立"},
+      {"word": "found", "meaning": "创立，建立"},
+      {"word": "institute", "meaning": "建立，制定"},
+      {"word": "set up", "meaning": "建立，设立"},
+      {"word": "launch", "meaning": "启动，发起"},
+      {"word": "initiate", "meaning": "开始，发起"},
+      {"word": "pioneer", "meaning": "开创，倡导"}
+    ]
+  },
+  {
+    "id": "destroy",
+    "name": "破坏，摧毁",
+    "words": [
+      {"word": "destroy", "meaning": "破坏，摧毁"},
+      {"word": "damage", "meaning": "损害，损伤"},
+      {"word": "ruin", "meaning": "毁灭，毁坏"},
+      {"word": "devastate", "meaning": "摧毁，使荒废"},
+      {"word": "wreck", "meaning": "破坏，失事"},
+      {"word": "demolish", "meaning": "拆除，推翻"},
+      {"word": "sabotage", "meaning": "蓄意破坏"}
+    ]
+  },
+  {
+    "id": "protect",
+    "name": "保护，维护",
+    "words": [
+      {"word": "protect", "meaning": "保护，防护"},
+      {"word": "preserve", "meaning": "保存，保护"},
+      {"word": "conserve", "meaning": "节约，保护"},
+      {"word": "shield", "meaning": "保护，遮蔽"},
+      {"word": "defend", "meaning": "防御，保卫"},
+      {"word": "safeguard", "meaning": "保护，保障"},
+      {"word": "maintain", "meaning": "维持，维护"}
+    ]
+  },
+  {
+    "id": "research",
+    "name": "调查，研究",
+    "words": [
+      {"word": "research", "meaning": "研究，调查"},
+      {"word": "investigate", "meaning": "调查，研究"},
+      {"word": "survey", "meaning": "调查，测量"},
+      {"word": "explore", "meaning": "探索，探究"},
+      {"word": "examine", "meaning": "检查，审查"},
+      {"word": "inspect", "meaning": "检查，视察"},
+      {"word": "scrutinize", "meaning": "仔细检查，审视"}
+    ]
+  },
+  {
+    "id": "analyze",
+    "name": "分析，检查",
+    "words": [
+      {"word": "analyze", "meaning": "分析，解析"},
+      {"word": "review", "meaning": "复习，审查"},
+      {"word": "evaluate", "meaning": "评估，评价"},
+      {"word": "interpret", "meaning": "解读，解释"},
+      {"word": "diagnose", "meaning": "诊断，判断"},
+      {"word": "break down", "meaning": "分解，分析"}
+    ]
+  },
+  {
+    "id": "assume",
+    "name": "假设，推测",
+    "words": [
+      {"word": "assume", "meaning": "假设，承担"},
+      {"word": "presume", "meaning": "假定，推测"},
+      {"word": "speculate", "meaning": "推测，思索"},
+      {"word": "hypothesize", "meaning": "假设，假定"},
+      {"word": "postulate", "meaning": "假定，假设"},
+      {"word": "conjecture", "meaning": "推测，猜测"}
+    ]
+  },
+  {
+    "id": "emphasize",
+    "name": "强调，突出",
+    "words": [
+      {"word": "emphasize", "meaning": "强调，着重"},
+      {"word": "stress", "meaning": "强调，压力"},
+      {"word": "highlight", "meaning": "强调，突出"},
+      {"word": "underline", "meaning": "强调，在…下面画线"},
+      {"word": "accentuate", "meaning": "突出，强调"},
+      {"word": "underscore", "meaning": "强调，加强"}
+    ]
+  },
+  {
+    "id": "ignore",
+    "name": "忽视，忽略",
+    "words": [
+      {"word": "ignore", "meaning": "忽视，不理会"},
+      {"word": "neglect", "meaning": "忽略，疏于照顾"},
+      {"word": "overlook", "meaning": "忽视，俯视"},
+      {"word": "disregard", "meaning": "漠视，不尊重"},
+      {"word": "omit", "meaning": "省略，遗漏"},
+      {"word": "skip", "meaning": "跳过，略过"}
+    ]
+  },
+  {
+    "id": "adapt",
+    "name": "适应，习惯",
+    "words": [
+      {"word": "adapt", "meaning": "适应，改编"},
+      {"word": "adjust", "meaning": "调整，适应"},
+      {"word": "acclimate", "meaning": "适应新环境"},
+      {"word": "habituate", "meaning": "使习惯"},
+      {"word": "accommodate", "meaning": "适应，容纳"},
+      {"word": "conform", "meaning": "符合，遵守"}
+    ]
+  },
+  {
+    "id": "persist",
+    "name": "坚持，持续",
+    "words": [
+      {"word": "persist", "meaning": "坚持，持续"},
+      {"word": "persevere", "meaning": "坚持不懈"},
+      {"word": "endure", "meaning": "忍耐，持久"},
+      {"word": "withstand", "meaning": "承受，抵抗"},
+      {"word": "sustain", "meaning": "维持，支撑"},
+      {"word": "maintain", "meaning": "保持，维持"},
+      {"word": "continue", "meaning": "继续，持续"}
+    ]
+  },
+  {
+    "id": "ability",
+    "name": "能力，技能",
+    "words": [
+      {"word": "ability", "meaning": "能力，才能"},
+      {"word": "capability", "meaning": "能力，性能"},
+      {"word": "capacity", "meaning": "容量，能力"},
+      {"word": "competence", "meaning": "胜任，能力"},
+      {"word": "proficiency", "meaning": "熟练，精通"},
+      {"word": "aptitude", "meaning": "天资，倾向"},
+      {"word": "talent", "meaning": "才能，天赋"}
+    ]
+  },
+  {
+    "id": "benefit",
+    "name": "优点，好处",
+    "words": [
+      {"word": "benefit", "meaning": "好处，利益"},
+      {"word": "advantage", "meaning": "优势，有利条件"},
+      {"word": "merit", "meaning": "优点，价值"},
+      {"word": "asset", "meaning": "资产，优势"},
+      {"word": "strength", "meaning": "力量，优势"},
+      {"word": "virtue", "meaning": "美德，优点"}
+    ]
+  },
+  {
+    "id": "disadvantage",
+    "name": "缺点，问题",
+    "words": [
+      {"word": "disadvantage", "meaning": "不利条件，缺点"},
+      {"word": "drawback", "meaning": "缺点，弊端"},
+      {"word": "shortcoming", "meaning": "缺点，短处"},
+      {"word": "weakness", "meaning": "弱点，软弱"},
+      {"word": "flaw", "meaning": "瑕疵，缺陷"},
+      {"word": "defect", "meaning": "缺陷，毛病"},
+      {"word": "limitation", "meaning": "限制，局限"}
+    ]
+  }
+]

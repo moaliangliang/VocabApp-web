@@ -1,0 +1,1412 @@
+{
+  "course": {
+    "id": "sbs4",
+    "title": "Side by Side 4",
+    "author": "Steven J. Molinsky & Bill Bliss",
+    "type": "american",
+    "description": "高级篇 — 虚拟语气、倒装句、复杂句型",
+    "icon": "character.book.closed.fill",
+    "lessons": [
+      {
+        "id": "sbs4_001",
+        "title": "Lesson 1: Had I Known, I Would Have Stayed",
+        "text_en": "Had I known it was going to rain, I would have stayed home.\nI wish I had brought my umbrella.\nIf only I had checked the weather forecast.\nWe should have been better prepared.\nWell, at least we're together.\nThat's true. That makes everything better.",
+        "text_zh": "A：要是我早知道要下雨，我就待在家里了。\nB：我真希望我带了雨伞。\nA：要是我查了天气预报就好了。\nB：我们本应该准备得更好的。\nA：嗯，至少我们在一起。\nB：没错。这让一切都更好了。",
+        "vocabulary": [
+          {
+            "word": "had known",
+            "phonetic": "/hæd noʊn/",
+            "meaning": "本来知道"
+          },
+          {
+            "word": "umbrella",
+            "phonetic": "/ʌmˈbrelə/",
+            "meaning": "雨伞"
+          },
+          {
+            "word": "forecast",
+            "phonetic": "/ˈfɔːrkæst/",
+            "meaning": "预报"
+          },
+          {
+            "word": "prepared",
+            "phonetic": "/prɪˈperd/",
+            "meaning": "准备好了的"
+          }
+        ]
+      },
+      {
+        "id": "sbs4_002",
+        "title": "Lesson 2: It's Essential That He Be There",
+        "text_en": "It's essential that he be there on time.\nI'll make sure he arrives early.\nIt's important that everyone understand the rules.\nI'll explain them clearly.\nI suggest that she take the train.\nThat's a good idea. Traffic is terrible.",
+        "text_zh": "A：他必须准时到场，这一点至关重要。\nB：我会确保他早到。\nA：每个人都必须理解规则，这一点很重要。\nB：我会清楚解释。\nA：我建议她坐火车。\nB：好主意。交通太糟了。",
+        "vocabulary": [
+          {
+            "word": "essential",
+            "phonetic": "/ɪˈsenʃl/",
+            "meaning": "至关重要的"
+          },
+          {
+            "word": "suggest",
+            "phonetic": "/səˈdʒest/",
+            "meaning": "建议"
+          },
+          {
+            "word": "explain",
+            "phonetic": "/ɪkˈspleɪn/",
+            "meaning": "解释"
+          },
+          {
+            "word": "traffic",
+            "phonetic": "/ˈtræfɪk/",
+            "meaning": "交通"
+          }
+        ]
+      },
+      {
+        "id": "sbs4_003",
+        "title": "Lesson 3: Were I You, I Would Accept",
+        "text_en": "Were I you, I would accept the job offer.\nReally? You think so?\nAbsolutely. If I were in your shoes, I wouldn't hesitate.\nBut what if it doesn't work out?\nThen you'll find something else. Nothing ventured, nothing gained.\nYou're right. I'll take it.",
+        "text_zh": "A：如果我是你，我会接受那份工作邀请。\nB：真的吗？你这么认为？\nA：当然。如果我处在你的位置，我不会犹豫。\nB：但如果结果不好呢？\nA：那你会找到别的。不入虎穴，焉得虎子。\nB：你说得对。我接受。",
+        "vocabulary": [
+          {
+            "word": "offer",
+            "phonetic": "/ˈɒfər/",
+            "meaning": "邀请，提供"
+          },
+          {
+            "word": "hesitate",
+            "phonetic": "/ˈhezɪteɪt/",
+            "meaning": "犹豫"
+          },
+          {
+            "word": "shoes",
+            "phonetic": "/ʃuːz/",
+            "meaning": "鞋子（这里指处境）"
+          },
+          {
+            "word": "venture",
+            "phonetic": "/ˈventʃər/",
+            "meaning": "冒险"
+          }
+        ]
+      },
+      {
+        "id": "sbs4_004",
+        "title": "Lesson 4: No Sooner Had I Left",
+        "text_en": "No sooner had I left the house than it started raining.\nWhat bad luck!\nNot only did it rain, but I also forgot my phone.\nNever have I had such a bad day!\nBarely had I arrived at work when my boss called a meeting.\nSome days are like that.",
+        "text_zh": "A：我刚离开家，就开始下雨了。\nB：真倒霉！\nA：不仅下雨了，我还忘了手机。\nB：我从来没有过这么糟糕的一天！\nA：我刚刚到公司，老板就召集开会。\nB：有时候就是这样。",
+        "vocabulary": [
+          {
+            "word": "no sooner",
+            "phonetic": "/noʊ ˈsuːnər/",
+            "meaning": "刚……就……"
+          },
+          {
+            "word": "luck",
+            "phonetic": "/lʌk/",
+            "meaning": "运气"
+          },
+          {
+            "word": "barely",
+            "phonetic": "/ˈberli/",
+            "meaning": "几乎不，刚刚"
+          },
+          {
+            "word": "boss",
+            "phonetic": "/bɒs/",
+            "meaning": "老板"
+          }
+        ]
+      },
+      {
+        "id": "sbs4_005",
+        "title": "Lesson 5: The More You Practice, the Better You Get",
+        "text_en": "The more you practice, the better you get.\nThat's true for everything in life.\nThe harder I study, the more I realize I don't know.\nThat's a sign of wisdom!\nThe sooner we start, the sooner we'll finish.\nLet's begin right now then.",
+        "text_zh": "A：你练习得越多，就做得越好。\nB：生活中的一切都是这样。\nA：我学习得越努力，就越意识到我不知道的越多。\nB：这是智慧的标志！\nA：我们越早开始，就越早完成。\nB：那我们现在就开始吧。",
+        "vocabulary": [
+          {
+            "word": "the more...the more...",
+            "phonetic": "/ðə mɔːr/",
+            "meaning": "越……越……"
+          },
+          {
+            "word": "wisdom",
+            "phonetic": "/ˈwɪzdəm/",
+            "meaning": "智慧"
+          },
+          {
+            "word": "sign",
+            "phonetic": "/saɪn/",
+            "meaning": "标志"
+          },
+          {
+            "word": "begin",
+            "phonetic": "/bɪˈɡɪn/",
+            "meaning": "开始"
+          }
+        ]
+      },
+      {
+        "id": "sbs4_006",
+        "title": "Lesson 6: I Would Rather You Didn't",
+        "text_en": "Do you mind if I open the window?\nI would rather you didn't. It's cold outside.\nI'd rather stay home tonight than go out.\nMe too. Let's watch a movie.\nWould you rather have pizza or Chinese food?\nI'd rather have Chinese food tonight.",
+        "text_zh": "A：你介意我开窗吗？\nB：我宁愿你不要开。外面很冷。\nA：今晚我宁愿待在家里也不愿出去。\nB：我也是。我们看电影吧。\nA：你更想吃披萨还是中餐？\nB：今晚我更想吃中餐。",
+        "vocabulary": [
+          {
+            "word": "would rather",
+            "phonetic": "/wʊd ˈræðər/",
+            "meaning": "宁愿"
+          },
+          {
+            "word": "mind",
+            "phonetic": "/maɪnd/",
+            "meaning": "介意"
+          },
+          {
+            "word": "outside",
+            "phonetic": "/ˌaʊtˈsaɪd/",
+            "meaning": "外面"
+          },
+          {
+            "word": "tonight",
+            "phonetic": "/təˈnaɪt/",
+            "meaning": "今晚"
+          }
+        ]
+      },
+      {
+        "id": "sbs4_007",
+        "title": "Lesson 7: It's Been a Long Time Since I've Seen You",
+        "text_en": "It's been a long time since I've seen you!\nI know! It must be at least two years.\nYou haven't changed a bit!\nNeither have you! You look great.\nHow have you been?\nI've been doing really well, thanks.",
+        "text_zh": "A：好久不见！\nB：我知道！至少两年了。\nA：你一点都没变！\nB：你也是！你看起来很好。\nA：你过得怎么样？\nB：我一直很好，谢谢。",
+        "vocabulary": [
+          {
+            "word": "since",
+            "phonetic": "/sɪns/",
+            "meaning": "自从"
+          },
+          {
+            "word": "changed",
+            "phonetic": "/tʃeɪndʒd/",
+            "meaning": "改变"
+          },
+          {
+            "word": "neither",
+            "phonetic": "/ˈnaɪðər/",
+            "meaning": "也不"
+          },
+          {
+            "word": "great",
+            "phonetic": "/ɡreɪt/",
+            "meaning": "很好的"
+          }
+        ]
+      },
+      {
+        "id": "sbs4_008",
+        "title": "Lesson 8: That's the Best Movie I've Ever Seen",
+        "text_en": "That's the best movie I've ever seen.\nI agree. The acting was incredible.\nIt was the most moving story I've ever heard.\nAnd the music was beautiful.\nI've never been so affected by a film before.\nLet's watch it again sometime.",
+        "text_zh": "A：这是我见过的最好的电影。\nB：我同意。表演太棒了。\nA：这是我听过的最感人的故事。\nB：音乐也很美。\nA：我从来没有被一部电影这么打动过。\nB：我们什么时候再看一次吧。",
+        "vocabulary": [
+          {
+            "word": "incredible",
+            "phonetic": "/ɪnˈkredəbl/",
+            "meaning": "难以置信的"
+          },
+          {
+            "word": "moving",
+            "phonetic": "/ˈmuːvɪŋ/",
+            "meaning": "感人的"
+          },
+          {
+            "word": "affected",
+            "phonetic": "/əˈfektɪd/",
+            "meaning": "被打动的"
+          },
+          {
+            "word": "sometime",
+            "phonetic": "/ˈsʌmtaɪm/",
+            "meaning": "某个时候"
+          }
+        ]
+      },
+      {
+        "id": "sbs4_009",
+        "title": "Lesson 9: What Would You Have Done?",
+        "text_en": "What would you have done if you were me?\nI would have told the truth from the beginning.\nBut I was afraid of hurting their feelings.\nHonesty is always the best policy.\nI guess you're right. I should have been honest.\nIt's never too late to do the right thing.",
+        "text_zh": "A：如果你是我，你会怎么做？\nB：我会从一开始就说实话。\nA：但我怕伤害他们的感情。\nB：诚实总是上策。\nA：我想你说得对。我应该诚实的。\nB：做正确的事永远不会太晚。",
+        "vocabulary": [
+          {
+            "word": "truth",
+            "phonetic": "/truːθ/",
+            "meaning": "真相"
+          },
+          {
+            "word": "afraid",
+            "phonetic": "/əˈfreɪd/",
+            "meaning": "害怕的"
+          },
+          {
+            "word": "honesty",
+            "phonetic": "/ˈɒnəsti/",
+            "meaning": "诚实"
+          },
+          {
+            "word": "policy",
+            "phonetic": "/ˈpɒləsi/",
+            "meaning": "政策，原则"
+          }
+        ]
+      },
+      {
+        "id": "sbs4_010",
+        "title": "Lesson 10: Little Did I Know",
+        "text_en": "Little did I know that my life was about to change.\nSometimes the best things are unexpected.\nNever in my wildest dreams did I imagine this.\nLife has a way of surprising us.\nOnly later did I realize how lucky I was.\nEverything happens for a reason.",
+        "text_zh": "A：我一点都不知道我的生活即将改变。\nB：有时候最好的事情是意想不到的。\nA：我做梦都没想到。\nB：生活总有办法给我们惊喜。\nA：后来我才意识到我有多幸运。\nB：一切皆有原因。",
+        "vocabulary": [
+          {
+            "word": "little did I know",
+            "phonetic": "/ˈlɪtl dɪd aɪ noʊ/",
+            "meaning": "我完全不知道"
+          },
+          {
+            "word": "unexpected",
+            "phonetic": "/ˌʌnɪkˈspektɪd/",
+            "meaning": "意想不到的"
+          },
+          {
+            "word": "imagine",
+            "phonetic": "/ɪˈmædʒɪn/",
+            "meaning": "想象"
+          },
+          {
+            "word": "reason",
+            "phonetic": "/ˈriːzn/",
+            "meaning": "原因"
+          }
+        ]
+      },
+      {
+        "id": "sbs4_011",
+        "title": "Lesson 11: Not Until Now Have I Understood",
+        "text_en": "Not until now have I understood what you meant.\nIt took you long enough!\nI was being stubborn. I admit it.\nThe important thing is that you understand now.\nYou're very patient with me.\nThat's what friends are for.",
+        "text_zh": "A：直到现在我才明白你的意思。\nB：你花了够久了！\nA：我之前太固执了。我承认。\nB：重要的是你现在明白了。\nA：你对我很有耐心。\nB：朋友就是这样的。",
+        "vocabulary": [
+          {
+            "word": "not until",
+            "phonetic": "/nɒt ʌnˈtɪl/",
+            "meaning": "直到……才"
+          },
+          {
+            "word": "stubborn",
+            "phonetic": "/ˈstʌbərn/",
+            "meaning": "固执的"
+          },
+          {
+            "word": "admit",
+            "phonetic": "/ədˈmɪt/",
+            "meaning": "承认"
+          },
+          {
+            "word": "patient",
+            "phonetic": "/ˈpeɪʃnt/",
+            "meaning": "耐心的"
+          }
+        ]
+      },
+      {
+        "id": "sbs4_012",
+        "title": "Lesson 12: Were It Not for Your Help",
+        "text_en": "Were it not for your help, I would have failed.\nDon't mention it. I was happy to help.\nI truly appreciate everything you did.\nYou would have done the same for me.\nLet me buy you dinner as a thank you.\nThat's not necessary, but I won't say no!",
+        "text_zh": "A：如果不是你的帮助，我就失败了。\nB：别提了。我很高兴能帮忙。\nA：我真的很感激你所做的一切。\nB：你也会为我做同样的事。\nA：我请你吃晚饭表示感谢。\nB：不用了，不过我不会拒绝！",
+        "vocabulary": [
+          {
+            "word": "were it not for",
+            "phonetic": "/wɜːr ɪt nɒt fɔːr/",
+            "meaning": "如果不是"
+          },
+          {
+            "word": "appreciate",
+            "phonetic": "/əˈpriːʃieɪt/",
+            "meaning": "感激"
+          },
+          {
+            "word": "mention",
+            "phonetic": "/ˈmenʃn/",
+            "meaning": "提及"
+          },
+          {
+            "word": "necessary",
+            "phonetic": "/ˈnesəseri/",
+            "meaning": "必要的"
+          }
+        ]
+      },
+      {
+        "id": "sbs4_013",
+        "title": "Lesson 13: On No Account Should You Open the Door",
+        "text_en": "On no account should you open the door to strangers.\nI know, Mom. I'm not a child anymore.\nI'm just worried about your safety.\nI'll be careful, I promise.\nAnd call me if anything happens.\nI will. Don't worry.",
+        "text_zh": "A：无论如何都不要给陌生人开门。\nB：我知道，妈妈。我不再是小孩子了。\nA：我只是担心你的安全。\nB：我会小心的，我保证。\nA：有什么事就打电话给我。\nB：我会的。别担心。",
+        "vocabulary": [
+          {
+            "word": "on no account",
+            "phonetic": "/ɒn noʊ əˈkaʊnt/",
+            "meaning": "无论如何都不"
+          },
+          {
+            "word": "stranger",
+            "phonetic": "/ˈstreɪndʒər/",
+            "meaning": "陌生人"
+          },
+          {
+            "word": "safety",
+            "phonetic": "/ˈseɪfti/",
+            "meaning": "安全"
+          },
+          {
+            "word": "promise",
+            "phonetic": "/ˈprɒmɪs/",
+            "meaning": "承诺"
+          }
+        ]
+      },
+      {
+        "id": "sbs4_014",
+        "title": "Lesson 14: I Take It That You Agree",
+        "text_en": "I take it that you agree with the plan?\nYes, I think it's a good idea.\nI take it that everyone is on board?\nYes, we all support it.\nThen let's move forward with it.\nI'll start working on it right away.",
+        "text_zh": "A：这么说你同意这个计划了？\nB：是的，我认为这是个好主意。\nA：这么说大家都同意了？\nB：是的，我们都支持。\nA：那我们就推进吧。\nB：我马上开始做。",
+        "vocabulary": [
+          {
+            "word": "I take it",
+            "phonetic": "/aɪ teɪk ɪt/",
+            "meaning": "我理解，这么说"
+          },
+          {
+            "word": "agree",
+            "phonetic": "/əˈɡriː/",
+            "meaning": "同意"
+          },
+          {
+            "word": "on board",
+            "phonetic": "/ɒn bɔːrd/",
+            "meaning": "支持"
+          },
+          {
+            "word": "move forward",
+            "phonetic": "/muːv ˈfɔːrwərd/",
+            "meaning": "推进"
+          }
+        ]
+      },
+      {
+        "id": "sbs4_015",
+        "title": "Lesson 15: Only After the Fact Did I Realize",
+        "text_en": "Only after the fact did I realize my mistake.\nWhat happened?\nI sent the email to the wrong person.\nThat could be embarrassing.\nIt was. I had to apologize to everyone.\nLesson learned, I hope.",
+        "text_zh": "A：事后我才意识到我的错误。\nB：怎么了？\nA：我把邮件发错人了。\nB：那可能很尴尬。\nA：是的。我不得不向所有人道歉。\nB：希望这是教训。",
+        "vocabulary": [
+          {
+            "word": "only after",
+            "phonetic": "/ˈoʊnli ˈæftər/",
+            "meaning": "之后才"
+          },
+          {
+            "word": "mistake",
+            "phonetic": "/mɪˈsteɪk/",
+            "meaning": "错误"
+          },
+          {
+            "word": "embarrassing",
+            "phonetic": "/ɪmˈbærəsɪŋ/",
+            "meaning": "尴尬的"
+          },
+          {
+            "word": "apologize",
+            "phonetic": "/əˈpɒlədʒaɪz/",
+            "meaning": "道歉"
+          }
+        ]
+      },
+      {
+        "id": "sbs4_016",
+        "title": "Lesson 16: The Fact That He Left Surprised Everyone",
+        "text_en": "The fact that he left surprised everyone.\nI know. Nobody saw it coming.\nDid he give any reason?\nHe said he needed a change.\nI hope he's doing well.\nI'm sure he is.",
+        "text_zh": "A：他离开了这件事让所有人惊讶。\nB：我知道。没人预料到。\nA：他给出理由了吗？\nB：他说他需要改变。\nA：希望他过得很好。\nB：我相信他会的。",
+        "vocabulary": [
+          {
+            "word": "the fact that",
+            "phonetic": "/ðə fækt ðæt/",
+            "meaning": "……这件事"
+          },
+          {
+            "word": "surprised",
+            "phonetic": "/sərˈpraɪzd/",
+            "meaning": "惊讶的"
+          },
+          {
+            "word": "reason",
+            "phonetic": "/ˈriːzn/",
+            "meaning": "理由"
+          },
+          {
+            "word": "change",
+            "phonetic": "/tʃeɪndʒ/",
+            "meaning": "改变"
+          }
+        ]
+      },
+      {
+        "id": "sbs4_017",
+        "title": "Lesson 17: I'd Rather You Told Me the Truth",
+        "text_en": "I'd rather you told me the truth from the start.\nI'm sorry I lied to you.\nWhy didn't you tell me?\nI was afraid you'd be angry.\nI'm more angry that you lied.\nI won't do it again. I promise.",
+        "text_zh": "A：我宁愿你从一开始就告诉我真相。\nB：对不起，我对你撒谎了。\nA：你为什么没告诉我？\nB：我怕你生气。\nA：我更生气的是你撒谎。\nB：我不会再这样了。我保证。",
+        "vocabulary": [
+          {
+            "word": "would rather...told",
+            "phonetic": "/wʊd ˈræðər toʊld/",
+            "meaning": "宁愿……告诉"
+          },
+          {
+            "word": "lie",
+            "phonetic": "/laɪ/",
+            "meaning": "撒谎"
+          },
+          {
+            "word": "angry",
+            "phonetic": "/ˈæŋɡri/",
+            "meaning": "生气的"
+          },
+          {
+            "word": "start",
+            "phonetic": "/stɑːrt/",
+            "meaning": "开始"
+          }
+        ]
+      },
+      {
+        "id": "sbs4_018",
+        "title": "Lesson 18: Should You Have Any Questions, Let Me Know",
+        "text_en": "Should you have any questions, please let me know.\nThank you. I'll read through the document first.\nTake your time. There's no rush.\nIf something is unclear, I'll ask.\nI'll be in my office all afternoon.\nGreat. I appreciate your help.",
+        "text_zh": "A：如有任何问题，请告诉我。\nB：谢谢。我先通读一遍文件。\nA：慢慢来，不着急。\nB：如果有不清楚的地方，我会问。\nA：我整个下午都在办公室。\nB：太好了。谢谢你的帮助。",
+        "vocabulary": [
+          {
+            "word": "should you have",
+            "phonetic": "/ʃʊd juː hæv/",
+            "meaning": "如果你有"
+          },
+          {
+            "word": "document",
+            "phonetic": "/ˈdɒkjumənt/",
+            "meaning": "文件"
+          },
+          {
+            "word": "unclear",
+            "phonetic": "/ˌʌnˈklɪr/",
+            "meaning": "不清楚的"
+          },
+          {
+            "word": "rush",
+            "phonetic": "/rʌʃ/",
+            "meaning": "匆忙"
+          }
+        ]
+      },
+      {
+        "id": "sbs4_019",
+        "title": "Lesson 19: Not Once Did He Call",
+        "text_en": "Not once did he call while I was away.\nThat's not very thoughtful of him.\nI expected at least a message.\nMaybe he was busy.\nToo busy to send a text?\nSome people are just like that.",
+        "text_zh": "A：我在外期间他一次都没打电话。\nB：他真是不够体贴。\nA：我至少期待一条信息。\nB：也许他太忙了。\nA：忙到连发条短信都没空？\nB：有些人就是那样。",
+        "vocabulary": [
+          {
+            "word": "not once",
+            "phonetic": "/nɒt wʌns/",
+            "meaning": "一次也不"
+          },
+          {
+            "word": "thoughtful",
+            "phonetic": "/ˈθɔːtfl/",
+            "meaning": "体贴的"
+          },
+          {
+            "word": "at least",
+            "phonetic": "/æt liːst/",
+            "meaning": "至少"
+          },
+          {
+            "word": "text",
+            "phonetic": "/tekst/",
+            "meaning": "短信"
+          }
+        ]
+      },
+      {
+        "id": "sbs4_020",
+        "title": "Lesson 20: It Is Imperative That We Act Now",
+        "text_en": "It is imperative that we act now.\nI agree. We can't afford to wait.\nThe situation is getting worse.\nWhat do you suggest?\nWe need to implement the new system immediately.\nI'll start the process today.",
+        "text_zh": "A：我们现在必须采取行动。\nB：我同意。我们不能等了。\nA：情况越来越糟了。\nB：你有什么建议？\nA：我们需要立即实施新系统。\nB：我今天就开始流程。",
+        "vocabulary": [
+          {
+            "word": "imperative",
+            "phonetic": "/ɪmˈperətɪv/",
+            "meaning": "必要的，紧急的"
+          },
+          {
+            "word": "situation",
+            "phonetic": "/ˌsɪtʃuˈeɪʃn/",
+            "meaning": "情况"
+          },
+          {
+            "word": "implement",
+            "phonetic": "/ˈɪmplɪment/",
+            "meaning": "实施"
+          },
+          {
+            "word": "immediately",
+            "phonetic": "/ɪˈmiːdiətli/",
+            "meaning": "立即"
+          }
+        ]
+      },
+      {
+        "id": "sbs4_021",
+        "title": "Lesson 21: Under No Circumstances Should You Panic",
+        "text_en": "Under no circumstances should you panic.\nBut what if something goes wrong?\nStaying calm is the most important thing.\nYou're right. Panicking doesn't help.\nTake a deep breath and think.\nI'll try to keep my cool.",
+        "text_zh": "A：在任何情况下都不要惊慌。\nB：但如果出了什么问题呢？\nA：保持冷静是最重要的。\nB：你说得对。惊慌没有用。\nA：深呼吸，思考一下。\nB：我会尽量保持冷静。",
+        "vocabulary": [
+          {
+            "word": "under no circumstances",
+            "phonetic": "/ˈʌndər noʊ ˈsɜːrkəmstænsɪz/",
+            "meaning": "在任何情况下都不"
+          },
+          {
+            "word": "panic",
+            "phonetic": "/ˈpænɪk/",
+            "meaning": "惊慌"
+          },
+          {
+            "word": "calm",
+            "phonetic": "/kɑːm/",
+            "meaning": "冷静的"
+          },
+          {
+            "word": "breathe",
+            "phonetic": "/briːð/",
+            "meaning": "呼吸"
+          }
+        ]
+      },
+      {
+        "id": "sbs4_022",
+        "title": "Lesson 22: I Wish You Wouldn't Interrupt Me",
+        "text_en": "I wish you wouldn't interrupt me when I'm speaking.\nSorry, I didn't realize I was doing it.\nIt happens quite often.\nI'll try to be more aware.\nThank you. I appreciate that.\nPlease feel free to point it out if I do it again.",
+        "text_zh": "A：我希望你在我说话时不要打断我。\nB：抱歉，我没意识到。\nA：这种情况经常发生。\nB：我会多注意的。\nA：谢谢。我很感激。\nB：如果我又这样，请随时指出。",
+        "vocabulary": [
+          {
+            "word": "interrupt",
+            "phonetic": "/ˌɪntəˈrʌpt/",
+            "meaning": "打断"
+          },
+          {
+            "word": "realize",
+            "phonetic": "/ˈriːəlaɪz/",
+            "meaning": "意识到"
+          },
+          {
+            "word": "aware",
+            "phonetic": "/əˈwer/",
+            "meaning": "注意到的"
+          },
+          {
+            "word": "point out",
+            "phonetic": "/pɔɪnt aʊt/",
+            "meaning": "指出"
+          }
+        ]
+      },
+      {
+        "id": "sbs4_023",
+        "title": "Lesson 23: So Successful Was the Event",
+        "text_en": "So successful was the event that they're planning another one.\nThat's wonderful news!\nSo many people attended that it exceeded all expectations.\nHow many people came?\nOver five hundred people showed up.\nThat's amazing!",
+        "text_zh": "A：活动如此成功，以至于他们正在计划下一场。\nB：太好了！\nA：来了这么多人，超出了所有人的预期。\nB：来了多少人？\nA：超过五百人参加了。\nB：太惊人了！",
+        "vocabulary": [
+          {
+            "word": "so...that...",
+            "phonetic": "/soʊ ðæt/",
+            "meaning": "如此……以至于"
+          },
+          {
+            "word": "exceed",
+            "phonetic": "/ɪkˈsiːd/",
+            "meaning": "超过"
+          },
+          {
+            "word": "expectation",
+            "phonetic": "/ˌekspekˈteɪʃn/",
+            "meaning": "预期"
+          },
+          {
+            "word": "attended",
+            "phonetic": "/əˈtendɪd/",
+            "meaning": "参加"
+          }
+        ]
+      },
+      {
+        "id": "sbs4_024",
+        "title": "Lesson 24: It's High Time We Left",
+        "text_en": "It's high time we left for the airport.\nWhat time is our flight?\nBoarding starts at 3 PM.\nWe still have two hours.\nBetter to be early than late.\nOK, I'll grab my coat.",
+        "text_zh": "A：我们该去机场了。\nB：我们的航班几点？\nA：下午三点开始登机。\nB：我们还有两个小时。\nA：早到总比迟到好。\nB：好的，我拿外套。",
+        "vocabulary": [
+          {
+            "word": "it's high time",
+            "phonetic": "/ɪts haɪ taɪm/",
+            "meaning": "该做……的时候了"
+          },
+          {
+            "word": "boarding",
+            "phonetic": "/ˈbɔːrdɪŋ/",
+            "meaning": "登机"
+          },
+          {
+            "word": "airport",
+            "phonetic": "/ˈerpɔːrt/",
+            "meaning": "机场"
+          },
+          {
+            "word": "flight",
+            "phonetic": "/flaɪt/",
+            "meaning": "航班"
+          }
+        ]
+      },
+      {
+        "id": "sbs4_025",
+        "title": "Lesson 25: Were It Possible, I Would Visit",
+        "text_en": "Were it possible, I would visit every country in the world.\nThat would be an incredible journey.\nI've always dreamed of traveling extensively.\nWhat's stopping you?\nTime and money, as always.\nStart with one country and go from there.",
+        "text_zh": "A：如果可能的话，我会去世界上每个国家。\nB：那将是一段不可思议的旅程。\nA：我一直梦想着广泛旅行。\nB：什么阻止了你？\nA：时间和金钱，一如既往。\nB：先从一个国家开始，然后慢慢来。",
+        "vocabulary": [
+          {
+            "word": "were it possible",
+            "phonetic": "/wɜːr ɪt ˈpɒsəbl/",
+            "meaning": "如果可能"
+          },
+          {
+            "word": "incredible",
+            "phonetic": "/ɪnˈkredəbl/",
+            "meaning": "不可思议的"
+          },
+          {
+            "word": "dreamed",
+            "phonetic": "/driːmd/",
+            "meaning": "梦想"
+          },
+          {
+            "word": "extensively",
+            "phonetic": "/ɪkˈstensɪvli/",
+            "meaning": "广泛地"
+          }
+        ]
+      },
+      {
+        "id": "sbs4_026",
+        "title": "Lesson 26: It Wasn't Until Midnight That He Came Home",
+        "text_en": "It wasn't until midnight that he came home.\nWere you worried?\nOf course I was! He didn't call or text.\nDid he explain why he was late?\nHe said he lost track of time.\nAt least he's home safe.",
+        "text_zh": "A：他直到午夜才回家。\nB：你担心了吗？\nA：当然担心了！他既没打电话也没发短信。\nB：他解释为什么晚了吗？\nA：他说他忘了时间。\nB：至少他安全到家了。",
+        "vocabulary": [
+          {
+            "word": "wasn't until",
+            "phonetic": "/ˈwʌznt ʌnˈtɪl/",
+            "meaning": "直到……才"
+          },
+          {
+            "word": "midnight",
+            "phonetic": "/ˈmɪdnaɪt/",
+            "meaning": "午夜"
+          },
+          {
+            "word": "lost track",
+            "phonetic": "/lɒst træk/",
+            "meaning": "忘记"
+          },
+          {
+            "word": "safe",
+            "phonetic": "/seɪf/",
+            "meaning": "安全的"
+          }
+        ]
+      },
+      {
+        "id": "sbs4_027",
+        "title": "Lesson 27: I Insist That He Be Present",
+        "text_en": "I insist that he be present at the meeting.\nI'll make sure he's there.\nIt's crucial that everyone hear this.\nWhat's the topic?\nThe future direction of our company.\nI understand. I'll personally invite him.",
+        "text_zh": "A：我坚持他必须出席会议。\nB：我会确保他到场。\nA：每个人都必须听到这个很重要。\nB：什么主题？\nA：我们公司未来的方向。\nB：明白了。我会亲自邀请他。",
+        "vocabulary": [
+          {
+            "word": "insist",
+            "phonetic": "/ɪnˈsɪst/",
+            "meaning": "坚持"
+          },
+          {
+            "word": "present",
+            "phonetic": "/ˈpreznt/",
+            "meaning": "出席的"
+          },
+          {
+            "word": "crucial",
+            "phonetic": "/ˈkruːʃl/",
+            "meaning": "关键的"
+          },
+          {
+            "word": "direction",
+            "phonetic": "/dəˈrekʃn/",
+            "meaning": "方向"
+          }
+        ]
+      },
+      {
+        "id": "sbs4_028",
+        "title": "Lesson 28: Never Have I Felt So Alive",
+        "text_en": "Never have I felt so alive as when I'm on stage.\nPerforming must be an amazing feeling.\nIt's like flying. The energy from the crowd...\nI can only imagine.\nYou should try it sometime!\nI'm too shy to perform in front of people.",
+        "text_zh": "A：我从未像站在舞台上时感觉那么充满活力。\nB：表演一定是种很棒的体验。\nA：就像飞翔一样。观众的能量……\nB：我只能在心里想象。\nA：你应该找个机会试试！\nB：我太害羞了，不敢在人群前表演。",
+        "vocabulary": [
+          {
+            "word": "never have I",
+            "phonetic": "/ˈnevər hæv aɪ/",
+            "meaning": "我从未"
+          },
+          {
+            "word": "alive",
+            "phonetic": "/əˈlaɪv/",
+            "meaning": "有活力的"
+          },
+          {
+            "word": "stage",
+            "phonetic": "/steɪdʒ/",
+            "meaning": "舞台"
+          },
+          {
+            "word": "crowd",
+            "phonetic": "/kraʊd/",
+            "meaning": "人群"
+          }
+        ]
+      },
+      {
+        "id": "sbs4_029",
+        "title": "Lesson 29: But for Your Advice, I Would Have Quit",
+        "text_en": "But for your advice, I would have quit my job.\nI'm glad I could help.\nYou gave me a different perspective.\nSometimes we just need someone to talk to.\nThings are much better now.\nI'm happy to hear that.",
+        "text_zh": "A：要不是你的建议，我就辞职了。\nB：很高兴我能帮忙。\nA：你给了我不一样的视角。\nB：有时候我们只是需要找人说说话。\nA：现在情况好多了。\nB：很高兴听到这个。",
+        "vocabulary": [
+          {
+            "word": "but for",
+            "phonetic": "/bʌt fɔːr/",
+            "meaning": "要不是"
+          },
+          {
+            "word": "advice",
+            "phonetic": "/ədˈvaɪs/",
+            "meaning": "建议"
+          },
+          {
+            "word": "perspective",
+            "phonetic": "/pərˈspektɪv/",
+            "meaning": "视角"
+          },
+          {
+            "word": "quit",
+            "phonetic": "/kwɪt/",
+            "meaning": "辞职"
+          }
+        ]
+      },
+      {
+        "id": "sbs4_030",
+        "title": "Lesson 30: Rarely Does She Complain",
+        "text_en": "Rarely does she complain about anything.\nShe's a very patient person.\nI admire that quality about her.\nShe always looks on the bright side.\nHow does she stay so positive?\nShe practices gratitude every day.",
+        "text_zh": "A：她很少抱怨任何事情。\nB：她是一个很有耐心的人。\nA：我很欣赏她这个品质。\nB：她总是往好的方面看。\nA：她怎么能保持这么积极？\nB：她每天都练习感恩。",
+        "vocabulary": [
+          {
+            "word": "rarely",
+            "phonetic": "/ˈrerli/",
+            "meaning": "很少"
+          },
+          {
+            "word": "complain",
+            "phonetic": "/kəmˈpleɪn/",
+            "meaning": "抱怨"
+          },
+          {
+            "word": "admire",
+            "phonetic": "/ədˈmaɪər/",
+            "meaning": "钦佩"
+          },
+          {
+            "word": "positive",
+            "phonetic": "/ˈpɒzətɪv/",
+            "meaning": "积极的"
+          }
+        ]
+      },
+      {
+        "id": "sbs4_031",
+        "title": "Lesson 31: I'd Prefer It If You Didn't Smoke",
+        "text_en": "I'd prefer it if you didn't smoke in the house.\nOf course. I'll step outside.\nThank you. The smell stays for hours.\nI understand. It's not good for health anyway.\nHave you tried quitting?\nI've tried many times. It's not easy.",
+        "text_zh": "A：我更希望你不要在屋子里抽烟。\nB：当然。我出去抽。\nA：谢谢。烟味会残留好几个小时。\nB：我理解。而且对健康也不好。\nA：你试过戒烟吗？\nB：试过很多次。不容易。",
+        "vocabulary": [
+          {
+            "word": "would prefer",
+            "phonetic": "/wʊd prɪˈfɜːr/",
+            "meaning": "更喜欢"
+          },
+          {
+            "word": "smoke",
+            "phonetic": "/smoʊk/",
+            "meaning": "抽烟"
+          },
+          {
+            "word": "health",
+            "phonetic": "/helθ/",
+            "meaning": "健康"
+          },
+          {
+            "word": "quit",
+            "phonetic": "/kwɪt/",
+            "meaning": "戒掉"
+          }
+        ]
+      },
+      {
+        "id": "sbs4_032",
+        "title": "Lesson 32: Such Was Her Kindness That She Helped Everyone",
+        "text_en": "Such was her kindness that she helped everyone in need.\nShe was truly a remarkable person.\nShe never expected anything in return.\nThat's the purest form of kindness.\nI try to be more like her.\nThe world would be better with more people like her.",
+        "text_zh": "A：她如此善良，帮助了每一个需要帮助的人。\nB：她真是一个了不起的人。\nA：她从不求回报。\nB：那是最高尚的善良。\nA：我努力向她学习。\nB：世界上多一些像她这样的人会更好。",
+        "vocabulary": [
+          {
+            "word": "such was",
+            "phonetic": "/sʌtʃ wɒz/",
+            "meaning": "如此是（倒装）"
+          },
+          {
+            "word": "kindness",
+            "phonetic": "/ˈkaɪndnəs/",
+            "meaning": "善良"
+          },
+          {
+            "word": "remarkable",
+            "phonetic": "/rɪˈmɑːrkəbl/",
+            "meaning": "了不起的"
+          },
+          {
+            "word": "in return",
+            "phonetic": "/ɪn rɪˈtɜːrn/",
+            "meaning": "作为回报"
+          }
+        ]
+      },
+      {
+        "id": "sbs4_033",
+        "title": "Lesson 33: I Wish They Would Keep the Noise Down",
+        "text_en": "I wish they would keep the noise down.\nIt's almost midnight. I'll talk to them.\nI have an early meeting tomorrow.\nI understand. I'll ask them politely.\nThank you. I appreciate it.\nNo problem. We all need our sleep.",
+        "text_zh": "A：真希望他们能把噪音关小一点。\nB：都快午夜了。我去跟他们说。\nA：我明天早上有个会。\nB：我理解。我会礼貌地跟他们说。\nA：谢谢。感激不尽。\nB：没问题。我们都需要睡眠。",
+        "vocabulary": [
+          {
+            "word": "keep the noise down",
+            "phonetic": "/kiːp ðə nɔɪz daʊn/",
+            "meaning": "降低噪音"
+          },
+          {
+            "word": "politely",
+            "phonetic": "/pəˈlaɪtli/",
+            "meaning": "礼貌地"
+          },
+          {
+            "word": "midnight",
+            "phonetic": "/ˈmɪdnaɪt/",
+            "meaning": "午夜"
+          },
+          {
+            "word": "sleep",
+            "phonetic": "/sliːp/",
+            "meaning": "睡眠"
+          }
+        ]
+      },
+      {
+        "id": "sbs4_034",
+        "title": "Lesson 34: It Is Essential That the Report Be Ready",
+        "text_en": "It is essential that the report be ready by Friday.\nI'll make sure it's done.\nThe client is expecting it.\nWhat format should it be in?\nPDF format, with charts included.\nUnderstood. I'll prioritize this.",
+        "text_zh": "A：报告必须在周五前准备好。\nB：我会确保完成。\nA：客户在等着呢。\nB：应该用什么格式？\nA：PDF格式，包含图表。\nB：明白。我会优先处理。",
+        "vocabulary": [
+          {
+            "word": "be ready",
+            "phonetic": "/biː ˈredi/",
+            "meaning": "准备好"
+          },
+          {
+            "word": "format",
+            "phonetic": "/ˈfɔːrmæt/",
+            "meaning": "格式"
+          },
+          {
+            "word": "chart",
+            "phonetic": "/tʃɑːrt/",
+            "meaning": "图表"
+          },
+          {
+            "word": "prioritize",
+            "phonetic": "/praɪˈɒrətaɪz/",
+            "meaning": "优先处理"
+          }
+        ]
+      },
+      {
+        "id": "sbs4_035",
+        "title": "Lesson 35: No Matter How Hard I Try",
+        "text_en": "No matter how hard I try, I can't seem to get it right.\nDon't be so hard on yourself.\nBut I've practiced a hundred times!\nSometimes we need more time to learn.\nHow did you learn so quickly?\nI had a good teacher who was patient.",
+        "text_zh": "A：不管我多努力，似乎总是做不对。\nB：别对自己太苛刻了。\nA：但我已经练习了一百次了！\nB：有时候我们需要更多时间来学习。\nA：你怎么学得这么快？\nB：我有一个耐心好老师。",
+        "vocabulary": [
+          {
+            "word": "no matter how",
+            "phonetic": "/noʊ ˈmætər haʊ/",
+            "meaning": "不管怎样"
+          },
+          {
+            "word": "seem",
+            "phonetic": "/siːm/",
+            "meaning": "似乎"
+          },
+          {
+            "word": "patient",
+            "phonetic": "/ˈpeɪʃnt/",
+            "meaning": "耐心的"
+          },
+          {
+            "word": "quickly",
+            "phonetic": "/ˈkwɪkli/",
+            "meaning": "快速地"
+          }
+        ]
+      },
+      {
+        "id": "sbs4_036",
+        "title": "Lesson 36: Hardly Had We Sat Down When",
+        "text_en": "Hardly had we sat down when the fire alarm went off.\nThat must have been scary.\nEveryone had to evacuate the building.\nWas it a real fire?\nNo, it was a false alarm.\nAt least everyone was safe.",
+        "text_zh": "A：我们刚坐下，火警就响了。\nB：那一定很吓人。\nA：所有人都得疏散大楼。\nB：是真的火灾吗？\nA：不，是假警报。\nB：至少大家安全。",
+        "vocabulary": [
+          {
+            "word": "hardly...when...",
+            "phonetic": "/ˈhɑːrdli wen/",
+            "meaning": "刚……就……"
+          },
+          {
+            "word": "fire alarm",
+            "phonetic": "/ˈfaɪər əˈlɑːrm/",
+            "meaning": "火警"
+          },
+          {
+            "word": "evacuate",
+            "phonetic": "/ɪˈvækjueɪt/",
+            "meaning": "疏散"
+          },
+          {
+            "word": "false alarm",
+            "phonetic": "/fɔːls əˈlɑːrm/",
+            "meaning": "假警报"
+          }
+        ]
+      },
+      {
+        "id": "sbs4_037",
+        "title": "Lesson 37: It's Unacceptable That He Behave Like That",
+        "text_en": "It's unacceptable that he behave like that in public.\nI agree. It was very embarrassing.\nSomeone should talk to him.\nI think he doesn't realize how he comes across.\nHe needs to learn some manners.\nI'll have a word with him privately.",
+        "text_zh": "A：他在公共场合那样表现是不可接受的。\nB：我同意。非常尴尬。\nA：应该有人找他谈谈。\nB：我想他没意识到自己给别人留下的印象。\nA：他需要学些礼貌。\nB：我会私下跟他说说。",
+        "vocabulary": [
+          {
+            "word": "unacceptable",
+            "phonetic": "/ˌʌnəkˈseptəbl/",
+            "meaning": "不可接受的"
+          },
+          {
+            "word": "behave",
+            "phonetic": "/bɪˈheɪv/",
+            "meaning": "表现"
+          },
+          {
+            "word": "manners",
+            "phonetic": "/ˈmænərz/",
+            "meaning": "礼貌"
+          },
+          {
+            "word": "privately",
+            "phonetic": "/ˈpraɪvətli/",
+            "meaning": "私下地"
+          }
+        ]
+      },
+      {
+        "id": "sbs4_038",
+        "title": "Lesson 38: Seldom Do We See Such Talent",
+        "text_en": "Seldom do we see such talent in young performers.\nShe has a bright future ahead.\nHer voice is extraordinary.\nShe has been training since she was six.\nHard work combined with natural talent.\nThat's a winning combination.",
+        "text_zh": "A：我们很少在年轻表演者身上看到这样的才华。\nB：她前途光明。\nA：她的声音非凡。\nB：她从六岁就开始训练了。\nA：努力加上天赋。\nB：这是一个必胜组合。",
+        "vocabulary": [
+          {
+            "word": "seldom",
+            "phonetic": "/ˈseldəm/",
+            "meaning": "很少"
+          },
+          {
+            "word": "talent",
+            "phonetic": "/ˈtælənt/",
+            "meaning": "才华"
+          },
+          {
+            "word": "extraordinary",
+            "phonetic": "/ɪkˈstrɔːrdəneri/",
+            "meaning": "非凡的"
+          },
+          {
+            "word": "combination",
+            "phonetic": "/ˌkɒmbɪˈneɪʃn/",
+            "meaning": "组合"
+          }
+        ]
+      },
+      {
+        "id": "sbs4_039",
+        "title": "Lesson 39: I'd Rather Not Have Gone",
+        "text_en": "How was the concert?\nI'd rather not have gone.\nThat bad?\nThe sound was terrible and it was overcrowded.\nThat's a shame. You were so excited.\nSometimes expectations don't match reality.",
+        "text_zh": "A：音乐会怎么样？\nB：我宁愿没去。\nA：有那么糟吗？\nB：音响效果很差，人又太多。\nA：真可惜。你之前那么期待。\nB：有时候期望和现实不符。",
+        "vocabulary": [
+          {
+            "word": "would rather not have",
+            "phonetic": "/wʊd ˈræðər nɒt hæv/",
+            "meaning": "宁愿没做"
+          },
+          {
+            "word": "terrible",
+            "phonetic": "/ˈterəbl/",
+            "meaning": "糟糕的"
+          },
+          {
+            "word": "overcrowded",
+            "phonetic": "/ˌoʊvərˈkraʊdɪd/",
+            "meaning": "过于拥挤的"
+          },
+          {
+            "word": "expectation",
+            "phonetic": "/ˌekspekˈteɪʃn/",
+            "meaning": "期望"
+          }
+        ]
+      },
+      {
+        "id": "sbs4_040",
+        "title": "Lesson 40: Only by Working Hard Can You Succeed",
+        "text_en": "Only by working hard can you succeed.\nThat's what my parents always tell me.\nThey're right. There are no shortcuts.\nI know. I've been studying every day.\nKeep it up and you'll achieve your goals.\nThank you for the encouragement.",
+        "text_zh": "A：只有通过努力工作才能成功。\nB：我父母总是这样告诉我。\nA：他们说得对。没有捷径。\nB：我知道。我每天都在学习。\nA：坚持下去，你会实现目标的。\nB：谢谢你的鼓励。",
+        "vocabulary": [
+          {
+            "word": "only by",
+            "phonetic": "/ˈoʊnli baɪ/",
+            "meaning": "只有通过"
+          },
+          {
+            "word": "succeed",
+            "phonetic": "/səkˈsiːd/",
+            "meaning": "成功"
+          },
+          {
+            "word": "shortcut",
+            "phonetic": "/ˈʃɔːrtkʌt/",
+            "meaning": "捷径"
+          },
+          {
+            "word": "encouragement",
+            "phonetic": "/ɪnˈkɜːrɪdʒmənt/",
+            "meaning": "鼓励"
+          }
+        ]
+      },
+      {
+        "id": "sbs4_041",
+        "title": "Lesson 41: I Wish You Had Told Me Earlier",
+        "text_en": "I wish you had told me earlier about the problem.\nI didn't want to worry you.\nNow it's become a bigger issue.\nI'm sorry. I should have spoken up.\nNext time, please tell me right away.\nI will. I've learned my lesson.",
+        "text_zh": "A：我真希望你能早点告诉我这个问。\nB：我不想让你担心。\nA：现在问题变得更大了。\nB：对不起。我本应该说出来的。\nA：下次请马上告诉我。\nB：我会的。我吸取教训了。",
+        "vocabulary": [
+          {
+            "word": "wish you had told",
+            "phonetic": "/wɪʃ juː hæd toʊld/",
+            "meaning": "希望你早告诉"
+          },
+          {
+            "word": "issue",
+            "phonetic": "/ˈɪʃuː/",
+            "meaning": "问题"
+          },
+          {
+            "word": "speak up",
+            "phonetic": "/spiːk ʌp/",
+            "meaning": "说出来"
+          },
+          {
+            "word": "right away",
+            "phonetic": "/raɪt əˈweɪ/",
+            "meaning": "立刻"
+          }
+        ]
+      },
+      {
+        "id": "sbs4_042",
+        "title": "Lesson 42: So Absorbed Was She in Her Book",
+        "text_en": "So absorbed was she in her book that she didn't hear me call.\nThat must be a really good book.\nIt's a mystery novel. She couldn't put it down.\nI love books like that.\nWhat kind of books do you like?\nI prefer biographies.",
+        "text_zh": "A：她如此沉浸在她的书中，以至于没听到我喊她。\nB：那一定是一本非常好的书。\nA：那是一部悬疑小说。她爱不释手。\nB：我喜欢那样的书。\nA：你喜欢什么类型的书？\nB：我更喜欢传记。",
+        "vocabulary": [
+          {
+            "word": "so absorbed",
+            "phonetic": "/soʊ əbˈzɔːrbd/",
+            "meaning": "如此专注"
+          },
+          {
+            "word": "mystery",
+            "phonetic": "/ˈmɪstəri/",
+            "meaning": "悬疑"
+          },
+          {
+            "word": "novel",
+            "phonetic": "/ˈnɒvl/",
+            "meaning": "小说"
+          },
+          {
+            "word": "biography",
+            "phonetic": "/baɪˈɒɡrəfi/",
+            "meaning": "传记"
+          }
+        ]
+      },
+      {
+        "id": "sbs4_043",
+        "title": "Lesson 43: I Move That the Meeting Be Adjourned",
+        "text_en": "I move that the meeting be adjourned until tomorrow.\nI second the motion.\nAll in favor, say aye.\nAye!\nThe motion is carried. We'll reconvene at 9 AM tomorrow.\nThank you everyone for your time.",
+        "text_zh": "A：我提议会议暂停，明天继续。\nB：我附议。\nA：赞成的请说「是」。\n所有人：是！\nA：动议通过。我们明天早上九点再开会。\nB：感谢大家的时间。",
+        "vocabulary": [
+          {
+            "word": "move that",
+            "phonetic": "/muːv ðæt/",
+            "meaning": "提议"
+          },
+          {
+            "word": "adjourn",
+            "phonetic": "/əˈdʒɜːrn/",
+            "meaning": "休会"
+          },
+          {
+            "word": "motion",
+            "phonetic": "/ˈmoʊʃn/",
+            "meaning": "动议"
+          },
+          {
+            "word": "reconvene",
+            "phonetic": "/ˌriːkənˈviːn/",
+            "meaning": "再开会"
+          }
+        ]
+      },
+      {
+        "id": "sbs4_044",
+        "title": "Lesson 44: Nowhere Else Can You Find Such Beauty",
+        "text_en": "Nowhere else can you find such natural beauty.\nThis place is truly breathtaking.\nThe mountains, the lake, the forest...\nIt's like a painting come to life.\nI could stay here forever.\nLet's take a picture to remember this moment.",
+        "text_zh": "A：你在别处找不到如此的自然美景。\nB：这个地方真是令人叹为观止。\nA：山、湖、森林……\nB：就像一幅活过来的画。\nA：我可以永远待在这里。\nB：我们拍张照片记住这一刻吧。",
+        "vocabulary": [
+          {
+            "word": "nowhere else",
+            "phonetic": "/ˈnoʊwer els/",
+            "meaning": "别处没有"
+          },
+          {
+            "word": "breathtaking",
+            "phonetic": "/ˈbreθteɪkɪŋ/",
+            "meaning": "令人叹为观止的"
+          },
+          {
+            "word": "forest",
+            "phonetic": "/ˈfɒrɪst/",
+            "meaning": "森林"
+          },
+          {
+            "word": "moment",
+            "phonetic": "/ˈmoʊmənt/",
+            "meaning": "时刻"
+          }
+        ]
+      },
+      {
+        "id": "sbs4_045",
+        "title": "Lesson 45: I Suggest That We Take a Different Approach",
+        "text_en": "I suggest that we take a different approach to this problem.\nWhat do you have in mind?\nInstead of working separately, let's collaborate.\nThat could be more efficient.\nWe can each focus on our strengths.\nI agree. Let's try it your way.",
+        "text_zh": "A：我建议我们对这个问题采取不同的方法。\nB：你有什么想法？\nA：与其单独工作，不如合作。\nB：这样可能更有效率。\nA：我们可以各自发挥优势。\nB：我同意。就按你的办法试试。",
+        "vocabulary": [
+          {
+            "word": "suggest that",
+            "phonetic": "/səˈdʒest ðæt/",
+            "meaning": "建议"
+          },
+          {
+            "word": "approach",
+            "phonetic": "/əˈproʊtʃ/",
+            "meaning": "方法"
+          },
+          {
+            "word": "collaborate",
+            "phonetic": "/kəˈlæbəreɪt/",
+            "meaning": "合作"
+          },
+          {
+            "word": "efficient",
+            "phonetic": "/ɪˈfɪʃnt/",
+            "meaning": "高效的"
+          }
+        ]
+      },
+      {
+        "id": "sbs4_046",
+        "title": "Lesson 46: The Importance of Education Cannot Be Overstated",
+        "text_en": "The importance of education cannot be overstated.\nI couldn't agree more.\nIt opens doors that nothing else can.\nThat's why I encourage my children to study hard.\nKnowledge is power, as they say.\nAnd it's something no one can take from you.",
+        "text_zh": "A：教育的重要性怎么强调都不为过。\nB：我完全同意。\nA：它能打开其他任何东西都打不开的门。\nB：所以我鼓励我的孩子们努力学习。\nA：知识就是力量，常言道。\nB：而且这是没人能从你身上夺走的。",
+        "vocabulary": [
+          {
+            "word": "cannot be overstated",
+            "phonetic": "/ˈkænɒt biː ˌoʊvərˈsteɪtɪd/",
+            "meaning": "怎么强调都不为过"
+          },
+          {
+            "word": "education",
+            "phonetic": "/ˌedʒuˈkeɪʃn/",
+            "meaning": "教育"
+          },
+          {
+            "word": "knowledge",
+            "phonetic": "/ˈnɒlɪdʒ/",
+            "meaning": "知识"
+          },
+          {
+            "word": "encourage",
+            "phonetic": "/ɪnˈkɜːrɪdʒ/",
+            "meaning": "鼓励"
+          }
+        ]
+      },
+      {
+        "id": "sbs4_047",
+        "title": "Lesson 47: Only When I Lost It Did I Appreciate It",
+        "text_en": "Only when I lost it did I appreciate what I had.\nThat's often how it works.\nI took my health for granted.\nWe all do, until something happens.\nNow I exercise every day and eat well.\nThat's a valuable lesson to learn.",
+        "text_zh": "A：只有当我失去时，我才懂得珍惜。\nB：事情往往是这样。\nA：我以前把健康视为理所当然。\nB：我们都这样，直到出问题。\nA：现在我每天锻炼，吃得很健康。\nB：这是宝贵的一课。",
+        "vocabulary": [
+          {
+            "word": "only when",
+            "phonetic": "/ˈoʊnli wen/",
+            "meaning": "只有当"
+          },
+          {
+            "word": "appreciate",
+            "phonetic": "/əˈpriːʃieɪt/",
+            "meaning": "珍惜"
+          },
+          {
+            "word": "for granted",
+            "phonetic": "/fɔːr ˈɡræntɪd/",
+            "meaning": "理所当然"
+          },
+          {
+            "word": "health",
+            "phonetic": "/helθ/",
+            "meaning": "健康"
+          }
+        ]
+      },
+      {
+        "id": "sbs4_048",
+        "title": "Lesson 48: It Is Crucial That the Data Be Accurate",
+        "text_en": "It is crucial that the data be accurate.\nI've double-checked everything.\nEven small errors can have big consequences.\nI understand the importance.\nWhen will the analysis be complete?\nBy the end of the day.",
+        "text_zh": "A：数据必须准确，这一点至关重要。\nB：我已经反复核对过了。\nA：即使是小错误也可能导致大后果。\nB：我理解其重要性。\nA：分析什么时候完成？\nB：今天结束前。",
+        "vocabulary": [
+          {
+            "word": "crucial",
+            "phonetic": "/ˈkruːʃl/",
+            "meaning": "至关重要的"
+          },
+          {
+            "word": "accurate",
+            "phonetic": "/ˈækjərət/",
+            "meaning": "准确的"
+          },
+          {
+            "word": "consequence",
+            "phonetic": "/ˈkɑːnsɪkwens/",
+            "meaning": "后果"
+          },
+          {
+            "word": "analysis",
+            "phonetic": "/əˈnæləsɪs/",
+            "meaning": "分析"
+          }
+        ]
+      },
+      {
+        "id": "sbs4_049",
+        "title": "Lesson 49: In No Way Am I Blaming You",
+        "text_en": "In no way am I blaming you for what happened.\nBut I feel responsible.\nIt was an accident. No one could have predicted it.\nStill, I wish I had done things differently.\nLearn from it and move on.\nYou're right. Thank you for being understanding.",
+        "text_zh": "A：我绝不是怪你。\nB：但我感觉有责任。\nA：那是个意外。没人能预料到。\nB：但我还是希望我当时做得不一样。\nA：从中学习，继续前行。\nB：你说得对。谢谢你这么理解。",
+        "vocabulary": [
+          {
+            "word": "in no way",
+            "phonetic": "/ɪn noʊ weɪ/",
+            "meaning": "绝不"
+          },
+          {
+            "word": "blame",
+            "phonetic": "/bleɪm/",
+            "meaning": "责怪"
+          },
+          {
+            "word": "responsible",
+            "phonetic": "/rɪˈspɒnsəbl/",
+            "meaning": "负责任的"
+          },
+          {
+            "word": "predict",
+            "phonetic": "/prɪˈdɪkt/",
+            "meaning": "预测"
+          }
+        ]
+      },
+      {
+        "id": "sbs4_050",
+        "title": "Lesson 50: Never in My Life Have I Been So Proud",
+        "text_en": "Never in my life have I been so proud.\nYour speech was absolutely inspiring.\nThank you. I was so nervous up there.\nYou couldn't tell at all. You were amazing.\nAll those hours of practice paid off.\nThis is just the beginning of great things for you.",
+        "text_zh": "A：我一生中从未如此自豪过。\nB：你的演讲非常鼓舞人心。\nA：谢谢。我在台上紧张极了。\nB：完全看不出来。你太棒了。\nA：那么多小时的练习没有白费。\nB：这仅仅是你伟大事业的开始。",
+        "vocabulary": [
+          {
+            "word": "never in my life",
+            "phonetic": "/ˈnevər ɪn maɪ laɪf/",
+            "meaning": "一生从未"
+          },
+          {
+            "word": "proud",
+            "phonetic": "/praʊd/",
+            "meaning": "自豪的"
+          },
+          {
+            "word": "inspiring",
+            "phonetic": "/ɪnˈspaɪrɪŋ/",
+            "meaning": "鼓舞人心的"
+          },
+          {
+            "word": "paid off",
+            "phonetic": "/peɪd ɒf/",
+            "meaning": "得到了回报"
+          }
+        ]
+      }
+    ]
+  }
+}

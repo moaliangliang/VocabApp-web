@@ -1,0 +1,388 @@
+{
+  "" : {
+    "diagnostics" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/VocabApp-master.dia",
+    "emit-module-dependencies" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/VocabApp-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/VocabApp-master-emit-module.dia",
+    "swift-dependencies" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/VocabApp-master.swiftdeps"
+  },
+  "/Users/maoliangliang/workspace/app/VocabApp/App/VocabApp.swift" : {
+    "const-values" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/VocabApp.swiftconstvalues",
+    "dependencies" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/VocabApp.d",
+    "diagnostics" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/VocabApp.dia",
+    "index-unit-output-path" : "/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/VocabApp.o",
+    "llvm-bc" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/VocabApp.bc",
+    "object" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/VocabApp.o",
+    "swift-dependencies" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/VocabApp.swiftdeps",
+    "swiftmodule" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/VocabApp~partial.swiftmodule"
+  },
+  "/Users/maoliangliang/workspace/app/VocabApp/Models/Course.swift" : {
+    "const-values" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/Course.swiftconstvalues",
+    "dependencies" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/Course.d",
+    "diagnostics" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/Course.dia",
+    "index-unit-output-path" : "/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/Course.o",
+    "llvm-bc" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/Course.bc",
+    "object" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/Course.o",
+    "swift-dependencies" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/Course.swiftdeps",
+    "swiftmodule" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/Course~partial.swiftmodule"
+  },
+  "/Users/maoliangliang/workspace/app/VocabApp/Models/CourseModels.swift" : {
+    "const-values" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/CourseModels.swiftconstvalues",
+    "dependencies" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/CourseModels.d",
+    "diagnostics" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/CourseModels.dia",
+    "index-unit-output-path" : "/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/CourseModels.o",
+    "llvm-bc" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/CourseModels.bc",
+    "object" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/CourseModels.o",
+    "swift-dependencies" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/CourseModels.swiftdeps",
+    "swiftmodule" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/CourseModels~partial.swiftmodule"
+  },
+  "/Users/maoliangliang/workspace/app/VocabApp/Models/DailyLog.swift" : {
+    "const-values" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/DailyLog.swiftconstvalues",
+    "dependencies" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/DailyLog.d",
+    "diagnostics" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/DailyLog.dia",
+    "index-unit-output-path" : "/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/DailyLog.o",
+    "llvm-bc" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/DailyLog.bc",
+    "object" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/DailyLog.o",
+    "swift-dependencies" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/DailyLog.swiftdeps",
+    "swiftmodule" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/DailyLog~partial.swiftmodule"
+  },
+  "/Users/maoliangliang/workspace/app/VocabApp/Models/LearningRecord.swift" : {
+    "const-values" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/LearningRecord.swiftconstvalues",
+    "dependencies" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/LearningRecord.d",
+    "diagnostics" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/LearningRecord.dia",
+    "index-unit-output-path" : "/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/LearningRecord.o",
+    "llvm-bc" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/LearningRecord.bc",
+    "object" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/LearningRecord.o",
+    "swift-dependencies" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/LearningRecord.swiftdeps",
+    "swiftmodule" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/LearningRecord~partial.swiftmodule"
+  },
+  "/Users/maoliangliang/workspace/app/VocabApp/Models/PurchaseRecord.swift" : {
+    "const-values" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/PurchaseRecord.swiftconstvalues",
+    "dependencies" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/PurchaseRecord.d",
+    "diagnostics" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/PurchaseRecord.dia",
+    "index-unit-output-path" : "/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/PurchaseRecord.o",
+    "llvm-bc" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/PurchaseRecord.bc",
+    "object" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/PurchaseRecord.o",
+    "swift-dependencies" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/PurchaseRecord.swiftdeps",
+    "swiftmodule" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/PurchaseRecord~partial.swiftmodule"
+  },
+  "/Users/maoliangliang/workspace/app/VocabApp/Models/Word.swift" : {
+    "const-values" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/Word.swiftconstvalues",
+    "dependencies" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/Word.d",
+    "diagnostics" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/Word.dia",
+    "index-unit-output-path" : "/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/Word.o",
+    "llvm-bc" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/Word.bc",
+    "object" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/Word.o",
+    "swift-dependencies" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/Word.swiftdeps",
+    "swiftmodule" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/Word~partial.swiftmodule"
+  },
+  "/Users/maoliangliang/workspace/app/VocabApp/Services/MemoryTipService.swift" : {
+    "const-values" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/MemoryTipService.swiftconstvalues",
+    "dependencies" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/MemoryTipService.d",
+    "diagnostics" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/MemoryTipService.dia",
+    "index-unit-output-path" : "/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/MemoryTipService.o",
+    "llvm-bc" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/MemoryTipService.bc",
+    "object" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/MemoryTipService.o",
+    "swift-dependencies" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/MemoryTipService.swiftdeps",
+    "swiftmodule" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/MemoryTipService~partial.swiftmodule"
+  },
+  "/Users/maoliangliang/workspace/app/VocabApp/Services/ReviewScheduler.swift" : {
+    "const-values" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/ReviewScheduler.swiftconstvalues",
+    "dependencies" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/ReviewScheduler.d",
+    "diagnostics" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/ReviewScheduler.dia",
+    "index-unit-output-path" : "/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/ReviewScheduler.o",
+    "llvm-bc" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/ReviewScheduler.bc",
+    "object" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/ReviewScheduler.o",
+    "swift-dependencies" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/ReviewScheduler.swiftdeps",
+    "swiftmodule" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/ReviewScheduler~partial.swiftmodule"
+  },
+  "/Users/maoliangliang/workspace/app/VocabApp/Services/SM2Engine.swift" : {
+    "const-values" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/SM2Engine.swiftconstvalues",
+    "dependencies" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/SM2Engine.d",
+    "diagnostics" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/SM2Engine.dia",
+    "index-unit-output-path" : "/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/SM2Engine.o",
+    "llvm-bc" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/SM2Engine.bc",
+    "object" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/SM2Engine.o",
+    "swift-dependencies" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/SM2Engine.swiftdeps",
+    "swiftmodule" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/SM2Engine~partial.swiftmodule"
+  },
+  "/Users/maoliangliang/workspace/app/VocabApp/Services/SpeechRecognizerService.swift" : {
+    "const-values" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/SpeechRecognizerService.swiftconstvalues",
+    "dependencies" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/SpeechRecognizerService.d",
+    "diagnostics" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/SpeechRecognizerService.dia",
+    "index-unit-output-path" : "/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/SpeechRecognizerService.o",
+    "llvm-bc" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/SpeechRecognizerService.bc",
+    "object" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/SpeechRecognizerService.o",
+    "swift-dependencies" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/SpeechRecognizerService.swiftdeps",
+    "swiftmodule" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/SpeechRecognizerService~partial.swiftmodule"
+  },
+  "/Users/maoliangliang/workspace/app/VocabApp/Services/StoreManager.swift" : {
+    "const-values" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/StoreManager.swiftconstvalues",
+    "dependencies" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/StoreManager.d",
+    "diagnostics" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/StoreManager.dia",
+    "index-unit-output-path" : "/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/StoreManager.o",
+    "llvm-bc" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/StoreManager.bc",
+    "object" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/StoreManager.o",
+    "swift-dependencies" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/StoreManager.swiftdeps",
+    "swiftmodule" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/StoreManager~partial.swiftmodule"
+  },
+  "/Users/maoliangliang/workspace/app/VocabApp/Services/StreakManager.swift" : {
+    "const-values" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/StreakManager.swiftconstvalues",
+    "dependencies" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/StreakManager.d",
+    "diagnostics" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/StreakManager.dia",
+    "index-unit-output-path" : "/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/StreakManager.o",
+    "llvm-bc" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/StreakManager.bc",
+    "object" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/StreakManager.o",
+    "swift-dependencies" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/StreakManager.swiftdeps",
+    "swiftmodule" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/StreakManager~partial.swiftmodule"
+  },
+  "/Users/maoliangliang/workspace/app/VocabApp/Services/TTSManager.swift" : {
+    "const-values" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/TTSManager.swiftconstvalues",
+    "dependencies" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/TTSManager.d",
+    "diagnostics" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/TTSManager.dia",
+    "index-unit-output-path" : "/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/TTSManager.o",
+    "llvm-bc" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/TTSManager.bc",
+    "object" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/TTSManager.o",
+    "swift-dependencies" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/TTSManager.swiftdeps",
+    "swiftmodule" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/TTSManager~partial.swiftmodule"
+  },
+  "/Users/maoliangliang/workspace/app/VocabApp/Services/TTSPlayer.swift" : {
+    "const-values" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/TTSPlayer.swiftconstvalues",
+    "dependencies" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/TTSPlayer.d",
+    "diagnostics" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/TTSPlayer.dia",
+    "index-unit-output-path" : "/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/TTSPlayer.o",
+    "llvm-bc" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/TTSPlayer.bc",
+    "object" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/TTSPlayer.o",
+    "swift-dependencies" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/TTSPlayer.swiftdeps",
+    "swiftmodule" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/TTSPlayer~partial.swiftmodule"
+  },
+  "/Users/maoliangliang/workspace/app/VocabApp/Services/WordBankLoader.swift" : {
+    "const-values" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/WordBankLoader.swiftconstvalues",
+    "dependencies" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/WordBankLoader.d",
+    "diagnostics" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/WordBankLoader.dia",
+    "index-unit-output-path" : "/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/WordBankLoader.o",
+    "llvm-bc" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/WordBankLoader.bc",
+    "object" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/WordBankLoader.o",
+    "swift-dependencies" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/WordBankLoader.swiftdeps",
+    "swiftmodule" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/WordBankLoader~partial.swiftmodule"
+  },
+  "/Users/maoliangliang/workspace/app/VocabApp/Utilities/Constants.swift" : {
+    "const-values" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/Constants.swiftconstvalues",
+    "dependencies" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/Constants.d",
+    "diagnostics" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/Constants.dia",
+    "index-unit-output-path" : "/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/Constants.o",
+    "llvm-bc" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/Constants.bc",
+    "object" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/Constants.o",
+    "swift-dependencies" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/Constants.swiftdeps",
+    "swiftmodule" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/Constants~partial.swiftmodule"
+  },
+  "/Users/maoliangliang/workspace/app/VocabApp/Utilities/View+Extensions.swift" : {
+    "const-values" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/View+Extensions.swiftconstvalues",
+    "dependencies" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/View+Extensions.d",
+    "diagnostics" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/View+Extensions.dia",
+    "index-unit-output-path" : "/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/View+Extensions.o",
+    "llvm-bc" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/View+Extensions.bc",
+    "object" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/View+Extensions.o",
+    "swift-dependencies" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/View+Extensions.swiftdeps",
+    "swiftmodule" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/View+Extensions~partial.swiftmodule"
+  },
+  "/Users/maoliangliang/workspace/app/VocabApp/ViewModels/DashboardViewModel.swift" : {
+    "const-values" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/DashboardViewModel.swiftconstvalues",
+    "dependencies" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/DashboardViewModel.d",
+    "diagnostics" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/DashboardViewModel.dia",
+    "index-unit-output-path" : "/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/DashboardViewModel.o",
+    "llvm-bc" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/DashboardViewModel.bc",
+    "object" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/DashboardViewModel.o",
+    "swift-dependencies" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/DashboardViewModel.swiftdeps",
+    "swiftmodule" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/DashboardViewModel~partial.swiftmodule"
+  },
+  "/Users/maoliangliang/workspace/app/VocabApp/ViewModels/LearningViewModel.swift" : {
+    "const-values" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/LearningViewModel.swiftconstvalues",
+    "dependencies" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/LearningViewModel.d",
+    "diagnostics" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/LearningViewModel.dia",
+    "index-unit-output-path" : "/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/LearningViewModel.o",
+    "llvm-bc" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/LearningViewModel.bc",
+    "object" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/LearningViewModel.o",
+    "swift-dependencies" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/LearningViewModel.swiftdeps",
+    "swiftmodule" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/LearningViewModel~partial.swiftmodule"
+  },
+  "/Users/maoliangliang/workspace/app/VocabApp/ViewModels/StoreViewModel.swift" : {
+    "const-values" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/StoreViewModel.swiftconstvalues",
+    "dependencies" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/StoreViewModel.d",
+    "diagnostics" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/StoreViewModel.dia",
+    "index-unit-output-path" : "/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/StoreViewModel.o",
+    "llvm-bc" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/StoreViewModel.bc",
+    "object" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/StoreViewModel.o",
+    "swift-dependencies" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/StoreViewModel.swiftdeps",
+    "swiftmodule" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/StoreViewModel~partial.swiftmodule"
+  },
+  "/Users/maoliangliang/workspace/app/VocabApp/Views/Courses/CourseListView.swift" : {
+    "const-values" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/CourseListView.swiftconstvalues",
+    "dependencies" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/CourseListView.d",
+    "diagnostics" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/CourseListView.dia",
+    "index-unit-output-path" : "/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/CourseListView.o",
+    "llvm-bc" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/CourseListView.bc",
+    "object" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/CourseListView.o",
+    "swift-dependencies" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/CourseListView.swiftdeps",
+    "swiftmodule" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/CourseListView~partial.swiftmodule"
+  },
+  "/Users/maoliangliang/workspace/app/VocabApp/Views/Courses/DialogPracticeView.swift" : {
+    "const-values" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/DialogPracticeView.swiftconstvalues",
+    "dependencies" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/DialogPracticeView.d",
+    "diagnostics" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/DialogPracticeView.dia",
+    "index-unit-output-path" : "/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/DialogPracticeView.o",
+    "llvm-bc" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/DialogPracticeView.bc",
+    "object" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/DialogPracticeView.o",
+    "swift-dependencies" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/DialogPracticeView.swiftdeps",
+    "swiftmodule" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/DialogPracticeView~partial.swiftmodule"
+  },
+  "/Users/maoliangliang/workspace/app/VocabApp/Views/Courses/LessonView.swift" : {
+    "const-values" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/LessonView.swiftconstvalues",
+    "dependencies" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/LessonView.d",
+    "diagnostics" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/LessonView.dia",
+    "index-unit-output-path" : "/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/LessonView.o",
+    "llvm-bc" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/LessonView.bc",
+    "object" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/LessonView.o",
+    "swift-dependencies" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/LessonView.swiftdeps",
+    "swiftmodule" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/LessonView~partial.swiftmodule"
+  },
+  "/Users/maoliangliang/workspace/app/VocabApp/Views/Dashboard/CalendarView.swift" : {
+    "const-values" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/CalendarView.swiftconstvalues",
+    "dependencies" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/CalendarView.d",
+    "diagnostics" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/CalendarView.dia",
+    "index-unit-output-path" : "/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/CalendarView.o",
+    "llvm-bc" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/CalendarView.bc",
+    "object" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/CalendarView.o",
+    "swift-dependencies" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/CalendarView.swiftdeps",
+    "swiftmodule" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/CalendarView~partial.swiftmodule"
+  },
+  "/Users/maoliangliang/workspace/app/VocabApp/Views/Dashboard/DashboardView.swift" : {
+    "const-values" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/DashboardView.swiftconstvalues",
+    "dependencies" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/DashboardView.d",
+    "diagnostics" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/DashboardView.dia",
+    "index-unit-output-path" : "/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/DashboardView.o",
+    "llvm-bc" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/DashboardView.bc",
+    "object" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/DashboardView.o",
+    "swift-dependencies" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/DashboardView.swiftdeps",
+    "swiftmodule" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/DashboardView~partial.swiftmodule"
+  },
+  "/Users/maoliangliang/workspace/app/VocabApp/Views/Dashboard/ProgressCharts.swift" : {
+    "const-values" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/ProgressCharts.swiftconstvalues",
+    "dependencies" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/ProgressCharts.d",
+    "diagnostics" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/ProgressCharts.dia",
+    "index-unit-output-path" : "/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/ProgressCharts.o",
+    "llvm-bc" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/ProgressCharts.bc",
+    "object" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/ProgressCharts.o",
+    "swift-dependencies" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/ProgressCharts.swiftdeps",
+    "swiftmodule" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/ProgressCharts~partial.swiftmodule"
+  },
+  "/Users/maoliangliang/workspace/app/VocabApp/Views/Learning/CardFlipView.swift" : {
+    "const-values" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/CardFlipView.swiftconstvalues",
+    "dependencies" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/CardFlipView.d",
+    "diagnostics" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/CardFlipView.dia",
+    "index-unit-output-path" : "/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/CardFlipView.o",
+    "llvm-bc" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/CardFlipView.bc",
+    "object" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/CardFlipView.o",
+    "swift-dependencies" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/CardFlipView.swiftdeps",
+    "swiftmodule" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/CardFlipView~partial.swiftmodule"
+  },
+  "/Users/maoliangliang/workspace/app/VocabApp/Views/Learning/ChoiceQuizView.swift" : {
+    "const-values" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/ChoiceQuizView.swiftconstvalues",
+    "dependencies" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/ChoiceQuizView.d",
+    "diagnostics" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/ChoiceQuizView.dia",
+    "index-unit-output-path" : "/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/ChoiceQuizView.o",
+    "llvm-bc" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/ChoiceQuizView.bc",
+    "object" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/ChoiceQuizView.o",
+    "swift-dependencies" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/ChoiceQuizView.swiftdeps",
+    "swiftmodule" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/ChoiceQuizView~partial.swiftmodule"
+  },
+  "/Users/maoliangliang/workspace/app/VocabApp/Views/Learning/LearningHomeView.swift" : {
+    "const-values" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/LearningHomeView.swiftconstvalues",
+    "dependencies" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/LearningHomeView.d",
+    "diagnostics" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/LearningHomeView.dia",
+    "index-unit-output-path" : "/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/LearningHomeView.o",
+    "llvm-bc" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/LearningHomeView.bc",
+    "object" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/LearningHomeView.o",
+    "swift-dependencies" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/LearningHomeView.swiftdeps",
+    "swiftmodule" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/LearningHomeView~partial.swiftmodule"
+  },
+  "/Users/maoliangliang/workspace/app/VocabApp/Views/Learning/SpellingView.swift" : {
+    "const-values" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/SpellingView.swiftconstvalues",
+    "dependencies" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/SpellingView.d",
+    "diagnostics" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/SpellingView.dia",
+    "index-unit-output-path" : "/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/SpellingView.o",
+    "llvm-bc" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/SpellingView.bc",
+    "object" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/SpellingView.o",
+    "swift-dependencies" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/SpellingView.swiftdeps",
+    "swiftmodule" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/SpellingView~partial.swiftmodule"
+  },
+  "/Users/maoliangliang/workspace/app/VocabApp/Views/MainTabView.swift" : {
+    "const-values" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/MainTabView.swiftconstvalues",
+    "dependencies" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/MainTabView.d",
+    "diagnostics" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/MainTabView.dia",
+    "index-unit-output-path" : "/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/MainTabView.o",
+    "llvm-bc" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/MainTabView.bc",
+    "object" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/MainTabView.o",
+    "swift-dependencies" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/MainTabView.swiftdeps",
+    "swiftmodule" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/MainTabView~partial.swiftmodule"
+  },
+  "/Users/maoliangliang/workspace/app/VocabApp/Views/OralTrainingView.swift" : {
+    "const-values" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/OralTrainingView.swiftconstvalues",
+    "dependencies" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/OralTrainingView.d",
+    "diagnostics" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/OralTrainingView.dia",
+    "index-unit-output-path" : "/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/OralTrainingView.o",
+    "llvm-bc" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/OralTrainingView.bc",
+    "object" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/OralTrainingView.o",
+    "swift-dependencies" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/OralTrainingView.swiftdeps",
+    "swiftmodule" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/OralTrainingView~partial.swiftmodule"
+  },
+  "/Users/maoliangliang/workspace/app/VocabApp/Views/Settings/SettingsView.swift" : {
+    "const-values" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/SettingsView.swiftconstvalues",
+    "dependencies" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/SettingsView.d",
+    "diagnostics" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/SettingsView.dia",
+    "index-unit-output-path" : "/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/SettingsView.o",
+    "llvm-bc" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/SettingsView.bc",
+    "object" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/SettingsView.o",
+    "swift-dependencies" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/SettingsView.swiftdeps",
+    "swiftmodule" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/SettingsView~partial.swiftmodule"
+  },
+  "/Users/maoliangliang/workspace/app/VocabApp/Views/Store/CourseDetailView.swift" : {
+    "const-values" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/CourseDetailView.swiftconstvalues",
+    "dependencies" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/CourseDetailView.d",
+    "diagnostics" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/CourseDetailView.dia",
+    "index-unit-output-path" : "/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/CourseDetailView.o",
+    "llvm-bc" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/CourseDetailView.bc",
+    "object" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/CourseDetailView.o",
+    "swift-dependencies" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/CourseDetailView.swiftdeps",
+    "swiftmodule" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/CourseDetailView~partial.swiftmodule"
+  },
+  "/Users/maoliangliang/workspace/app/VocabApp/Views/Store/CourseStoreView.swift" : {
+    "const-values" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/CourseStoreView.swiftconstvalues",
+    "dependencies" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/CourseStoreView.d",
+    "diagnostics" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/CourseStoreView.dia",
+    "index-unit-output-path" : "/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/CourseStoreView.o",
+    "llvm-bc" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/CourseStoreView.bc",
+    "object" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/CourseStoreView.o",
+    "swift-dependencies" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/CourseStoreView.swiftdeps",
+    "swiftmodule" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/CourseStoreView~partial.swiftmodule"
+  },
+  "/Users/maoliangliang/workspace/app/VocabApp/Views/WordDetail/WordDetailView.swift" : {
+    "const-values" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/WordDetailView.swiftconstvalues",
+    "dependencies" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/WordDetailView.d",
+    "diagnostics" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/WordDetailView.dia",
+    "index-unit-output-path" : "/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/WordDetailView.o",
+    "llvm-bc" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/WordDetailView.bc",
+    "object" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/WordDetailView.o",
+    "swift-dependencies" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/WordDetailView.swiftdeps",
+    "swiftmodule" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/WordDetailView~partial.swiftmodule"
+  },
+  "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/maoliangliang/workspace/app/VocabApp/build/Build/Intermediates.noindex/VocabApp.build/Debug-iphoneos/VocabApp.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  }
+}

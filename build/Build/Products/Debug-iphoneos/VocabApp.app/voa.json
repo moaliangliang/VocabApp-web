@@ -1,0 +1,1468 @@
+{
+  "course": {
+    "id": "voa",
+    "title": "VOA Let's Learn English",
+    "author": "VOA Learning English",
+    "type": "american",
+    "description": "美国之音慢速英语学习课程，共52课，适合初级到中级学习者",
+    "icon": "book.closed",
+    "lessons": [
+      {
+        "id": "voa_001",
+        "title": "Lesson 1: Welcome!",
+        "text_en": "Ms. Weaver: Hello! Are you Anna?\nYes, I am Anna. I am from Jamaica. I am a student.\nMs. Weaver: Welcome, Anna! This is the English class.\nThank you. I am happy to be here.\nMs. Weaver: We are happy to have you.",
+        "text_zh": "韦弗女士：你好！你是安娜吗？\n安娜：是的，我是安娜。我来自牙买加。我是一名学生。\n韦弗女士：欢迎你，安娜！这是英语班。\n安娜：谢谢。我很高兴来到这里。\n韦弗女士：我们很高兴有你。",
+        "vocabulary": [
+          {
+            "word": "welcome",
+            "phonetic": "/ˈwelkəm/",
+            "meaning": "欢迎"
+          },
+          {
+            "word": "student",
+            "phonetic": "/ˈstjuːdnt/",
+            "meaning": "学生"
+          },
+          {
+            "word": "happy",
+            "phonetic": "/ˈhæpi/",
+            "meaning": "高兴的"
+          },
+          {
+            "word": "here",
+            "phonetic": "/hɪr/",
+            "meaning": "这里"
+          }
+        ]
+      },
+      {
+        "id": "voa_002",
+        "title": "Lesson 2: Hello!",
+        "text_en": "Hello! I am Anna.\nHi, Anna. I am Pete. I am from Washington.\nNice to meet you, Pete.\nNice to meet you too. Are you from New York?\nNo, I am from Jamaica.\nOh, that is very far!",
+        "text_zh": "安娜：你好！我是安娜。\n皮特：嗨，安娜。我是皮特。我来自华盛顿。\n安娜：很高兴认识你，皮特。\n皮特：我也很高兴认识你。你来自纽约吗？\n安娜：不，我来自牙买加。\n皮特：哦，那很远！",
+        "vocabulary": [
+          {
+            "word": "hello",
+            "phonetic": "/həˈloʊ/",
+            "meaning": "你好"
+          },
+          {
+            "word": "meet",
+            "phonetic": "/miːt/",
+            "meaning": "遇见"
+          },
+          {
+            "word": "far",
+            "phonetic": "/fɑːr/",
+            "meaning": "远的"
+          },
+          {
+            "word": "too",
+            "phonetic": "/tuː/",
+            "meaning": "也"
+          }
+        ]
+      },
+      {
+        "id": "voa_003",
+        "title": "Lesson 3: I am here!",
+        "text_en": "I am in the classroom. I am ready to learn English.\nMs. Weaver: Good morning, class!\nGood morning, Ms. Weaver!\nMs. Weaver: Today we learn about introductions.\nI know how to say hello.\nMs. Weaver: Very good, Anna!",
+        "text_zh": "安娜：我在教室里。我准备好学英语了。\n韦弗女士：早上好，同学们！\n全班：早上好，韦弗女士！\n韦弗女士：今天我们学习如何介绍。\n安娜：我知道怎么说你好。\n韦弗女士：非常好，安娜！",
+        "vocabulary": [
+          {
+            "word": "classroom",
+            "phonetic": "/ˈklæsruːm/",
+            "meaning": "教室"
+          },
+          {
+            "word": "ready",
+            "phonetic": "/ˈredi/",
+            "meaning": "准备好的"
+          },
+          {
+            "word": "learn",
+            "phonetic": "/lɜːrn/",
+            "meaning": "学习"
+          },
+          {
+            "word": "introduction",
+            "phonetic": "/ˌɪntrəˈdʌkʃn/",
+            "meaning": "介绍"
+          }
+        ]
+      },
+      {
+        "id": "voa_004",
+        "title": "Lesson 4: What is your name?",
+        "text_en": "What is your name?\nMy name is Pete. What is your name?\nMy name is Anna.\nWhere are you from?\nI am from Jamaica.\nWhere do you live now?\nI live in Washington, D.C.",
+        "text_zh": "安娜：你叫什么名字？\n皮特：我叫皮特。你叫什么名字？\n安娜：我叫安娜。\n皮特：你来自哪里？\n安娜：我来自牙买加。\n皮特：你现在住在哪里？\n安娜：我住在华盛顿特区。",
+        "vocabulary": [
+          {
+            "word": "name",
+            "phonetic": "/neɪm/",
+            "meaning": "名字"
+          },
+          {
+            "word": "live",
+            "phonetic": "/lɪv/",
+            "meaning": "居住"
+          },
+          {
+            "word": "now",
+            "phonetic": "/naʊ/",
+            "meaning": "现在"
+          },
+          {
+            "word": "where",
+            "phonetic": "/wer/",
+            "meaning": "哪里"
+          }
+        ]
+      },
+      {
+        "id": "voa_005",
+        "title": "Lesson 5: Where are you?",
+        "text_en": "Ms. Weaver: Anna, where are you?\nI am in the library.\nMs. Weaver: What are you doing?\nI am reading a book.\nMs. Weaver: Is it a good book?\nYes, it is about American history.\nMs. Weaver: That is interesting!",
+        "text_zh": "韦弗女士：安娜，你在哪里？\n安娜：我在图书馆。\n韦弗女士：你在做什么？\n安娜：我在看书。\n韦弗女士：是一本好书吗？\n安娜：是的，是关于美国历史的书。\n韦弗女士：那很有趣！",
+        "vocabulary": [
+          {
+            "word": "library",
+            "phonetic": "/ˈlaɪbreri/",
+            "meaning": "图书馆"
+          },
+          {
+            "word": "reading",
+            "phonetic": "/ˈriːdɪŋ/",
+            "meaning": "阅读"
+          },
+          {
+            "word": "book",
+            "phonetic": "/bʊk/",
+            "meaning": "书"
+          },
+          {
+            "word": "interesting",
+            "phonetic": "/ˈɪntrəstɪŋ/",
+            "meaning": "有趣的"
+          }
+        ]
+      },
+      {
+        "id": "voa_006",
+        "title": "Lesson 6: What do you like?",
+        "text_en": "Anna, what do you like to do?\nI like to read and listen to music.\nWhat kind of music do you like?\nI like pop music. What about you?\nI like rock music.\nDo you like to play sports?\nYes, I like to play basketball.",
+        "text_zh": "皮特：安娜，你喜欢做什么？\n安娜：我喜欢阅读和听音乐。\n皮特：你喜欢什么类型的音乐？\n安娜：我喜欢流行音乐。你呢？\n皮特：我喜欢摇滚乐。\n安娜：你喜欢运动吗？\n皮特：是的，我喜欢打篮球。",
+        "vocabulary": [
+          {
+            "word": "like",
+            "phonetic": "/laɪk/",
+            "meaning": "喜欢"
+          },
+          {
+            "word": "music",
+            "phonetic": "/ˈmjuːzɪk/",
+            "meaning": "音乐"
+          },
+          {
+            "word": "sports",
+            "phonetic": "/spɔːrts/",
+            "meaning": "运动"
+          },
+          {
+            "word": "basketball",
+            "phonetic": "/ˈbæskɪtbɔːl/",
+            "meaning": "篮球"
+          }
+        ]
+      },
+      {
+        "id": "voa_007",
+        "title": "Lesson 7: What are you doing?",
+        "text_en": "Hi, Pete! What are you doing?\nI am cooking dinner.\nWhat are you cooking?\nI am making pasta.\nThat smells good!\nWould you like to try some?\nYes, please!",
+        "text_zh": "安娜：嗨，皮特！你在做什么？\n皮特：我在做晚饭。\n安娜：你在做什么菜？\n皮特：我在做意大利面。\n安娜：闻起来真香！\n皮特：你想尝尝吗？\n安娜：好的！",
+        "vocabulary": [
+          {
+            "word": "cooking",
+            "phonetic": "/ˈkʊkɪŋ/",
+            "meaning": "烹饪"
+          },
+          {
+            "word": "dinner",
+            "phonetic": "/ˈdɪnər/",
+            "meaning": "晚餐"
+          },
+          {
+            "word": "pasta",
+            "phonetic": "/ˈpɑːstə/",
+            "meaning": "意大利面"
+          },
+          {
+            "word": "smell",
+            "phonetic": "/smel/",
+            "meaning": "闻起来"
+          }
+        ]
+      },
+      {
+        "id": "voa_008",
+        "title": "Lesson 8: Are you hungry?",
+        "text_en": "Ms. Weaver: Anna, are you hungry?\nYes, I am very hungry!\nMs. Weaver: Let's go to a restaurant.\nWhat kind of food do you like?\nMs. Weaver: I like Chinese food.\nI like Chinese food too.\nMs. Weaver: Great! Let's go!",
+        "text_zh": "韦弗女士：安娜，你饿了吗？\n安娜：是的，我很饿！\n韦弗女士：我们去餐厅吧。\n安娜：你喜欢什么类型的食物？\n韦弗女士：我喜欢中餐。\n安娜：我也喜欢中餐。\n韦弗女士：太好了！我们走吧！",
+        "vocabulary": [
+          {
+            "word": "hungry",
+            "phonetic": "/ˈhʌŋɡri/",
+            "meaning": "饿的"
+          },
+          {
+            "word": "restaurant",
+            "phonetic": "/ˈrestrɒnt/",
+            "meaning": "餐厅"
+          },
+          {
+            "word": "food",
+            "phonetic": "/fuːd/",
+            "meaning": "食物"
+          },
+          {
+            "word": "great",
+            "phonetic": "/ɡreɪt/",
+            "meaning": "太好了"
+          }
+        ]
+      },
+      {
+        "id": "voa_009",
+        "title": "Lesson 9: What time is it?",
+        "text_en": "Excuse me, what time is it?\nIt is 3 o'clock.\nOh no! I am late for class!\nWhat time is your class?\nMy class is at 3:15.\nYou have 15 minutes. Hurry!\nThanks, Pete! Goodbye!",
+        "text_zh": "安娜：打扰一下，几点了？\n皮特：三点整。\n安娜：哦不！我上课要迟到了！\n皮特：你的课几点？\n安娜：我的课三点一刻。\n皮特：你还有15分钟。快！\n安娜：谢谢，皮特！再见！",
+        "vocabulary": [
+          {
+            "word": "time",
+            "phonetic": "/taɪm/",
+            "meaning": "时间"
+          },
+          {
+            "word": "late",
+            "phonetic": "/leɪt/",
+            "meaning": "迟到的"
+          },
+          {
+            "word": "minutes",
+            "phonetic": "/ˈmɪnɪts/",
+            "meaning": "分钟"
+          },
+          {
+            "word": "hurry",
+            "phonetic": "/ˈhʌri/",
+            "meaning": "赶快"
+          }
+        ]
+      },
+      {
+        "id": "voa_010",
+        "title": "Lesson 10: What day is it?",
+        "text_en": "What day is it today?\nToday is Monday.\nWhat do you do on Monday?\nI go to work.\nAnd on Saturday?\nOn Saturday I relax.\nI study every day except Sunday.\nYou are a hardworking student!",
+        "text_zh": "安娜：今天星期几？\n皮特：今天是星期一。\n安娜：星期一你做什么？\n皮特：我去上班。\n安娜：星期六呢？\n皮特：星期六我休息。\n安娜：我除了星期天每天都学习。\n皮特：你是个勤奋的学生！",
+        "vocabulary": [
+          {
+            "word": "Monday",
+            "phonetic": "/ˈmʌndeɪ/",
+            "meaning": "星期一"
+          },
+          {
+            "word": "work",
+            "phonetic": "/wɜːrk/",
+            "meaning": "工作"
+          },
+          {
+            "word": "Saturday",
+            "phonetic": "/ˈsætərdeɪ/",
+            "meaning": "星期六"
+          },
+          {
+            "word": "hardworking",
+            "phonetic": "/ˌhɑːrdˈwɜːrkɪŋ/",
+            "meaning": "勤奋的"
+          }
+        ]
+      },
+      {
+        "id": "voa_011",
+        "title": "Lesson 11: Going to the Supermarket",
+        "text_en": "I need to go to the supermarket.\nWhat do you need to buy?\nI need milk, bread, and eggs.\nDo you need any fruit?\nYes, I want some apples and bananas.\nThe supermarket on Main Street has good prices.\nThanks for the tip!",
+        "text_zh": "安娜：我需要去超市。\n皮特：你需要买什么？\n安娜：我需要牛奶、面包和鸡蛋。\n皮特：你需要水果吗？\n安娜：是的，我想要一些苹果和香蕉。\n皮特：主街上的超市价格不错。\n安娜：谢谢你的建议！",
+        "vocabulary": [
+          {
+            "word": "supermarket",
+            "phonetic": "/ˈsuːpərmɑːrkɪt/",
+            "meaning": "超市"
+          },
+          {
+            "word": "milk",
+            "phonetic": "/mɪlk/",
+            "meaning": "牛奶"
+          },
+          {
+            "word": "bread",
+            "phonetic": "/bred/",
+            "meaning": "面包"
+          },
+          {
+            "word": "apples",
+            "phonetic": "/ˈæpəlz/",
+            "meaning": "苹果"
+          }
+        ]
+      },
+      {
+        "id": "voa_012",
+        "title": "Lesson 12: At the Bus Stop",
+        "text_en": "Excuse me, does this bus go to the museum?\nNo, you need the number 42 bus.\nWhere can I catch it?\nAcross the street, at the blue sign.\nHow often does it come?\nEvery twenty minutes.\nThank you very much!",
+        "text_zh": "安娜：打扰一下，这辆公交车去博物馆吗？\n司机：不，你需要坐42路公交车。\n安娜：我在哪里可以坐到？\n司机：街对面，在蓝色标志那儿。\n安娜：多久来一趟？\n司机：每二十分钟一趟。\n安娜：非常感谢！",
+        "vocabulary": [
+          {
+            "word": "bus",
+            "phonetic": "/bʌs/",
+            "meaning": "公交车"
+          },
+          {
+            "word": "museum",
+            "phonetic": "/mjuˈziːəm/",
+            "meaning": "博物馆"
+          },
+          {
+            "word": "across",
+            "phonetic": "/əˈkrɔːs/",
+            "meaning": "在对面"
+          },
+          {
+            "word": "every",
+            "phonetic": "/ˈevri/",
+            "meaning": "每"
+          }
+        ]
+      },
+      {
+        "id": "voa_013",
+        "title": "Lesson 13: Talking About the Weather",
+        "text_en": "It is very cold today.\nYes, I think it will snow.\nDo you like winter?\nI like it because I can go skiing.\nI prefer summer. I like swimming.\nSummer is nice too. The flowers are beautiful.\nEvery season has its charms.",
+        "text_zh": "皮特：今天很冷。\n安娜：是的，我觉得会下雪。\n皮特：你喜欢冬天吗？\n安娜：我喜欢，因为我可以去滑雪。\n皮特：我更喜欢夏天。我喜欢游泳。\n安娜：夏天也不错。花很漂亮。\n皮特：每个季节都有它的魅力。",
+        "vocabulary": [
+          {
+            "word": "cold",
+            "phonetic": "/koʊld/",
+            "meaning": "冷的"
+          },
+          {
+            "word": "snow",
+            "phonetic": "/snoʊ/",
+            "meaning": "雪"
+          },
+          {
+            "word": "winter",
+            "phonetic": "/ˈwɪntər/",
+            "meaning": "冬天"
+          },
+          {
+            "word": "skiing",
+            "phonetic": "/ˈskiːɪŋ/",
+            "meaning": "滑雪"
+          }
+        ]
+      },
+      {
+        "id": "voa_014",
+        "title": "Lesson 14: At the Restaurant",
+        "text_en": "Welcome! How many people?\nTwo, please.\nRight this way. Here are your menus.\nWhat are you going to order?\nI will have the chicken salad.\nI want the beef sandwich.\nExcellent choices!",
+        "text_zh": "服务员：欢迎光临！几位？\n安娜：两位。\n服务员：这边请。这是菜单。\n皮特：你打算点什么？\n安娜：我要鸡肉沙拉。\n皮特：我要牛肉三明治。\n服务员：很好的选择！",
+        "vocabulary": [
+          {
+            "word": "menu",
+            "phonetic": "/ˈmenjuː/",
+            "meaning": "菜单"
+          },
+          {
+            "word": "order",
+            "phonetic": "/ˈɔːrdər/",
+            "meaning": "点餐"
+          },
+          {
+            "word": "chicken",
+            "phonetic": "/ˈtʃɪkɪn/",
+            "meaning": "鸡肉"
+          },
+          {
+            "word": "salad",
+            "phonetic": "/ˈsæləd/",
+            "meaning": "沙拉"
+          }
+        ]
+      },
+      {
+        "id": "voa_015",
+        "title": "Lesson 15: Asking for Directions",
+        "text_en": "Excuse me, how do I get to the post office?\nGo straight for two blocks. Turn left.\nIs it on the right or left?\nIt is on the corner, next to the bank.\nHow long does it take to walk?\nAbout ten minutes.\nGreat, thank you!",
+        "text_zh": "安娜：打扰一下，去邮局怎么走？\n陌生人：直走两个街区。左转。\n安娜：在右边还是左边？\n陌生人：在拐角处，银行旁边。\n安娜：走路需要多久？\n陌生人：大约十分钟。\n安娜：太好了，谢谢！",
+        "vocabulary": [
+          {
+            "word": "direction",
+            "phonetic": "/dəˈrekʃn/",
+            "meaning": "方向"
+          },
+          {
+            "word": "straight",
+            "phonetic": "/streɪt/",
+            "meaning": "直的"
+          },
+          {
+            "word": "block",
+            "phonetic": "/blɒk/",
+            "meaning": "街区"
+          },
+          {
+            "word": "corner",
+            "phonetic": "/ˈkɔːrnər/",
+            "meaning": "角落"
+          }
+        ]
+      },
+      {
+        "id": "voa_016",
+        "title": "Lesson 16: At the Doctor's Office",
+        "text_en": "What seems to be the problem?\nI have a headache and a fever.\nLet me check your temperature.\nIs it serious?\nYou have a mild cold. Rest and drink water.\nDo I need medicine?\nTake this twice a day after meals.",
+        "text_zh": "医生：哪里不舒服？\n安娜：我头痛发烧。\n医生：让我量一下体温。\n安娜：严重吗？\n医生：你有点感冒。多休息多喝水。\n安娜：我需要吃药吗？\n医生：这个药一天两次，饭后服用。",
+        "vocabulary": [
+          {
+            "word": "headache",
+            "phonetic": "/ˈhedeɪk/",
+            "meaning": "头痛"
+          },
+          {
+            "word": "fever",
+            "phonetic": "/ˈfiːvər/",
+            "meaning": "发烧"
+          },
+          {
+            "word": "temperature",
+            "phonetic": "/ˈtemprətʃər/",
+            "meaning": "体温"
+          },
+          {
+            "word": "medicine",
+            "phonetic": "/ˈmedɪsn/",
+            "meaning": "药"
+          }
+        ]
+      },
+      {
+        "id": "voa_017",
+        "title": "Lesson 17: Making a Phone Call",
+        "text_en": "Hello, is this Mr. Johnson's office?\nYes, how can I help you?\nI would like to make an appointment.\nAre you available on Thursday at 2 PM?\nYes, that works for me.\nGreat. We will see you then.\nThank you. Goodbye!",
+        "text_zh": "安娜：你好，是约翰逊先生的办公室吗？\n接待员：是的，有什么可以帮你的？\n安娜：我想预约。\n接待员：你周四下午两点有空吗？\n安娜：好的，我可以。\n接待员：太好了。到时候见。\n安娜：谢谢。再见！",
+        "vocabulary": [
+          {
+            "word": "appointment",
+            "phonetic": "/əˈpɔɪntmənt/",
+            "meaning": "预约"
+          },
+          {
+            "word": "available",
+            "phonetic": "/əˈveɪləbl/",
+            "meaning": "有空的"
+          },
+          {
+            "word": "Thursday",
+            "phonetic": "/ˈθɜːrzdeɪ/",
+            "meaning": "星期四"
+          },
+          {
+            "word": "office",
+            "phonetic": "/ˈɒfɪs/",
+            "meaning": "办公室"
+          }
+        ]
+      },
+      {
+        "id": "voa_018",
+        "title": "Lesson 18: At the Clothing Store",
+        "text_en": "Can I help you find something?\nYes, I am looking for a blue dress.\nWhat size do you wear?\nI wear a medium.\nHere is a nice blue dress. Would you like to try it on?\nYes, where is the fitting room?\nRight over there.",
+        "text_zh": "女售货员：需要帮忙找什么吗？\n安娜：是的，我想找一条蓝色连衣裙。\n女售货员：你穿什么尺寸？\n安娜：我穿中号。\n女售货员：这是一条好看的蓝裙子。你想试穿吗？\n安娜：好的，试衣间在哪？\n女售货员：就在那边。",
+        "vocabulary": [
+          {
+            "word": "dress",
+            "phonetic": "/dres/",
+            "meaning": "连衣裙"
+          },
+          {
+            "word": "size",
+            "phonetic": "/saɪz/",
+            "meaning": "尺寸"
+          },
+          {
+            "word": "medium",
+            "phonetic": "/ˈmiːdiəm/",
+            "meaning": "中号"
+          },
+          {
+            "word": "fitting room",
+            "phonetic": "/ˈfɪtɪŋ ruːm/",
+            "meaning": "试衣间"
+          }
+        ]
+      },
+      {
+        "id": "voa_019",
+        "title": "Lesson 19: Talking About Hobbies",
+        "text_en": "What do you do in your free time, Anna?\nI like to paint and draw.\nThat is creative! What do you paint?\nI paint landscapes mostly. What about you?\nI collect stamps from different countries.\nHow many stamps do you have?\nMore than five hundred!",
+        "text_zh": "乔纳森：安娜，你空闲时间做什么？\n安娜：我喜欢画画。\n乔纳森：那很有创意！你画什么？\n安娜：我主要画风景。你呢？\n乔纳森：我收集不同国家的邮票。\n安娜：你有多少张邮票？\n乔纳森：五百多张！",
+        "vocabulary": [
+          {
+            "word": "free time",
+            "phonetic": "/friː taɪm/",
+            "meaning": "空闲时间"
+          },
+          {
+            "word": "paint",
+            "phonetic": "/peɪnt/",
+            "meaning": "绘画"
+          },
+          {
+            "word": "landscape",
+            "phonetic": "/ˈlændskeɪp/",
+            "meaning": "风景"
+          },
+          {
+            "word": "collect",
+            "phonetic": "/kəˈlekt/",
+            "meaning": "收集"
+          }
+        ]
+      },
+      {
+        "id": "voa_020",
+        "title": "Lesson 20: At the Hotel",
+        "text_en": "Hi, I have a reservation under Anna Smith.\nLet me check. Yes, a single room for three nights.\nWhat is the room number?\nRoom 305 on the third floor. Here is your key.\nIs there Wi-Fi in the room?\nYes, the password is on the card.\nThank you!",
+        "text_zh": "安娜：你好，我用安娜·史密斯的名字预约了。\n前台：让我查一下。是的，单人间，三晚。\n安娜：房间号是多少？\n前台：三楼的305房间。这是你的钥匙。\n安娜：房间里有Wi-Fi吗？\n前台：有的，密码在卡上。\n安娜：谢谢！",
+        "vocabulary": [
+          {
+            "word": "reservation",
+            "phonetic": "/ˌrezərˈveɪʃn/",
+            "meaning": "预订"
+          },
+          {
+            "word": "single room",
+            "phonetic": "/ˈsɪŋɡl ruːm/",
+            "meaning": "单人间"
+          },
+          {
+            "word": "floor",
+            "phonetic": "/flɔːr/",
+            "meaning": "楼层"
+          },
+          {
+            "word": "password",
+            "phonetic": "/ˈpæswɜːrd/",
+            "meaning": "密码"
+          }
+        ]
+      },
+      {
+        "id": "voa_021",
+        "title": "Lesson 21: At the Airport",
+        "text_en": "May I see your passport, please?\nHere you are.\nWhere are you flying to today?\nI am flying to Los Angeles.\nDo you have any luggage to check?\nYes, one suitcase.\nHere is your boarding pass. Gate 12B.",
+        "text_zh": "工作人员：请出示你的护照。\n安娜：给你。\n工作人员：你今天飞往哪里？\n安娜：我飞往洛杉矶。\n工作人员：有行李要托运吗？\n安娜：有，一个行李箱。\n工作人员：这是你的登机牌。12B号登机口。",
+        "vocabulary": [
+          {
+            "word": "passport",
+            "phonetic": "/ˈpæspɔːrt/",
+            "meaning": "护照"
+          },
+          {
+            "word": "fly",
+            "phonetic": "/flaɪ/",
+            "meaning": "飞行"
+          },
+          {
+            "word": "luggage",
+            "phonetic": "/ˈlʌɡɪdʒ/",
+            "meaning": "行李"
+          },
+          {
+            "word": "boarding pass",
+            "phonetic": "/ˈbɔːrdɪŋ pæs/",
+            "meaning": "登机牌"
+          }
+        ]
+      },
+      {
+        "id": "voa_022",
+        "title": "Lesson 22: At the Bank",
+        "text_en": "Welcome to First National Bank. How can I help you?\nI would like to open a savings account.\nDo you have identification?\nYes, here is my driver's license.\nPlease fill out this form.\nWhat is the minimum deposit?\nThe minimum is fifty dollars.",
+        "text_zh": "柜员：欢迎来到第一国民银行。有什么可以帮你？\n安娜：我想开一个储蓄账户。\n柜员：你有身份证明吗？\n安娜：有的，这是我的驾照。\n柜员：请填写这张表格。\n安娜：最低存款是多少？\n柜员：最低五十美元。",
+        "vocabulary": [
+          {
+            "word": "savings account",
+            "phonetic": "/ˈseɪvɪŋz əˈkaʊnt/",
+            "meaning": "储蓄账户"
+          },
+          {
+            "word": "identification",
+            "phonetic": "/aɪˌdentɪfɪˈkeɪʃn/",
+            "meaning": "身份证明"
+          },
+          {
+            "word": "deposit",
+            "phonetic": "/dɪˈpɑːzɪt/",
+            "meaning": "存款"
+          },
+          {
+            "word": "form",
+            "phonetic": "/fɔːrm/",
+            "meaning": "表格"
+          }
+        ]
+      },
+      {
+        "id": "voa_023",
+        "title": "Lesson 23: At the Library",
+        "text_en": "Can I help you find something?\nI am looking for books about American history.\nThey are in section 900. Follow me.\nHow many books can I borrow at once?\nYou can borrow up to five books.\nAnd how long can I keep them?\nTwo weeks. You can renew online.",
+        "text_zh": "图书管理员：需要帮你找什么吗？\n安娜：我在找关于美国历史的书。\n图书管理员：在900区。跟我来。\n安娜：一次可以借多少本书？\n图书管理员：最多五本。\n安娜：可以借多久？\n图书管理员：两周。你可以在线续借。",
+        "vocabulary": [
+          {
+            "word": "librarian",
+            "phonetic": "/laɪˈbreriən/",
+            "meaning": "图书管理员"
+          },
+          {
+            "word": "borrow",
+            "phonetic": "/ˈbɒroʊ/",
+            "meaning": "借"
+          },
+          {
+            "word": "renew",
+            "phonetic": "/rɪˈnuː/",
+            "meaning": "续借"
+          },
+          {
+            "word": "section",
+            "phonetic": "/ˈsekʃn/",
+            "meaning": "区域"
+          }
+        ]
+      },
+      {
+        "id": "voa_024",
+        "title": "Lesson 24: Ordering Coffee",
+        "text_en": "What can I get for you today?\nI would like a latte, please.\nWhat size?\nMedium, please.\nWould you like anything to eat?\nYes, a blueberry muffin.\nThat will be six dollars and fifty cents.",
+        "text_zh": "咖啡师：今天想喝点什么？\n安娜：我要一杯拿铁。\n咖啡师：什么尺寸？\n安娜：中杯。\n咖啡师：想吃点什么吗？\n安娜：是的，一个蓝莓松饼。\n咖啡师：一共六美元五十美分。",
+        "vocabulary": [
+          {
+            "word": "latte",
+            "phonetic": "/ˈlɑːteɪ/",
+            "meaning": "拿铁咖啡"
+          },
+          {
+            "word": "muffin",
+            "phonetic": "/ˈmʌfɪn/",
+            "meaning": "松饼"
+          },
+          {
+            "word": "size",
+            "phonetic": "/saɪz/",
+            "meaning": "尺寸"
+          },
+          {
+            "word": "dollars",
+            "phonetic": "/ˈdɑːlərz/",
+            "meaning": "美元"
+          }
+        ]
+      },
+      {
+        "id": "voa_025",
+        "title": "Lesson 25: Talking About Family",
+        "text_en": "Anna, do you have any siblings?\nYes, I have one brother and one sister.\nAre they older or younger?\nMy brother is older. He is a doctor. My sister is younger. She is still in school.\nThat is nice. Do they live in Jamaica?\nMy brother lives in New York. My sister lives with our parents.\nDo you visit them often?",
+        "text_zh": "皮特：安娜，你有兄弟姐妹吗？\n安娜：是的，我有一个哥哥和一个妹妹。\n皮特：他们是比你大还是小？\n安娜：我哥哥比我大。他是医生。我妹妹比我小。她还在上学。\n皮特：真好。他们住在牙买加吗？\n安娜：我哥哥住在纽约。我妹妹和父母住在一起。\n皮特：你经常去看他们吗？",
+        "vocabulary": [
+          {
+            "word": "siblings",
+            "phonetic": "/ˈsɪblɪŋz/",
+            "meaning": "兄弟姐妹"
+          },
+          {
+            "word": "older",
+            "phonetic": "/ˈoʊldər/",
+            "meaning": "年长的"
+          },
+          {
+            "word": "younger",
+            "phonetic": "/ˈjʌŋɡər/",
+            "meaning": "年轻的"
+          },
+          {
+            "word": "parents",
+            "phonetic": "/ˈperənts/",
+            "meaning": "父母"
+          }
+        ]
+      },
+      {
+        "id": "voa_026",
+        "title": "Lesson 26: At the Gym",
+        "text_en": "Is this your first time at the gym?\nYes, I want to get in shape.\nWe can start with some light cardio.\nHow often should I exercise?\nThree times a week is good.\nWhat about weights?\nWe can add weights later. Let's start slow.",
+        "text_zh": "教练：这是你第一次来健身房吗？\n安娜：是的，我想健身。\n教练：我们可以从轻度有氧开始。\n安娜：我应该多久锻炼一次？\n教练：每周三次就很好。\n安娜：举重呢？\n教练：我们可以稍后加重量。先慢慢来。",
+        "vocabulary": [
+          {
+            "word": "gym",
+            "phonetic": "/dʒɪm/",
+            "meaning": "健身房"
+          },
+          {
+            "word": "cardio",
+            "phonetic": "/ˈkɑːrdioʊ/",
+            "meaning": "有氧运动"
+          },
+          {
+            "word": "exercise",
+            "phonetic": "/ˈeksərsaɪz/",
+            "meaning": "锻炼"
+          },
+          {
+            "word": "weights",
+            "phonetic": "/weɪts/",
+            "meaning": "举重器材"
+          }
+        ]
+      },
+      {
+        "id": "voa_027",
+        "title": "Lesson 27: At the Park",
+        "text_en": "What a beautiful day! The sun is shining.\nYes, it is perfect weather for a picnic.\nWhat did you bring to eat?\nI made sandwiches and brought some fruit.\nI brought lemonade and cookies.\nLook at the ducks in the pond!\nThey are so cute. I love spending time in nature.",
+        "text_zh": "安娜：多美的一天！阳光明媚。\n阿什利：是的，这是野餐的好天气。\n安娜：你带了什么吃的？\n阿什利：我做了三明治，还带了一些水果。\n安娜：我带了柠檬水和饼干。\n阿什利：看池塘里的鸭子！\n安娜：它们真可爱。我喜欢在大自然中度过时光。",
+        "vocabulary": [
+          {
+            "word": "picnic",
+            "phonetic": "/ˈpɪknɪk/",
+            "meaning": "野餐"
+          },
+          {
+            "word": "sunshine",
+            "phonetic": "/ˈsʌnʃaɪn/",
+            "meaning": "阳光"
+          },
+          {
+            "word": "pond",
+            "phonetic": "/pɒnd/",
+            "meaning": "池塘"
+          },
+          {
+            "word": "nature",
+            "phonetic": "/ˈneɪtʃər/",
+            "meaning": "大自然"
+          }
+        ]
+      },
+      {
+        "id": "voa_028",
+        "title": "Lesson 28: Talking about Jobs",
+        "text_en": "Ms. Weaver: Anna, what do you want to be in the future?\nI want to be a journalist.\nMs. Weaver: That is a great goal! Why journalism?\nI love writing and meeting new people.\nMs. Weaver: You will need to practice your English!\nYes, that is why I am studying hard.\nMs. Weaver: Keep working hard and you will succeed.",
+        "text_zh": "韦弗女士：安娜，你将来想成为什么？\n安娜：我想成为一名记者。\n韦弗女士：那是个很好的目标！为什么是新闻业？\n安娜：我喜欢写作和认识新朋友。\n韦弗女士：你需要多练习英语！\n安娜：是的，所以我正在努力学习。\n韦弗女士：继续努力，你会成功的。",
+        "vocabulary": [
+          {
+            "word": "journalist",
+            "phonetic": "/ˈdʒɜːrnəlɪst/",
+            "meaning": "记者"
+          },
+          {
+            "word": "goal",
+            "phonetic": "/ɡoʊl/",
+            "meaning": "目标"
+          },
+          {
+            "word": "writing",
+            "phonetic": "/ˈraɪtɪŋ/",
+            "meaning": "写作"
+          },
+          {
+            "word": "succeed",
+            "phonetic": "/səkˈsiːd/",
+            "meaning": "成功"
+          }
+        ]
+      },
+      {
+        "id": "voa_029",
+        "title": "Lesson 29: Going to the Movies",
+        "text_en": "Do you want to see a movie tonight?\nSure! What is playing?\nThere is a new science fiction film.\nI love sci-fi! What time is the show?\nThe show starts at seven thirty.\nShould I buy tickets online?\nYes, we can avoid the line that way.",
+        "text_zh": "皮特：你今晚想看电影吗？\n安娜：当然！在放什么？\n皮特：有一部新的科幻片。\n安娜：我喜欢科幻片！几点放映？\n皮特：七点半开始。\n安娜：我应该在网上买票吗？\n皮特：是的，这样可以避免排队。",
+        "vocabulary": [
+          {
+            "word": "movie",
+            "phonetic": "/ˈmuːvi/",
+            "meaning": "电影"
+          },
+          {
+            "word": "science fiction",
+            "phonetic": "/ˈsaɪəns ˈfɪkʃn/",
+            "meaning": "科幻"
+          },
+          {
+            "word": "ticket",
+            "phonetic": "/ˈtɪkɪt/",
+            "meaning": "票"
+          },
+          {
+            "word": "online",
+            "phonetic": "/ˌɑːnˈlaɪn/",
+            "meaning": "在线"
+          }
+        ]
+      },
+      {
+        "id": "voa_030",
+        "title": "Lesson 30: At the Post Office",
+        "text_en": "I need to send this package to Canada.\nHow do you want to send it?\nWhat are the options?\nStandard takes two weeks. Express takes three days.\nHow much is express?\nThat will be thirty-five dollars.\nI will send it express, please.",
+        "text_zh": "安娜：我需要把这个包裹寄到加拿大。\n职员：你想怎么寄？\n安娜：有什么选择？\n职员：标准两周。快递三天。\n安娜：快递多少钱？\n职员：三十五美元。\n安娜：请用快递寄。",
+        "vocabulary": [
+          {
+            "word": "package",
+            "phonetic": "/ˈpækɪdʒ/",
+            "meaning": "包裹"
+          },
+          {
+            "word": "standard",
+            "phonetic": "/ˈstændərd/",
+            "meaning": "标准的"
+          },
+          {
+            "word": "express",
+            "phonetic": "/ɪkˈspres/",
+            "meaning": "快递"
+          },
+          {
+            "word": "send",
+            "phonetic": "/send/",
+            "meaning": "寄送"
+          }
+        ]
+      },
+      {
+        "id": "voa_031",
+        "title": "Lesson 31: Planning a Birthday Party",
+        "text_en": "My birthday is next Saturday. I am having a party!\nHow exciting! Where will it be?\nAt my house. I am inviting all our classmates.\nWhat time should I come?\nThe party starts at six in the evening.\nShould I bring anything?\nJust yourself! Oh, and maybe some music.",
+        "text_zh": "阿什利：下周六是我的生日。我要开派对！\n安娜：真让人兴奋！在哪里？\n阿什利：在我家。我邀请了所有同学。\n安娜：我应该几点到？\n阿什利：派对晚上六点开始。\n安娜：我需要带什么吗？\n阿什利：带你自己来就行！哦，也许带点音乐。",
+        "vocabulary": [
+          {
+            "word": "birthday",
+            "phonetic": "/ˈbɜːrθdeɪ/",
+            "meaning": "生日"
+          },
+          {
+            "word": "party",
+            "phonetic": "/ˈpɑːrti/",
+            "meaning": "派对"
+          },
+          {
+            "word": "invite",
+            "phonetic": "/ɪnˈvaɪt/",
+            "meaning": "邀请"
+          },
+          {
+            "word": "evening",
+            "phonetic": "/ˈiːvnɪŋ/",
+            "meaning": "晚上"
+          }
+        ]
+      },
+      {
+        "id": "voa_032",
+        "title": "Lesson 32: Talking About Food",
+        "text_en": "I tried Thai food for the first time yesterday.\nDid you like it?\nIt was delicious but very spicy!\nWhat did you order?\nI had green curry with rice.\nI love Thai food. My favorite is pad thai.\nWe should go to a Thai restaurant together!",
+        "text_zh": "安娜：我昨天第一次尝试了泰国菜。\n皮特：你喜欢吗？\n安娜：很好吃，但是非常辣！\n皮特：你点了什么？\n安娜：我吃了绿咖喱配米饭。\n皮特：我喜欢泰国菜。我最喜欢的是泰式炒面。\n安娜：我们应该一起去泰国餐厅！",
+        "vocabulary": [
+          {
+            "word": "Thai food",
+            "phonetic": "/taɪ fuːd/",
+            "meaning": "泰国菜"
+          },
+          {
+            "word": "curry",
+            "phonetic": "/ˈkɜːri/",
+            "meaning": "咖喱"
+          },
+          {
+            "word": "spicy",
+            "phonetic": "/ˈspaɪsi/",
+            "meaning": "辣的"
+          },
+          {
+            "word": "delicious",
+            "phonetic": "/dɪˈlɪʃəs/",
+            "meaning": "美味的"
+          }
+        ]
+      },
+      {
+        "id": "voa_033",
+        "title": "Lesson 33: At the Museum",
+        "text_en": "Look at this dinosaur skeleton!\nIt is enormous. How old is it?\nThe sign says it is 65 million years old.\nAmazing! I love learning about history.\nMe too. Let's go see the ancient Egypt exhibit.\nI heard they have real mummies there.\nThis museum is fantastic!",
+        "text_zh": "安娜：看这个恐龙骨架！\n乔纳森：真巨大。它有多老了？\n安娜：牌子上说有6500万年了。\n乔纳森：太神奇了！我喜欢了解历史。\n安娜：我也是。我们去看古埃及展览吧。\n乔纳森：我听说那里有真的木乃伊。\n安娜：这个博物馆太棒了！",
+        "vocabulary": [
+          {
+            "word": "dinosaur",
+            "phonetic": "/ˈdaɪnəsɔːr/",
+            "meaning": "恐龙"
+          },
+          {
+            "word": "skeleton",
+            "phonetic": "/ˈskelɪtn/",
+            "meaning": "骨架"
+          },
+          {
+            "word": "exhibit",
+            "phonetic": "/ɪɡˈzɪbɪt/",
+            "meaning": "展览"
+          },
+          {
+            "word": "ancient",
+            "phonetic": "/ˈeɪnʃənt/",
+            "meaning": "古代的"
+          }
+        ]
+      },
+      {
+        "id": "voa_034",
+        "title": "Lesson 34: At the Beach",
+        "text_en": "The ocean is so beautiful today!\nThe water is warm. Do you want to swim?\nYes, but I need to put on sunscreen first.\nGood idea. The sun is very strong.\nLook, I found a seashell!\nIt is very pretty. Let's collect some more.\nThe beach is my favorite place to relax.",
+        "text_zh": "安娜：今天的大海真美！\n皮特：水很暖和。你想游泳吗？\n安娜：好的，但我得先涂防晒霜。\n皮特：好主意。太阳很强烈。\n安娜：看，我找到了一个贝壳！\n皮特：真漂亮。我们再捡一些吧。\n安娜：海滩是我最喜欢的放松地方。",
+        "vocabulary": [
+          {
+            "word": "ocean",
+            "phonetic": "/ˈoʊʃn/",
+            "meaning": "海洋"
+          },
+          {
+            "word": "sunscreen",
+            "phonetic": "/ˈsʌnskriːn/",
+            "meaning": "防晒霜"
+          },
+          {
+            "word": "seashell",
+            "phonetic": "/ˈsiːʃel/",
+            "meaning": "贝壳"
+          },
+          {
+            "word": "swim",
+            "phonetic": "/swɪm/",
+            "meaning": "游泳"
+          }
+        ]
+      },
+      {
+        "id": "voa_035",
+        "title": "Lesson 35: Going Shopping",
+        "text_en": "I need to buy a winter coat.\nThese are our newest arrivals.\nThis one looks warm. What is it made of?\nIt is made of wool and is very warm.\nHow much is it?\nIt is on sale for one hundred twenty dollars.\nGreat, I will take it!",
+        "text_zh": "安娜：我需要买一件冬装外套。\n售货员：这些是我们的最新款。\n安娜：这件看起来很暖和。是什么材质？\n售货员：是羊毛的，非常保暖。\n安娜：多少钱？\n销售员：正在打折，120美元。\n安娜：太好了，我买了！",
+        "vocabulary": [
+          {
+            "word": "coat",
+            "phonetic": "/koʊt/",
+            "meaning": "外套"
+          },
+          {
+            "word": "wool",
+            "phonetic": "/wʊl/",
+            "meaning": "羊毛"
+          },
+          {
+            "word": "on sale",
+            "phonetic": "/ɒn seɪl/",
+            "meaning": "打折"
+          },
+          {
+            "word": "warm",
+            "phonetic": "/wɔːrm/",
+            "meaning": "温暖的"
+          }
+        ]
+      },
+      {
+        "id": "voa_036",
+        "title": "Lesson 36: Using a Computer",
+        "text_en": "Jonathan, can you help me with my computer?\nSure, what is the problem?\nThe internet is not working.\nLet me check the Wi-Fi connection.\nI need to send an email for my class.\nI fixed it. Try now.\nIt works! Thank you so much!",
+        "text_zh": "安娜：乔纳森，你能帮我看看电脑吗？\n乔纳森：当然，什么问题？\n安娜：网络连不上了。\n乔纳森：让我检查一下Wi-Fi连接。\n安娜：我需要为上课发一封邮件。\n乔纳森：我修好了。现在试试。\n安娜：可以了！非常感谢！",
+        "vocabulary": [
+          {
+            "word": "computer",
+            "phonetic": "/kəmˈpjuːtər/",
+            "meaning": "电脑"
+          },
+          {
+            "word": "internet",
+            "phonetic": "/ˈɪntərnet/",
+            "meaning": "网络"
+          },
+          {
+            "word": "connection",
+            "phonetic": "/kəˈnekʃn/",
+            "meaning": "连接"
+          },
+          {
+            "word": "email",
+            "phonetic": "/ˈiːmeɪl/",
+            "meaning": "邮件"
+          }
+        ]
+      },
+      {
+        "id": "voa_037",
+        "title": "Lesson 37: Talking About Weekend Plans",
+        "text_en": "What are you doing this weekend, Anna?\nI am going to visit the national monument.\nThat sounds like a great plan!\nYes, I want to learn more about American history.\nWould you like company? I can come with you.\nSure! We can take the tour together.\nI will meet you at the entrance at 10 AM.",
+        "text_zh": "皮特：安娜，这个周末你打算做什么？\n安娜：我要去参观国家纪念碑。\n皮特：听起来是个好计划！\n安娜：是的，我想多了解美国历史。\n皮特：需要人陪吗？我可以和你一起去。\n安娜：当然！我们可以一起参加导览。\n皮特：我早上十点在入口处等你。",
+        "vocabulary": [
+          {
+            "word": "weekend",
+            "phonetic": "/ˈwiːkend/",
+            "meaning": "周末"
+          },
+          {
+            "word": "monument",
+            "phonetic": "/ˈmɑːnjumənt/",
+            "meaning": "纪念碑"
+          },
+          {
+            "word": "tour",
+            "phonetic": "/tʊr/",
+            "meaning": "游览"
+          },
+          {
+            "word": "entrance",
+            "phonetic": "/ˈentrəns/",
+            "meaning": "入口"
+          }
+        ]
+      },
+      {
+        "id": "voa_038",
+        "title": "Lesson 38: At the Zoo",
+        "text_en": "Look at the elephants! They are so big.\nAnd the baby elephant is following its mother.\nWhat animals do you want to see next?\nI want to see the penguins.\nThe penguin exhibit is over there.\nPenguins are my favorite animals.\nThey are very cute when they walk.",
+        "text_zh": "安娜：看那些大象！它们真大。\n阿什利：小象正跟着妈妈。\n安娜：你接下来想看什么动物？\n阿什利：我想看企鹅。\n安娜：企鹅展区在那边。\n阿什利：企鹅是我最喜欢的动物。\n安娜：它们走路的时候很可爱。",
+        "vocabulary": [
+          {
+            "word": "elephant",
+            "phonetic": "/ˈelɪfənt/",
+            "meaning": "大象"
+          },
+          {
+            "word": "penguin",
+            "phonetic": "/ˈpeŋɡwɪn/",
+            "meaning": "企鹅"
+          },
+          {
+            "word": "exhibit",
+            "phonetic": "/ɪɡˈzɪbɪt/",
+            "meaning": "展区"
+          },
+          {
+            "word": "animal",
+            "phonetic": "/ˈænɪml/",
+            "meaning": "动物"
+          }
+        ]
+      },
+      {
+        "id": "voa_039",
+        "title": "Lesson 39: Learning English Tips",
+        "text_en": "Ms. Weaver: Anna, your English is improving fast!\nThank you. I practice every day.\nMs. Weaver: How do you practice?\nI watch English movies and listen to podcasts.\nMs. Weaver: That is a very good method.\nI also try to speak with native speakers.\nMs. Weaver: The more you practice, the better you become!",
+        "text_zh": "韦弗女士：安娜，你的英语进步很快！\n安娜：谢谢。我每天都在练习。\n韦弗女士：你是怎么练习的？\n安娜：我看英文电影和听播客。\n韦弗女士：这是个很好的方法。\n安娜：我也尽量和母语者交流。\n韦弗女士：练习越多，进步越快！",
+        "vocabulary": [
+          {
+            "word": "improving",
+            "phonetic": "/ɪmˈpruːvɪŋ/",
+            "meaning": "提高"
+          },
+          {
+            "word": "practice",
+            "phonetic": "/ˈpræktɪs/",
+            "meaning": "练习"
+          },
+          {
+            "word": "podcast",
+            "phonetic": "/ˈpɑːdkæst/",
+            "meaning": "播客"
+          },
+          {
+            "word": "method",
+            "phonetic": "/ˈmeθəd/",
+            "meaning": "方法"
+          }
+        ]
+      },
+      {
+        "id": "voa_040",
+        "title": "Lesson 40: Emergency!",
+        "text_en": "Help! I lost my wallet!\nCalm down. Where did you last have it?\nI think I left it at the café.\nLet's go back and check.\nYes, I hope they found it.\nLook, the waiter is holding something.\nThat is my wallet! What a relief!",
+        "text_zh": "安娜：救命！我的钱包丢了！\n皮特：冷静。你最后一次在哪里看到它？\n安娜：我想我落在咖啡馆了。\n皮特：我们回去看看。\n安娜：好的，希望他们捡到了。\n皮特：看，服务员拿着什么东西。\n安娜：是我的钱包！总算放心了！",
+        "vocabulary": [
+          {
+            "word": "wallet",
+            "phonetic": "/ˈwɒlɪt/",
+            "meaning": "钱包"
+          },
+          {
+            "word": "lost",
+            "phonetic": "/lɒst/",
+            "meaning": "丢失的"
+          },
+          {
+            "word": "relief",
+            "phonetic": "/rɪˈliːf/",
+            "meaning": "宽慰"
+          },
+          {
+            "word": "café",
+            "phonetic": "/kæˈfeɪ/",
+            "meaning": "咖啡馆"
+          }
+        ]
+      },
+      {
+        "id": "voa_041",
+        "title": "Lesson 41: Celebrating Thanksgiving",
+        "text_en": "Ms. Weaver: Anna, do you celebrate Thanksgiving in Jamaica?\nNo, this will be my first Thanksgiving!\nMs. Weaver: My family invites you to join us.\nThat is very kind! What should I bring?\nMs. Weaver: Just bring your appetite. We have turkey and pumpkin pie.\nI cannot wait to try it!\nMs. Weaver: Thanksgiving is about family and gratitude.",
+        "text_zh": "韦弗女士：安娜，你在牙买加过感恩节吗？\n安娜：不过，这将是我的第一个感恩节！\n韦弗女士：我的家人邀请你和我们一起过。\n安娜：太客气了！我应该带什么？\n韦弗女士：带你的胃口来就行。我们有火鸡和南瓜派。\n安娜：我等不及要尝了！\n韦弗女士：感恩节是关于家人和感恩的。",
+        "vocabulary": [
+          {
+            "word": "Thanksgiving",
+            "phonetic": "/θæŋksˈɡɪvɪŋ/",
+            "meaning": "感恩节"
+          },
+          {
+            "word": "turkey",
+            "phonetic": "/ˈtɜːrki/",
+            "meaning": "火鸡"
+          },
+          {
+            "word": "pumpkin pie",
+            "phonetic": "/ˈpʌmpkɪn paɪ/",
+            "meaning": "南瓜派"
+          },
+          {
+            "word": "gratitude",
+            "phonetic": "/ˈɡrætɪtuːd/",
+            "meaning": "感恩"
+          }
+        ]
+      },
+      {
+        "id": "voa_042",
+        "title": "Lesson 42: Talking About Music",
+        "text_en": "What kind of music do you listen to?\nI like many kinds. Right now, I am listening to jazz.\nJazz is great! Do you have a favorite musician?\nI love Miles Davis. What about you?\nI prefer classical music. Beethoven is my favorite.\nClassical music is relaxing too.\nMusic is a universal language.",
+        "text_zh": "乔纳森：你听什么类型的音乐？\n安娜：我喜欢很多类型。现在我在听爵士乐。\n乔纳森：爵士乐很棒！你有最喜欢的音乐家吗？\n安娜：我喜欢迈尔斯·戴维斯。你呢？\n乔纳森：我更喜欢古典音乐。贝多芬是我最喜欢的。\n安娜：古典音乐也很放松。\n乔纳森：音乐是一种通用语言。",
+        "vocabulary": [
+          {
+            "word": "jazz",
+            "phonetic": "/dʒæz/",
+            "meaning": "爵士乐"
+          },
+          {
+            "word": "classical",
+            "phonetic": "/ˈklæsɪkl/",
+            "meaning": "古典的"
+          },
+          {
+            "word": "musician",
+            "phonetic": "/mjuˈzɪʃn/",
+            "meaning": "音乐家"
+          },
+          {
+            "word": "universal",
+            "phonetic": "/ˌjuːnɪˈvɜːrsl/",
+            "meaning": "通用的"
+          }
+        ]
+      },
+      {
+        "id": "voa_043",
+        "title": "Lesson 43: At the Stadium",
+        "text_en": "Here we are! The stadium is huge.\nI have never been to a baseball game before.\nYou will love it. Baseball is very American.\nWhich team are we cheering for?\nThe home team, Washington Nationals.\nLook, the players are coming out!\nLet me buy us some hot dogs and peanuts.",
+        "text_zh": "皮特：我们到了！体育场真大。\n安娜：我从来没看过棒球比赛。\n皮特：你会喜欢的。棒球很美国。\n安娜：我们为哪队加油？\n皮特：主队，华盛顿国民队。\n安娜：看，球员出来了！\n皮特：我去买些热狗和花生。",
+        "vocabulary": [
+          {
+            "word": "stadium",
+            "phonetic": "/ˈsteɪdiəm/",
+            "meaning": "体育场"
+          },
+          {
+            "word": "baseball",
+            "phonetic": "/ˈbeɪsbɔːl/",
+            "meaning": "棒球"
+          },
+          {
+            "word": "team",
+            "phonetic": "/tiːm/",
+            "meaning": "队伍"
+          },
+          {
+            "word": "hot dog",
+            "phonetic": "/hɒt dɒɡ/",
+            "meaning": "热狗"
+          }
+        ]
+      },
+      {
+        "id": "voa_044",
+        "title": "Lesson 44: Giving a Presentation",
+        "text_en": "Ms. Weaver: Anna, it is your turn to give a presentation.\nI am a little nervous.\nMs. Weaver: Just take a deep breath and speak clearly.\nMy topic is about Jamaican culture.\nMs. Weaver: That sounds very interesting!\nI prepared some pictures to show.\nMs. Weaver: Great job, Anna! You did very well.",
+        "text_zh": "韦弗女士：安娜，轮到你了，做个演讲。\n安娜：我有点紧张。\n韦弗女士：深呼吸，说清楚就行。\n安娜：我的主题是关于牙买加文化。\n韦弗女士：听起来很有趣！\n安娜：我准备了一些图片展示。\n韦弗女士：做得好，安娜！你表现得很好。",
+        "vocabulary": [
+          {
+            "word": "presentation",
+            "phonetic": "/ˌpreznˈteɪʃn/",
+            "meaning": "演讲"
+          },
+          {
+            "word": "nervous",
+            "phonetic": "/ˈnɜːrvəs/",
+            "meaning": "紧张的"
+          },
+          {
+            "word": "culture",
+            "phonetic": "/ˈkʌltʃər/",
+            "meaning": "文化"
+          },
+          {
+            "word": "breathe",
+            "phonetic": "/briːð/",
+            "meaning": "呼吸"
+          }
+        ]
+      },
+      {
+        "id": "voa_045",
+        "title": "Lesson 45: Taking a Taxi",
+        "text_en": "Taxi! Are you available?\nYes, hop in. Where are you going?\nI need to go to Union Station.\nThat is about fifteen minutes away.\nHow much will it cost?\nAround twenty dollars, depending on traffic.\nThat is fine. Please take the fastest route.",
+        "text_zh": "安娜：出租车！有空吗？\n司机：有的，上车。去哪里？\n安娜：我要去联合车站。\n司机：大约十五分钟路程。\n安娜：大概多少钱？\n司机：二十美元左右，看交通情况。\n安娜：没问题。请走最快的路线。",
+        "vocabulary": [
+          {
+            "word": "taxi",
+            "phonetic": "/ˈtæksi/",
+            "meaning": "出租车"
+          },
+          {
+            "word": "station",
+            "phonetic": "/ˈsteɪʃn/",
+            "meaning": "车站"
+          },
+          {
+            "word": "traffic",
+            "phonetic": "/ˈtræfɪk/",
+            "meaning": "交通"
+          },
+          {
+            "word": "route",
+            "phonetic": "/ruːt/",
+            "meaning": "路线"
+          }
+        ]
+      },
+      {
+        "id": "voa_046",
+        "title": "Lesson 46: Talking About the Environment",
+        "text_en": "I want to help protect the environment.\nThat is great. What do you plan to do?\nI will start recycling and using less plastic.\nEvery small action helps.\nI also want to plant some trees.\nThere is a community garden event this weekend.\nLet's join together and make a difference!",
+        "text_zh": "安娜：我想帮助保护环境。\n乔纳森：太好了。你打算怎么做？\n安娜：我要开始回收利用，少用塑料。\n乔纳森：每一个小行动都有帮助。\n安娜：我还想种一些树。\n乔纳森：这周末有社区园艺活动。\n安娜：我们一起去，做出改变！",
+        "vocabulary": [
+          {
+            "word": "environment",
+            "phonetic": "/ɪnˈvaɪrənmənt/",
+            "meaning": "环境"
+          },
+          {
+            "word": "recycling",
+            "phonetic": "/ˌriːˈsaɪklɪŋ/",
+            "meaning": "回收"
+          },
+          {
+            "word": "plastic",
+            "phonetic": "/ˈplæstɪk/",
+            "meaning": "塑料"
+          },
+          {
+            "word": "community",
+            "phonetic": "/kəˈmjuːnəti/",
+            "meaning": "社区"
+          }
+        ]
+      },
+      {
+        "id": "voa_047",
+        "title": "Lesson 47: At the Pharmacy",
+        "text_en": "Excuse me, I need some medicine for a cold.\nDo you have a prescription?\nNo, I need something over the counter.\nThis cold medicine works well. Take it three times a day.\nDo you have any vitamin C?\nYes, right over here.\nThank you for your help.",
+        "text_zh": "安娜：打扰一下，我需要一些感冒药。\n药剂师：你有处方吗？\n安娜：没有，我需要一些非处方药。\n药剂师：这种感冒药效果很好。一天吃三次。\n安娜：有维生素C吗？\n药剂师：有的，就在这边。\n安娜：谢谢你的帮助。",
+        "vocabulary": [
+          {
+            "word": "pharmacy",
+            "phonetic": "/ˈfɑːrməsi/",
+            "meaning": "药房"
+          },
+          {
+            "word": "prescription",
+            "phonetic": "/prɪˈskrɪpʃn/",
+            "meaning": "处方"
+          },
+          {
+            "word": "vitamin",
+            "phonetic": "/ˈvaɪtəmɪn/",
+            "meaning": "维生素"
+          },
+          {
+            "word": "pharmacist",
+            "phonetic": "/ˈfɑːrməsɪst/",
+            "meaning": "药剂师"
+          }
+        ]
+      },
+      {
+        "id": "voa_048",
+        "title": "Lesson 48: Asking for Help",
+        "text_en": "Excuse me, can you help me?\nOf course. What is the matter?\nI cannot open this jar. It is too tight.\nLet me try. Sometimes you need to use force.\nBe careful not to spill it.\nGot it! Here you go.\nThank you! You are very strong!",
+        "text_zh": "安娜：打扰一下，你能帮我吗？\n乔纳森：当然。怎么了？\n安娜：我打不开这个罐子。太紧了。\n乔纳森：让我试试。有时候需要用点力。\n安娜：小心别洒了。\n乔纳森：打开了！给你。\n安娜：谢谢！你力气真大！",
+        "vocabulary": [
+          {
+            "word": "jar",
+            "phonetic": "/dʒɑːr/",
+            "meaning": "罐子"
+          },
+          {
+            "word": "tight",
+            "phonetic": "/taɪt/",
+            "meaning": "紧的"
+          },
+          {
+            "word": "force",
+            "phonetic": "/fɔːrs/",
+            "meaning": "力量"
+          },
+          {
+            "word": "spill",
+            "phonetic": "/spɪl/",
+            "meaning": "洒出"
+          }
+        ]
+      },
+      {
+        "id": "voa_049",
+        "title": "Lesson 49: Talking About Dreams",
+        "text_en": "Anna, what is your biggest dream?\nI want to travel around the world.\nThat is a wonderful dream!\nI want to visit Paris, Tokyo, and Cairo.\nI have been to Paris. It is beautiful.\nWhat places do you recommend?\nThe Eiffel Tower at night is magical.",
+        "text_zh": "皮特：安娜，你最大的梦想是什么？\n安娜：我想环游世界。\n皮特：那是个美好的梦想！\n安娜：我想去巴黎、东京和开罗。\n皮特：我去过巴黎。很美。\n安娜：你推荐什么地方？\n皮特：夜晚的埃菲尔铁塔很迷人。",
+        "vocabulary": [
+          {
+            "word": "dream",
+            "phonetic": "/driːm/",
+            "meaning": "梦想"
+          },
+          {
+            "word": "travel",
+            "phonetic": "/ˈtrævl/",
+            "meaning": "旅行"
+          },
+          {
+            "word": "world",
+            "phonetic": "/wɜːrld/",
+            "meaning": "世界"
+          },
+          {
+            "word": "recommend",
+            "phonetic": "/ˌrekəˈmend/",
+            "meaning": "推荐"
+          }
+        ]
+      },
+      {
+        "id": "voa_050",
+        "title": "Lesson 50: Farewell",
+        "text_en": "Ms. Weaver, I have some news.\nMs. Weaver: What is it, Anna?\nI got a job as a journalist! I will move to Chicago.\nMs. Weaver: Congratulations! I am so proud of you!\nThank you for teaching me English.\nMs. Weaver: You worked very hard. You deserve this.\nI will never forget this class.",
+        "text_zh": "安娜：韦弗女士，我有消息要告诉你。\n韦弗女士：什么事，安娜？\n安娜：我找到了一份记者工作！我要搬到芝加哥了。\n韦弗女士：恭喜你！我真为你骄傲！\n安娜：谢谢你教我英语。\n韦弗女士：你非常努力。这是你应得的。\n安娜：我永远不会忘记这个班。",
+        "vocabulary": [
+          {
+            "word": "news",
+            "phonetic": "/nuːz/",
+            "meaning": "消息"
+          },
+          {
+            "word": "congratulations",
+            "phonetic": "/kənˌɡrætʃuˈleɪʃnz/",
+            "meaning": "恭喜"
+          },
+          {
+            "word": "proud",
+            "phonetic": "/praʊd/",
+            "meaning": "骄傲的"
+          },
+          {
+            "word": "deserve",
+            "phonetic": "/dɪˈzɜːrv/",
+            "meaning": "应得"
+          }
+        ]
+      },
+      {
+        "id": "voa_051",
+        "title": "Lesson 51: Saying Goodbye to Friends",
+        "text_en": "I came to say goodbye, everyone.\nWe will miss you, Anna!\nYou are a great friend. Keep in touch!\nPlease send us postcards from Chicago.\nI will write to you all.\nMs. Weaver: Your English is excellent now. You are ready.\nThank you all for everything!",
+        "text_zh": "安娜：我来和大家道别。\n皮特：我们会想你的，安娜！\n阿什利：你是个好朋友。保持联系！\n乔纳森：请从芝加哥给我们寄明信片。\n安娜：我会给你们所有人写信的。\n韦弗女士：你的英语现在很好了。你准备好了。\n安娜：谢谢你们所做的一切！",
+        "vocabulary": [
+          {
+            "word": "goodbye",
+            "phonetic": "/ɡʊdˈbaɪ/",
+            "meaning": "再见"
+          },
+          {
+            "word": "miss",
+            "phonetic": "/mɪs/",
+            "meaning": "想念"
+          },
+          {
+            "word": "keep in touch",
+            "phonetic": "/kiːp ɪn tʌtʃ/",
+            "meaning": "保持联系"
+          },
+          {
+            "word": "postcard",
+            "phonetic": "/ˈpoʊstkɑːrd/",
+            "meaning": "明信片"
+          }
+        ]
+      },
+      {
+        "id": "voa_052",
+        "title": "Lesson 52: A New Beginning",
+        "text_en": "Here I am in Chicago! My new life begins.\nWelcome to the team, Anna!\nI am excited to start working.\nThe office is friendly. You will like it.\nI need to find an apartment. Any suggestions?\nThere are nice places near the lake.\nI have come so far. English opened this door for me.",
+        "text_zh": "安娜：我到芝加哥了！我的新生活开始了。\n同事：欢迎加入团队，安娜！\n安娜：我很兴奋开始工作。\n同事：办公室氛围很好。你会喜欢的。\n安娜：我需要找公寓。有什么建议吗？\n同事：湖附近有些不错的地方。\n安娜：我走了这么远。英语为我打开了这扇门。",
+        "vocabulary": [
+          {
+            "word": "beginning",
+            "phonetic": "/bɪˈɡɪnɪŋ/",
+            "meaning": "开始"
+          },
+          {
+            "word": "apartment",
+            "phonetic": "/əˈpɑːrtmənt/",
+            "meaning": "公寓"
+          },
+          {
+            "word": "suggestion",
+            "phonetic": "/səˈdʒestʃən/",
+            "meaning": "建议"
+          },
+          {
+            "word": "door",
+            "phonetic": "/dɔːr/",
+            "meaning": "门"
+          }
+        ]
+      }
+    ]
+  }
+}
