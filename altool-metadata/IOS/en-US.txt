@@ -1,0 +1,6 @@
+description=VocabApp is an efficient English vocabulary learning app covering CET4, CET6, Kaoyan, TOEFL, IELTS, GRE. CET4 is free. In-app purchase unlocks more: ¥12 for Mid-Tier (CET6+Kaoyan), ¥28 for all. Features include word roots, semantic groups, confusable words, and collocations — all fully offline.
+keywords=vocabulary,English,words,CET4,CET6,TOEFL,IELTS,GRE,word roots,offline
+supportUrl=https://maoliangliang.github.io/VocabApp/support.html
+promotionalText=
+marketingUrl=
+whatsNew=First release with CET4/CET6/Kaoyan/TOEFL/IELTS/GRE word banks. CET4 free, IAP for more. Features word roots, semantic groups, confusable words, collocations.

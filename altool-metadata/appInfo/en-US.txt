@@ -1,0 +1,3 @@
+name=VocabApp
+subtitle=Master 6 exam word banks
+privacyPolicyUrl=https://maoliangliang.github.io/VocabApp/privacy.html

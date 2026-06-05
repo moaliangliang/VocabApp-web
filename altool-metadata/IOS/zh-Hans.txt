@@ -1,0 +1,6 @@
+description=词汇通是一款高效英语词汇学习应用，覆盖 CET4、CET6、考研、TOEFL、IELTS、GRE 等主流考试词库。CET4 免费使用，内购解锁更多词库：¥12 解锁中阶（CET6+考研），¥28 解锁全部词库。内置词根词缀、语义联想、易混词辨析、搭配词典等辅助工具，完全离线运行。
+keywords=英语单词,背单词,词汇,CET4,CET6,考研英语,托福,雅思,GRE,词根,英语学习
+supportUrl=https://maoliangliang.github.io/VocabApp/support.html
+promotionalText=
+marketingUrl=
+whatsNew=首个版本，支持 CET4/CET6/考研/TOEFL/IELTS/GRE 六大词库。CET4 免费，内购解锁更多。含词根词缀、语义联想、易混词辨析等功能。
