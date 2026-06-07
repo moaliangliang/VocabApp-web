@@ -43,7 +43,7 @@
 
 如果您对本隐私政策有任何疑问，请通过以下方式联系我们：
 
-- 电子邮件：maoliangliang@example.com
+- 电子邮件：jiayuhua89@icloud.com
 - GitHub：https://github.com/maoliangliang
 
 ---
@@ -71,4 +71,4 @@ This app uses no third-party services, SDKs, or analytics tools.
 
 ## Contact
 
-If you have any questions, contact us at: maoliangliang@example.com
+If you have any questions, contact us at: jiayuhua89@icloud.com
